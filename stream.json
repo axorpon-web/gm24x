@@ -25,5 +25,12 @@
       "player": "pl2",
       "stream_link": "willow"
     }
+  ],
+  "burnley-vs-liverpool": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
+    }
   ]
 }
