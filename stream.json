@@ -11,9 +11,9 @@
       "stream_link": "astro"
     },
     {
-      "name": "m3u8 Live",
-      "player": "pl1",
-      "stream_link": "ml"
+      "name": "Astro IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://lv.hexvai56.workers.dev/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GAiYyVzZaJDxaBj8L/index.m3u8"
     },
     {
       "name": "Willow Cricket",
@@ -21,9 +21,9 @@
       "stream_link": "willow"
     },
     {
-      "name": "Willow xtra",
-      "player": "pl2",
-      "stream_link": "willow"
+      "name": "Ten 3",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8"
     }
   ],
   "burnley-vs-liverpool": [
