@@ -31,6 +31,11 @@
       "name": "Fubo Tv",
       "player": "pl1",
       "stream_link": "fubo"
+    },
+    {
+      "name": "USA Network",
+      "player": "pl2",
+      "stream_link": "usa1"
     }
   ]
 }
