@@ -11,7 +11,7 @@
       "stream_link": "astro"
     },
     {
-      "name": "Astro Cricket - IOS",
+      "name": "Astro Ios",
       "player": "pl1",
       "stream_link": "ml"
     },
@@ -36,11 +36,6 @@
       "name": "Sky Sports ",
       "player": "pl2",
       "stream_link": "usa1"
-    },
-    {
-      "name": "Sky Sports IOS",
-      "player": "pl2",
-      "stream_link": "s11"
     }
   ],
   "manchester-city-vs-manchester-united": [
