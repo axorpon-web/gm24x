@@ -1,18 +1,5 @@
 [
   {
-    "id": "guyana-amazon-warriors-vs-antigua-and-barbuda-falcons",
-    "team1": {
-      "name": "Guyana Amazon Warriors",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/guyana-amazon-warriors.png"
-    },
-    "team2": {
-      "name": "Antigua and Barbuda Falcons",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/antigua-and-barbuda.png"
-    },
-    "matchTime": "2025-09-10T23:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "india-vs-pakistan",
     "team1": {
       "name": "India",
@@ -23,45 +10,6 @@
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
     },
     "matchTime": "2025-09-14T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "pakistan-women-vs-south-africa-women",
-    "team1": {
-      "name": "Pakistan Women",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-women.png"
-    },
-    "team2": {
-      "name": "South Africa Women",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa-women.png"
-    },
-    "matchTime": "2025-09-16T04:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "trinbago-knight-riders-vs-barbados-royals",
-    "team1": {
-      "name": "Trinbago Knight Riders",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/trinbago-knight-riders.png"
-    },
-    "team2": {
-      "name": "Barbados Royals",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/barbados-tridents-cricket.png"
-    },
-    "matchTime": "2025-09-12T23:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "altruistian-vs-talanoa-tigers",
-    "team1": {
-      "name": "Altruistian",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/altruistian.png"
-    },
-    "team2": {
-      "name": "Talanoa Tigers",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/talanoa-tigers.png"
-    },
-    "matchTime": "2025-09-11T07:45:00.000Z",
     "endTime": ""
   }
 ]
