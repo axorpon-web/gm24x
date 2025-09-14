@@ -50,5 +50,18 @@
     },
     "matchTime": "2025-09-12T23:00:00+00:00",
     "endTime": ""
+  },
+  {
+    "id": "altruistian-vs-talanoa-tigers",
+    "team1": {
+      "name": "Altruistian",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/altruistian.png"
+    },
+    "team2": {
+      "name": "Talanoa Tigers",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/talanoa-tigers.png"
+    },
+    "matchTime": "2025-09-11T07:45:00+00:00",
+    "endTime": ""
   }
 ]
