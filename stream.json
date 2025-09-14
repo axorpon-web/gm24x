@@ -53,6 +53,11 @@
       "name": "fubo sports",
       "player": "pl1",
       "stream_link": "fubo"
+    },
+    {
+      "name": "Peacock",
+      "player": "pl1",
+      "stream_link": "ppc"
     }
   ],
   "paris-saint-germain-vs-lens": [
