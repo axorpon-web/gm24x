@@ -34,12 +34,5 @@
       "player": "pl1",
       "stream_link": "fubo"
     }
-  ],
-  "barcelona-vs-valencia": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
-    }
   ]
 }
