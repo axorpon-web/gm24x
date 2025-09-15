@@ -1,9 +1,19 @@
 {
   "united-arab-emirates-vs-oman": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 4",
+      "player": "pl1",
+      "stream_link": "wqK73r/6Y8fE5w7zyClmOw/c7/jUoAfJBDHCQExCUehgtG0dc3Jk3/AwMugEK5zTJE75Q8RjFTC1kQ2z1ESB66vUvDOCc2gXPNpbOyLYxmUgXfKIydlsgdPZYVsTkuRlrU6NvCgKkKx8V6PflLHfKpH8FESkNTFi8H/sCBXJeDPssT2G52FQOrEPAnOvVZq6PRUMdhcK2j6mAOLKNCnfVQtk217t87pjr1saubdgMFL4duCmoBvqaAk5eNN1lJ2IobU81zyzTr2CkS5bQQshscSMx6vjsZsajdkKIFIRFpCSkVhDqLoVwCUpOVTBLKTm"
+    },
+    {
+      "name": "Astro Cricket",
+      "player": "pl1",
+      "stream_link": "wqK73r/6Y8fE5w7zyClmO0VHssP5MTt4ggeYDVA57YItd4LkOV3xz+3f/SROxFc+Z7mn9Lc7wIZtiuYmsylTDIEqx0V+HpeJmS7ARec7EZllsdIY2uCEy4zzDNZFlFoGDD/5GjOpxbB9jLTIqPbhATJBJ967obptRH/NUx1Sj+dDynV5725Kt2/Sl2RfUPFCCHcxoO6GCDLPgqpaFP0VXLktXGC9gKe+zH2TqD7zto3ZF2cCTRu2+4bgb2OpwkVWA/9PWrDj/Q91cTdfCWjOtdY+GIOOH7HxLVQujFqM2JA48TILScPKq8knxj/eEnKz"
+    },
+    {
+      "name": "Fox501 IOS",
       "player": "f1",
-      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
+      "stream_link": "https://cricketstan.github.io/Sony-Liv/"
     }
   ],
   "barcelona-vs-valencia": [
