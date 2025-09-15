@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "united-arab-emirates-vs-oman",
+    "team1": {
+      "name": "United Arab Emirates",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/uae-cricket.png"
+    },
+    "team2": {
+      "name": "Oman",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/oman-cricket.png"
+    },
+    "matchTime": "2025-09-15T12:00:00+00:00",
+    "endTime": ""
+  }
+]
