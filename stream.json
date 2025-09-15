@@ -48,6 +48,11 @@
       "name": "Willow",
       "player": "pl1",
       "stream_link": "wqK73r/6Y8fE5w7zyClmO2b54iW8UI0pCnEMJZtdFqpmgqPbCIFNHm6zJ12zyvvi9IpDqzHlylYxZmaIMguLGhyrbKCpxzqv2hizjlKX3SCm+m2xX3gTy6K9oU5GV6YM7dxjIIPaUaLgegmgqvaSQXrUq54+P/ooB53i7KdlX961k16uOlFLjuR88QXbUkhN2jU5KDtxKH/uUtKl2o6p8FkGPg6lHrpb++UrlmOMAxoZ92gCnGTbJ2fCIK4Vb71YvXeVaxdoQVA0cl2OyVpthvyEzlHsBm013lnsLtxqPXglIXJlStS1O0sHr2+q3dfZhUHGUyaTk+VFrWk2z019fB9J3PtERZiVL2HO5Tc2jT24mY42kpCeDn1S8nIrQTJtBTsjOaSJC39JwNCM/EucMw=="
+    },
+    {
+      "name": "Ten 3 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8"
     }
   ]
 }
