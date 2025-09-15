@@ -9,18 +9,22 @@
     "barcelona-vs-valencia": [
         {
             "name": "LaLiga Tv",
+            "player": "f1",
             "stream_link": "https://dash-hex.pages.dev/g24x?id=lltv"
         },
         {
             "name": "Sky LaLiga",
+            "player": "f1",
             "stream_link": "https://dash-hex.pages.dev/g24x?id=sl"
         },
         {
             "name": "Fancode",
+            "player": "f1",
             "stream_link": "https://dash-hex.pages.dev/g24x?id=fc"
         },
         {
             "name": "Arena Sport 3 IOS",
+            "player": "f1",
             "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportstvnow.org/games/stream1/"
         }
     ]
