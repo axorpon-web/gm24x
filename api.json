@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-09-14T13:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "manchester-city-vs-manchester-united",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "matchTime": "2025-09-14T15:30:00.000Z",
-    "endTime": ""
   }
 ]
