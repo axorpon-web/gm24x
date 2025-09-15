@@ -37,5 +37,18 @@
     },
     "matchTime": "2025-09-15T19:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "bangladesh-vs-afghanistan",
+    "team1": {
+      "name": "Bangladesh",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
+    },
+    "team2": {
+      "name": "Afghanistan",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
+    },
+    "matchTime": "2025-09-16T14:30:00+00:00",
+    "endTime": ""
   }
 ]
