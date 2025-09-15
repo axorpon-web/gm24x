@@ -37,18 +37,5 @@
     },
     "matchTime": "2025-09-14T15:15:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "barcelona-vs-valencia",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
-    },
-    "matchTime": "2025-09-14T19:00:00.000Z",
-    "endTime": ""
   }
 ]
