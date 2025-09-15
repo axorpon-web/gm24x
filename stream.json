@@ -15,17 +15,5 @@
       "player": "pl1",
       "stream_link": "s11"
     }
-  ],
-  "manchester-city-vs-manchester-united": [
-    {
-      "name": "fubo sports",
-      "player": "pl1",
-      "stream_link": "fubo"
-    },
-    {
-      "name": "Peacock",
-      "player": "pl1",
-      "stream_link": "ppc"
-    }
   ]
 }
