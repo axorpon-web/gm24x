@@ -10,17 +10,17 @@
         {
             "name": "LaLiga Tv",
             "player": "f1",
-            "stream_link": "https://dash-hex.pages.dev/g24x?id=lltv"
+            "stream_link": "https://dash-hex.pages.dev/oplay?id=lltv"
         },
         {
             "name": "Sky LaLiga",
             "player": "f1",
-            "stream_link": "https://dash-hex.pages.dev/g24x?id=sl"
+            "stream_link": "https://dash-hex.pages.dev/oplay?id=sl"
         },
         {
             "name": "Fancode",
             "player": "f1",
-            "stream_link": "https://dash-hex.pages.dev/g24x?id=fc"
+            "stream_link": "https://dash-hex.pages.dev/oplay?id=fc"
         },
         {
             "name": "Arena Sport 3 IOS",
