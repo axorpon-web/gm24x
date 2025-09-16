@@ -40,12 +40,17 @@
       "stream_link": "wqK73r/6Y8fE5w7zyClmO0VHssP5MTt4ggeYDVA57YItd4LkOV3xz+3f/SROxFc+Z7mn9Lc7wIZtiuYmsylTDIEqx0V+HpeJmS7ARec7EZllsdIY2uCEy4zzDNZFlFoGDD/5GjOpxbB9jLTIqPbhATJBJ967obptRH/NUx1Sj+dDynV5725Kt2/Sl2RfUPFCCHcxoO6GCDLPgqpaFP0VXLktXGC9gKe+zH2TqD7zto3ZF2cCTRu2+4bgb2OpwkVWA/9PWrDj/Q91cTdfCWjOtdY+GIOOH7HxLVQujFqM2JA48TILScPKq8knxj/eEnKz"
     },
     {
+      "name": "Willow",
+      "player": "pl1",
+      "stream_link": "wqK73r/6Y8fE5w7zyClmO2b54iW8UI0pCnEMJZtdFqpmgqPbCIFNHm6zJ12zyvvi9IpDqzHlylYxZmaIMguLGhyrbKCpxzqv2hizjlKX3SCm+m2xX3gTy6K9oU5GV6YM7dxjIIPaUaLgegmgqvaSQXrUq54+P/ooB53i7KdlX97cdSQbxr9Jva4PyKhrEfRJ3ToxQ9Xk9/EfowsfJd9SDlRUMopNKs66aKg/nQx9iHeI6III1NoRbacyTJV0mf9F0f2Ud14PfPf/+w4+PntJ6ZTR+v5F6+HMv1eTx9cYNNeuc+x1AbQxh+/HpCx4uq1vR8n9NUvUy9S/i4gGVXrp8xV1fOLGePfaS7KFW7D52KnJl+jsGh1MQX/ZdsGbrlKlmXCDrWIuJYYjui5UXjJnXA=="
+    },
+    {
       "name": "TNT 3 IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://xiv.hexvai56.workers.dev/uk-tntsport3.m3u8?auth_key=1758031847-ebf964dddc2a255763bff68d05e3162a-00000000000000000000000000000000-165e9b88c1a039ab187bfe3a4a56046a&__PROXY_IDENTIFIER__=true"
     },
     {
-      "name": "willow",
+      "name": "Willow IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://lv.hexvai56.workers.dev/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBxwyVzZaJDxaBj8L/index.m3u8"
     }
