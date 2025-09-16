@@ -1,18 +1,5 @@
 [
   {
-    "id": "bangladesh-vs-afghanistan",
-    "team1": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "team2": {
-      "name": "Afghanistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
-    },
-    "matchTime": "2025-09-16T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-madrid-vs-marseille",
     "team1": {
       "name": "Real Madrid",
