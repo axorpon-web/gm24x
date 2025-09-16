@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "espanyol-vs-mallorca",
-    "team1": {
-      "name": "Espanyol",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png"
-    },
-    "team2": {
-      "name": "Mallorca",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bE7wfVD_uxZOlicMBWmmX.png"
-    },
-    "matchTime": "2025-09-15T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "bangladesh-vs-afghanistan",
     "team1": {
       "name": "Bangladesh",
