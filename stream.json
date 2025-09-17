@@ -14,6 +14,16 @@
       "name": "IOS",
       "player": "pl2",
       "stream_link": "wqK73r/6Y8fE5w7zyClmO8pedp0KR46k6DAw6enrzIhX8KjkDUfjfUw06b0kVU6rZ437xwgreIaPyp9gA30QJjOmmvJNnyjAMpelFnMRM5NuddqmqYcSMNz1tXC762pTIAb3ODDjb0SoqAjZIo+qLzYdmGPHyJLyHQHtyHAdzzKBFx6RUXv68yuq6KlpspsAi2AvHLs8fTTfUEbH6JsYJWQptJInB+fXHgk98lsu+bPDI//+x4kO9ahCFutqA8XB"
+    },
+    {
+      "name": "IOS 2",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://g2.hexvai56.workers.dev/Asia017/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "IOS 3",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://g2.hexvai56.workers.dev/SiHi017/tracks-v1a1/mono.m3u8"
     }
   ]
 }
