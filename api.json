@@ -37,5 +37,18 @@
     },
     "matchTime": "2025-09-17T19:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "bayern-munich-vs-chelsea",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "matchTime": "2025-09-17T19:00:00.000Z",
+    "endTime": ""
   }
 ]
