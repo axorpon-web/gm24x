@@ -1,18 +1,5 @@
 [
   {
-    "id": "pakistan-vs-united-arab-emirates",
-    "team1": {
-      "name": "Pakistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
-    },
-    "team2": {
-      "name": "United Arab Emirates",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/uae-cricket.png"
-    },
-    "matchTime": "2025-09-17T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "paris-saint-germain-vs-atalanta",
     "team1": {
       "name": "Paris Saint-Germain",
