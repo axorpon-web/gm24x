@@ -1,19 +1,9 @@
 {
   "newcastle-united-vs-barcelona": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
-    },
-    {
-      "name": "TNT SPORTS 1",
+      "name": "TNT SPORTS 2",
       "player": "pl1",
-      "stream_link": "yKgOgLgZkuzTyH/K3MFp5KgtyZFF1nY9kO5SuOd1vVMFC2Pz/ANkHsCeHFMAiSS2j6nYidAr0iBzKeoWjUAcOgV+sW4WMYC5yNJT/GSGkiZhdFetz5ra9nHTcxyR9jm6AvVvkjN0xMvSHjyUwxNMmcB9gI8V2bxhcKYkqmD1MFia81LTn61V1ttVqag9kuxY3zlipqH7rATXGWnceH4+lEyRXCJcoIBYxTwuSKkf+KOOkfMoFqaItX1VAc7ADJnvk0YM6K//Sn3Z1RHYP1Y597ou9mWeAhwD4vGWkceuXM0TXQooKcmAJcHgK4qDy/jlBK3xhM83978kx4F7tOCBhSaDeFhFTXx8l8ZzgFuR7wovKQXqu6oZEc8uHwbN1tjLIgbtMQfI2IxE2qULuawqLzfOk4il13ES8tXKr9Fd2aWls5foNvrXIFxIeAhmsdYI"
-    },
-    {
-      "name": "Spectrum SportsNet USA (CH-982)",
-      "player": "pl2",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmO/4qba1dIpvvteLPwT62EX54zVMVTUdpkDV1W4XfEX6fmF7mjynWUIS+HdvuqzAYmsrMyf8P0K4ezGhAZivkZYLAEH8opliGkxIWdOf+k7d4AFGEvgy72BMMvNzSvq51S06fuo0UTW85kHbBK9OUd9tKNaRBA4b9ro06FwtENK363rHIZxoJbZAB7GMfhCBIupx2LbuycwrP5+wtZCAs23Y="
+      "stream_link": "wqK73r/6Y8fE5w7zyClmOw/c7/jUoAfJBDHCQExCUehgtG0dc3Jk3/AwMugEK5zTJE75Q8RjFTC1kQ2z1ESB6x8soi45givorOkNXmEeTmv/V100K2jm/Ep9y4Qv8S/3oit5MzuysukotElG3DyOCLTTfdrbxCSNzaeCNy3PVe6GrlIGhMnWkFjwi3Uxh+IvgSWiRjAzcvIl3tCV7oiTHlSqDOuY/NbjkWb/OvTczm79Ns0XoBEn2X3e08qz9Sesn1D9X6VyXQPDIKvggRnc2aRm4EnGbkbT+ykqK7wXSDrqlo/dINCyRxGQRXbl7EaB"
     }
   ],
   "manchester-city-vs-ssc-napoli": [
