@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-09-18T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "sri-lanka-vs-afghanistan",
-    "team1": {
-      "name": "Sri Lanka",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/sri-lanka-cricket.png"
-    },
-    "team2": {
-      "name": "Afghanistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
-    },
-    "matchTime": "2025-09-18T14:30:00.000Z",
-    "endTime": ""
   }
 ]
