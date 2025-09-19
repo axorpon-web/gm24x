@@ -1,18 +1,5 @@
 [
   {
-    "id": "newcastle-united-vs-barcelona",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2025-09-18T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "manchester-city-vs-ssc-napoli",
     "team1": {
       "name": "Manchester City",
