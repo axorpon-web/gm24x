@@ -1,18 +1,5 @@
 [
   {
-    "id": "ireland-vs-england",
-    "team1": {
-      "name": "Ireland",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/ireland-cricket.png"
-    },
-    "team2": {
-      "name": "England",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/england-cricket.png"
-    },
-    "matchTime": "2025-09-19T18:00:00.000",
-    "endTime": ""
-  },
-  {
     "id": "india-vs-oman",
     "team1": {
       "name": "India",
