@@ -13,9 +13,14 @@
       "stream_link": "wqK73r/6Y8fE5w7zyClmOw/c7/jUoAfJBDHCQExCUehgtG0dc3Jk3/AwMugEK5zTJE75Q8RjFTC1kQ2z1ESB60yGRAPauiT/0gelalXUS9CmWbGEbuF5PRikw/D/iopaIvYA6V7+p7moLv9xXh/LK8VZ5JdTItPQ3OURWZRhNItZKj+PkgwBkh5SBhguGoYzbPV80w3VqINa2DccEPYE81yWpSxg8INTz+engZva9DwfBekSnTVVlMNLq8KQnq+vwKxrrGKnKPhBkCTjBLr0KRww0UO+i+BAZJImG1RbtgQv8ZixNGmUwBOeL0oV+MvK"
     },
     {
-      "name": "Astro Cricket",
-      "player": "pl2",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmO0VHssP5MTt4ggeYDVA57YItd4LkOV3xz+3f/SROxFc+Z7mn9Lc7wIZtiuYmsylTDIEqx0V+HpeJmS7ARec7EZllsdIY2uCEy4zzDNZFlFoGDD/5GjOpxbB9jLTIqPbhATJBJ967obptRH/NUx1Sj+dDynV5725Kt2/Sl2RfUPFCCHcxoO6GCDLPgqpaFP0VXLktXGC9gKe+zH2TqD7zto3ZF2cCTRu2+4bgb2OpwkVWA/9PWrDj/Q91cTdfCWjOtdY+GIOOH7HxLVQujFqM2JA48TILScPKq8knxj/eEnKz"
+      "name": "Astro Cricket IOS",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/p?p=https://lv.hexvai56.workers.dev/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GAiYyVzZaJDxaBj8L/index.m3u8"
+    },
+    {
+      "name": "Fox IOS",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/p?p=https://lv.hexvai56.workers.dev/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8GAREyVzZaJDxaBj8L/index.m3u8"
     }
   ]
 }
