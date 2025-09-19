@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "ireland-vs-england",
+    "team1": {
+      "name": "Ireland",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/ireland-cricket.png"
+    },
+    "team2": {
+      "name": "England",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/england-cricket.png"
+    },
+    "matchTime": "2025-09-21T12:30:00+00:00",
+    "endTime": ""
+  }
+]
