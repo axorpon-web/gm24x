@@ -15,12 +15,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_liverpool/index.m3u8"
     },
-     {
+    {
       "name": " TNT Sports IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTExODEzMC9pbmRleC5tM3U4P0RWUiZ0b2tlbj0zYTk3YjcyZGE3NWIxMmE4ZWRhYWI0MjhmYzU1OWU2ZWFkM2QyNDBmLThjOTgyYjNkNzgwOTRiMDgwZTE3OTBlOWUzNDdiNWI3LTE3NTgzNzgxMDMtMTc1ODM2NzMwMyZhdXRvcGxheT10cnVl"
     },
-     {
+    {
       "name": " USA Network IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTMwYjYyMzczNmY5MzkyMzI0OTRmMzJlNzJkZDI2MTJkMDA0Y2E0ZmQtNjkyOGQwZmViNTBmYTRhZWIyM2M3OWQ3ZTQxZDNmNjEtMTc1ODM3ODEwMy0xNzU4MzY3MzAzJmF1dG9wbGF5PXRydWU%3D"
@@ -41,6 +41,13 @@
     }
   ],
   "manchester-united-vs-chelsea": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
+    }
+  ],
+  "real-madrid-vs-espanyol": [
     {
       "name": "Server 1",
       "player": "f1",
