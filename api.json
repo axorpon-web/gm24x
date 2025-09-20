@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "sri-lanka-vs-bangladesh",
-    "team1": {
-      "name": "Sri Lanka",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/sri-lanka-cricket.png"
-    },
-    "team2": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-09-20T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "fulham-vs-brentford",
     "team1": {
       "name": "Fulham",
