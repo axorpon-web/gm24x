@@ -28,14 +28,19 @@
   ],
   "west-ham-vs-crystal-palace": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "wqK73r/6Y8fE5w7zyClmOweO1FhiZwM3COotJv2/zREGduLMvoTbt+tUXfjFDOJwfBwikJDMCbYYdOm+sIsYrv5qBLPnlokPwGNv5XOO63wLQs3PQ4SxXRh6648v93OI7nPH3N1jUOuwNRzaZ4h+U8b55tTCWjbYXwXxejuxBhfpQhMMx4iL3k/hANho2yNHj0eyT7dlxM6dYXae/BPHPoT1IDUHF9+3Ga0W3eLrm6o+w2IWw57tcIqD4RoEQ7xsjtPcPlqxGOU2xYLzMnro7vsAi5sh/NtJdjPKDVyCcnA="
     },
     {
-      "name": "Premier League",
+      "name": "Fubo Sports ",
       "player": "pl1",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmO/Ug0iecFeY8Pw4dsfJrliLWyv05N6UCTh8q9CLfhpD2ezN70LsPDvhPJpRaU3UId0cyVaggAV5yPOtJ6YMmQeA="
+      "stream_link": "wqK73r/6Y8fE5w7zyClmO0o/nwrNJppKQhvGfg2RVQiSwhiKTVeJPXOnLVFn6tIUmz1VOyjb8x0Y1WSHI5dirobbybWuV9qFol3vfaFWG7WakW3Rz/omaNYYoqWBP8/RbrXWGBophUnAWBucwO12xmE8plFq4rmqFZ0io+m9RcNpvE2ZKJGY7AyOx4uNPidEOx2m7twsZTDv9i92/nIuSt+uJSANu3uGbVSdd6XxYpD0B6TZoTRqavFNvS7Dul8OO+Mtu1ToVIyT5usjNM2sviqODkXv7f5kj4ec3kLQNQKcn/5N4ApOhpyOQdjeowfH"
+    },
+    {
+      "name": "New Server",
+      "player": "f1",
+      "stream_link": "x"
     }
   ],
   "brighton-vs-tottenham": [
