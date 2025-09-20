@@ -63,5 +63,18 @@
     },
     "matchTime": "2025-09-20T14:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "hoffenheim-vs-bayern-munich",
+    "team1": {
+      "name": "Hoffenheim",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1K9pUTQXHjmhK2eBCZumq.png"
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
+    },
+    "matchTime": "2025-09-20T13:30:00.000Z",
+    "endTime": ""
   }
 ]
