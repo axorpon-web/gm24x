@@ -16,28 +16,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_west-ham/index.m3u8"
     }
   ],
-  "brighton-vs-tottenham": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_brighton/index.m3u8"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTg5L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWEzYzYyMGFiMzMwM2E2OTE0YTUwZWQzOTUxNTcxNTEyYWNjMWM0ZDItYzk4NjkwODhhNzFiMzY1YWMyOTEzN2JlMTA0NmQxZDAtMTc1ODM4NjQ3Mi0xNzU4Mzc1NjcyJmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Server 3",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vODQ1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTNmNmUwODUxZTMwMmQ0MzUzNzZmOTAyOTk4MTUxNWFkMmNhMTUxZTUtYjEzM2U3MmY3OTRiYzA4NjdlMGNjZDIzNGU5MjFjOGItMTc1ODM4NjQ3My0xNzU4Mzc1NjczJmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Server 4",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://hls.suanzsd6.com/sd-6MuTNFj7c4LUbx3JCX.m3u8?txSecret=656cab3b4ef302f471e0b6011ab04be4&txTime=68CFE7E6"
-    }
-  ],
   "manchester-united-vs-chelsea": [
     {
       "name": "Server 1",
