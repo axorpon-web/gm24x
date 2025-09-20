@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "brighton-vs-tottenham",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-09-20T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "manchester-united-vs-chelsea",
     "team1": {
       "name": "Manchester United",
