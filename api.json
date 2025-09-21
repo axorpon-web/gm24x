@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-09-21T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "india-vs-pakistan",
-    "team1": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
-    },
-    "team2": {
-      "name": "Pakistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
-    },
-    "matchTime": "2025-09-21T14:30:00.000Z",
-    "endTime": ""
   }
 ]
