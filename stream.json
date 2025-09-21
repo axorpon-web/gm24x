@@ -10,5 +10,12 @@
       "player": "f1",
       "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
     }
+  ],
+  "barcelona-vs-getafe": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
+    }
   ]
 }
