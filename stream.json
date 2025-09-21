@@ -30,6 +30,11 @@
   ],
   "india-vs-pakistan": [
     {
+      "name": "Sliv IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
+    },
+    {
       "name": "Willow",
       "player": "pl2",
       "stream_link": "wqK73r/6Y8fE5w7zyClmOxFd5D4zPnknTZQzvz0FDgWBb5LL3OmQY/7yJEmf9GkVOKpb4mLN7ynx2sx5lHM6zrvlKV7SdVwFhoXb4tnrG1j9MbBLg4jUmS9g3vknDd7x+6Kccw7LCpYpBYFMFp3veAVutS1mjBzWiud586Sepqk+LuXzVN45elnlNhLz8LC7hTn8vr3gJmvJh3+SrBHnr0SfYjJy19hW7n3eCD7pbaWHarjP0/LwTv9RsWeUNRbvabsIR1V+g92mDdYh/YT/TjAaqnnovPtFlwo5QrwI54KBjdwBSRJLQP7QEiM9zCvN"
@@ -43,11 +48,6 @@
       "name": "Astro Cricket",
       "player": "pl1",
       "stream_link": "wqK73r/6Y8fE5w7zyClmO0VHssP5MTt4ggeYDVA57YItd4LkOV3xz+3f/SROxFc+Z7mn9Lc7wIZtiuYmsylTDIEqx0V+HpeJmS7ARec7EZllsdIY2uCEy4zzDNZFlFoGDD/5GjOpxbB9jLTIqPbhATJBJ967obptRH/NUx1Sj+dDynV5725Kt2/Sl2RfUPFCCHcxoO6GCDLPgqpaFP0VXLktXGC9gKe+zH2TqD7zto3ZF2cCTRu2+4bgb2OpwkVWA/9PWrDj/Q91cTdfCWjOtdY+GIOOH7HxLVQujFqM2JA48TILScPKq8knxj/eEnKz"
-    },
-    {
-      "name": "Sliv IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
     },
     {
       "name": "Hindi IOS",
