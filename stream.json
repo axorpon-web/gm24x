@@ -9,6 +9,11 @@
       "name": "New Server",
       "player": "f1",
       "stream_link": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8"
+    },
+    {
+      "name": "Test",
+      "player": "pl2",
+      "stream_link": "wqK73r/6Y8fE5w7zyClmOweO1FhiZwM3COotJv2/zREGduLMvoTbt+tUXfjFDOJwfBwikJDMCbYYdOm+sIsYrv5qBLPnlokPwGNv5XOO63wLQs3PQ4SxXRh6648v93OI7nPH3N1jUOuwNRzaZ4h+U6vK5mBuu6iky500Y1J7z2BHmrbziMJkudWvoZc1q0bzkK3kCZBnJsFmrZWnWxcpyehnjoakPWHpBFGjm9nskQoqsaRYwrOyMr6AY9KSwID1"
     }
   ]
 }
