@@ -1,14 +1,1 @@
-{
-  "ssc-napoli-vs-pisa": [
-    {
-      "name": "USA NETWORK ",
-      "player": "pl1",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmOweO1FhiZwM3COotJv2/zREGduLMvoTbt+tUXfjFDOJwfBwikJDMCbYYdOm+sIsYrv5qBLPnlokPwGNv5XOO63wLQs3PQ4SxXRh6648v93OI7nPH3N1jUOuwNRzaZ4h+U8b55tTCWjbYXwXxejuxBhfpQhMMx4iL3k/hANho2yNHj0eyT7dlxM6dYXae/BPHPoT1IDUHF9+3Ga0W3eLrm6o+w2IWw57tcIqD4RoEQ7xsjtPcPlqxGOU2xYLzMnro7vsAi5sh/NtJdjPKDVyCcnA="
-    },
-    {
-      "name": "New Server",
-      "player": "f1",
-      "stream_link": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8"
-    }
-  ]
-}
+{}
