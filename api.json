@@ -1,18 +1,5 @@
 [
   {
-    "id": "marseille-vs-paris-saint-germain",
-    "team1": {
-      "name": "Marseille",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TfCYJcvUxclSXllxaoiBQ.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2025-09-22T18:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "2025-Ballondor",
     "team1": {
       "name": "2025 Ballon d'Or",
