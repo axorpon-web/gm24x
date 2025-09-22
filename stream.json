@@ -33,6 +33,11 @@
       "name": "GT",
       "player": "f1",
       "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
+    },
+    {
+      "name": "CBS IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/cbs_golazo/index.m3u8"
     }
   ]
 }
