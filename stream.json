@@ -1,16 +1,4 @@
 {
-  "marseille-vs-paris-saint-germain": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ligue1_om/index.m3u8"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMDAwMS9pbmRleC5tM3U4P0RWUiZ0b2tlbj1iMjU0OGZmNjI4NTBkNjE1Y2FhNDU3ODJmNGY1NjQxNjVkNzgwZWViLTBmMmE3YTg5NzNhMGU5MWEwMTQyMmY3ODAwMzUzYjVkLTE3NTg1NzM1MzgtMTc1ODU2MjczOCZhdXRvcGxheT10cnVl"
-    }
-  ],
   "2025-Ballondor": [
     {
       "name": "CBS Sports",
