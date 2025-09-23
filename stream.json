@@ -46,6 +46,11 @@
       "name": "Fancode",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/oplay?id=fc1"
+    },
+    {
+      "name": "Server 1 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
     }
   ],
   "athletic-bilbao-vs-girona": [
