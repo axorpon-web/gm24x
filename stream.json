@@ -14,6 +14,16 @@
       "name": "Astro Cricket ",
       "player": "pl1",
       "stream_link": "wqK73r/6Y8fE5w7zyClmO1po6aEdbP7kWXWE7QtIJYSkAaHJ5AKlHs4GXqyhprxoOY8JKljq2h0q5v1Nq0zrCSrdDHw4hurTP3h3EbxOBSA69dg7pZHB1HM7vYrcqfakDHAUOhXmXJxZZJQ6yErcKlAKaEMwKtPSBEXPJzOYcBwFJGEjQuEwz2o2GvnsNcWvimchy2wqFordw2zVkAdTkux9WEkdr3Xku2dke37MRO4="
+    },
+    {
+      "name": "Sony IOS",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
+    },
+    {
+      "name": "Sliv IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
     }
   ],
   "levante-vs-real-madrid": [
