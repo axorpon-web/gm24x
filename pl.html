@@ -11,34 +11,34 @@
 </head>
 
 <body bgcolor="black" style="margin:0" oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
-  <style>
-    .shaka-spinner-container { display: none; }
-    .video-fill video { object-fit: cover; }
-    .shaka-overflow-menu button:hover { background-color: rgb(45, 45, 45); }
-    .shaka-overflow-button-label { color: rgb(245, 245, 245); }
-    .shaka-current-selection-span { color: rgb(202, 202, 202); }
-    .shaka-settings-menu { background-color: rgb(35, 35, 35); color: #fff; }
-    .shaka-settings-menu button { color: #fff; }
-    .shaka-settings-menu button:hover { background-color: rgb(45, 45, 45); }
-    .shaka-bottom-controls { display: flex; flex-direction: column-reverse; }
-  </style>
+<style>
+  .shaka-spinner-container { display: none; }
+  .video-fill video { object-fit: cover; }
+  .shaka-overflow-menu button:hover { background-color: rgb(45, 45, 45); }
+  .shaka-overflow-button-label { color: rgb(245, 245, 245); }
+  .shaka-current-selection-span { color: rgb(202, 202, 202); }
+  .shaka-settings-menu { background-color: rgb(35, 35, 35); color: #fff; }
+  .shaka-settings-menu button { color: #fff; }
+  .shaka-settings-menu button:hover { background-color: rgb(45, 45, 45); }
+  .shaka-bottom-controls { display: flex; flex-direction: column-reverse; }
+</style>
 
-  <div id="videoContainer" class="container video-fill" data-shaka-player-container
-       style="position:absolute;z-index:-1;top:0;left:0;width:100%;height:100%;">
-    <video autoplay data-shaka-player id="video"
-           poster="https://i.ibb.co.com/SwbNnBJn/ggg.png"
-           style="width:100%;height:100%;"></video>
-  </div>
+<div id="videoContainer" class="container video-fill" data-shaka-player-container
+     style="position:absolute;z-index:-1;top:0;left:0;width:100%;height:100%;">
+  <video autoplay data-shaka-player id="video"
+         poster="https://i.ibb.co.com/SwbNnBJn/ggg.png"
+         style="width:100%;height:100%;"></video>
+</div>
 
-  <a href="https://t.me/game24x" target="_blank">
-    <span style="position:absolute;z-index:100;top:6px;left:5px;height:30px;width:100px;
-                 color:#ccc;border:2px solid #ccc;padding:1px 0;border-radius:2px;text-align:center;">
-      Join us
-    </span>
-  </a>
+<a href="https://t.me/game24x" target="_blank">
+  <span style="position:absolute;z-index:100;top:6px;left:5px;height:30px;width:100px;
+               color:#ccc;border:2px solid #ccc;padding:1px 0;border-radius:2px;text-align:center;">
+    Join us
+  </span>
+</a>
 
 <script>
-  // --- Decrypt function ---
+  // --- Decrypt AES data ---
   function decryptData(data) {
     const key = CryptoJS.enc.Utf8.parse("2ec7352cfcd6d116c4b0800fa95a2eea");
     const iv  = CryptoJS.enc.Utf8.parse("2f0af185c7575a7f");
@@ -50,13 +50,21 @@
     return decrypted.toString(CryptoJS.enc.Utf8);
   }
 
-  // --- Fetch streams.json and get channel by id ---
+  // --- Fetch streams.json and get channel ---
   async function loadChannel(id) {
-    const res = await fetch("https://gm24x-gamma.vercel.app/streams.json"); // hosted in same Vercel project
+    const res = await fetch("/streams.json");
     const streams = await res.json();
     const stream = streams.find(s => s.id === id);
     if (!stream) throw new Error("Channel not found: " + id);
-    return JSON.parse(decryptData(stream.data));
+
+    const decrypted = decryptData(stream.data);
+    console.log("Decrypted raw:", decrypted); // DEBUG
+
+    try {
+      return JSON.parse(decrypted);
+    } catch (err) {
+      throw new Error("Failed to parse decrypted data: " + decrypted);
+    }
   }
 
   // --- Resize helper ---
@@ -69,10 +77,9 @@
   // --- Init player ---
   async function init() {
     const params = new URLSearchParams(window.location.search);
-    const id = params.get("id") || "tnt1"; // default channel
+    const id = params.get("id") || "tnt1";
 
     const { url, clearkey } = await loadChannel(id);
-    const [keyId, key] = clearkey.split(":");
 
     const video = document.getElementById('video');
     const ui = video['ui'];
@@ -92,8 +99,19 @@
     const controls = ui.getControls();
     const player = controls.getPlayer();
 
+    let drmKeys = {};
+
+    if (typeof clearkey === "string" && clearkey.includes(":")) {
+      const [keyId, key] = clearkey.split(":");
+      drmKeys[keyId] = key;
+    } else if (typeof clearkey === "object") {
+      drmKeys = clearkey;
+    } else {
+      console.warn("Unknown clearkey format:", clearkey);
+    }
+
     player.configure({
-      drm: { clearKeys: { [keyId]: key } },
+      drm: { clearKeys: drmKeys },
       streaming: {
         bufferingGoal: 60,
         rebufferingGoal: 2,
