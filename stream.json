@@ -29,9 +29,9 @@
   ],
   "india-vs-bangladesh": [
     {
-      "name": "PTV IOS",
+      "name": "TNT 4",
       "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9obHNsaXZlLmdhbWUubGlua3YuZnVuL3lvbG8vMTc1ODcxNjY3NTE3MTcxMDMyNTYvcGxheWxpc3QubTN1OD93c1NlY3JldD01MzVjZmJhM2U4NjRjOTNlNjNkYmZlNzBhYjYxYzNhMCZ3c0FCU3RpbWU9NjhkNTM0ODMmbGhscz0xJndzU2Vzc2lvbj00MTFmZTVjNDQ1YzJiNDJlMTE1ZDlhOGQtMTc1ODcxNjczNDAxMzUyJndzSVBTZXJjZXJ0PTI2ZGFlMDE4ZjVkOWU2NzkwNTgxN2M3YTcxMWZiOWVh"
+      "stream_link": "http://dash-hex.pages.dev/oplay?id=tnt2"
     },
     {
       "name": "SonyLiv",
@@ -41,7 +41,7 @@
     {
       "name": "TNT Sports 2",
       "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/oplay?id=tnt2"
+      "stream_link": ""
     },
     {
       "name": "Astro Cricket",
