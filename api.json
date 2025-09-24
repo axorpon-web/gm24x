@@ -75,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
     "matchTime": "2025-09-24T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-bradford",
@@ -89,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/imtze9OQsbptCSnxcopIq.png"
     },
     "matchTime": "2025-09-24T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "huddersfield-vs-manchester-city",
@@ -103,7 +101,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2025-09-24T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
