@@ -77,5 +77,19 @@
     "matchTime": "2025-09-24T19:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "newcastle-united-vs-bradford",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "Bradford",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/imtze9OQsbptCSnxcopIq.png"
+    },
+    "matchTime": "2025-09-24T18:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
