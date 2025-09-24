@@ -27,53 +27,6 @@
       "stream_link": "https://a2uy.short.gy/game24x/index.m3u8"
     }
   ],
-  "india-vs-bangladesh": [
-    {
-      "name": "TNT SPORTS 4",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt4"
-    },
-    {
-      "name": "Tapmad",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/master.m3u8"
-    },
-    {
-      "name": "TNT SPORTS 4",
-      "player": "pl1",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmOxFd5D4zPnknTZQzvz0FDgUqvRHk5JT7L7cBc7j5s4P7GXKlDk7Zckn7FfgoEorAayWGdzc33ja8sKcCdg53No592QcuUbqfDlPwvRjBaNxDcg13nx+3JkCdCELsV/ef33GjEQnk7dU6b6kROUeljpHjzlOJyOrAhbanu0cuTikCqpe9UOEh4+1LnpRNL11pDz//df649F2AC0FfhaQNdVz5r+c+E7z6Q/oa0Xbe8GRtmGC5TtpHeEUJcuysIk5I6tEjDvgYc2YeOAaTYiZH/PCyebEpOD0loZYDlGdlxxPW"
-    },
-    {
-      "name": "Willow",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
-    },
-    {
-      "name": "SonyLiv",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
-    },
-    {
-      "name": "Astro Cricket",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
-    },
-    {
-      "name": "SONY IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
-    },
-    {
-      "name": "FOX IOS",
-      "player": "f1",
-      "stream_link": "https://cricketstan.github.io/Sony-Liv/"
-    },
-    {
-      "name": "Testing New player",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
-    }
-  ],
   "newcastle-united-vs-bradford": [
     {
       "name": "Server 1",
