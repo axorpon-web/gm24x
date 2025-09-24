@@ -29,9 +29,19 @@
   ],
   "india-vs-bangladesh": [
     {
-      "name": "Server 1",
+      "name": "TNT Sports 2",
       "player": "f1",
       "stream_link": "http://dash-hex.pages.dev/oplay?id=tnt2"
+    },
+    {
+      "name": "Astro Cricket",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/oplay?id=astro"
+    },
+    {
+      "name": "SONY IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
     }
   ]
 }
