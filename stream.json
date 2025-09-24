@@ -34,6 +34,21 @@
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9obHNsaXZlLmdhbWUubGlua3YuZnVuL3lvbG8vMTc1ODcxNjY3NTE3MTcxMDMyNTYvcGxheWxpc3QubTN1OD93c1NlY3JldD01MzVjZmJhM2U4NjRjOTNlNjNkYmZlNzBhYjYxYzNhMCZ3c0FCU3RpbWU9NjhkNTM0ODMmbGhscz0xJndzU2Vzc2lvbj00MTFmZTVjNDQ1YzJiNDJlMTE1ZDlhOGQtMTc1ODcxNjczNDAxMzUyJndzSVBTZXJjZXJ0PTI2ZGFlMDE4ZjVkOWU2NzkwNTgxN2M3YTcxMWZiOWVh"
     },
     {
+      "name": "SonyLiv",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+    },
+    {
+      "name": "TNT Sports 2",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/oplay?id=tnt2"
+    },
+    {
+      "name": "Astro Cricket",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
+    },
+    {
       "name": "SONY IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
@@ -44,12 +59,7 @@
       "stream_link": "https://cricketstan.github.io/Sony-Liv/"
     },
     {
-      "name": "TNT Sports 2",
-      "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/oplay?id=tnt2"
-    },
-    {
-      "name": "Astro Cricket",
+      "name": "Testing New player",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
     }
