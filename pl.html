@@ -52,7 +52,7 @@
 
   // --- Fetch streams.json and get channel by id ---
   async function loadChannel(id) {
-    const res = await fetch("/streams.json"); // hosted in same Vercel project
+    const res = await fetch("https://gm24x-gamma.vercel.app/streams.json"); // hosted in same Vercel project
     const streams = await res.json();
     const stream = streams.find(s => s.id === id);
     if (!stream) throw new Error("Channel not found: " + id);
