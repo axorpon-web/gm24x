@@ -1,18 +1,5 @@
 [
   {
-    "id": "getafe-vs-deportivo-alaves",
-    "team1": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
-    },
-    "team2": {
-      "name": "Deportivo Alaves",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
-    },
-    "matchTime": "2025-09-24T17:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-betis-vs-nottingham-forest",
     "team1": {
       "name": "Real Betis",
