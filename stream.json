@@ -1,16 +1,4 @@
 {
-  "athletic-bilbao-vs-girona": [
-    {
-      "name": "Laliga Tv",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/oplay?id=lltv"
-    },
-    {
-      "name": "Sky",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/oplay?id=sl"
-    }
-  ],
   "espanyol-vs-valencia": [
     {
       "name": "Fancode",
