@@ -52,6 +52,11 @@
       "name": "FOX IOS",
       "player": "f1",
       "stream_link": "https://cricketstan.github.io/Sony-Liv/"
+    },
+    {
+      "name": "Testing New player",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
     }
   ]
 }
