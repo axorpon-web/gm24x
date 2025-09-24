@@ -47,6 +47,11 @@
       "name": "SONY IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
+    },
+    {
+      "name": "FOX IOS",
+      "player": "f1",
+      "stream_link": "https://cricketstan.github.io/Sony-Liv/"
     }
   ]
 }
