@@ -43,6 +43,11 @@
   ],
   "port-vale-vs-arsenal": [
     {
+      "name": "Nova Sports 1",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=nova1"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch3.php"
