@@ -1,41 +1,4 @@
 {
-  "levante-vs-real-madrid": [
-    {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/oplay?id=lltv"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "wqK73r/6Y8fE5w7zyClmOxFd5D4zPnknTZQzvz0FDgXzjOUy3FhX+KP2o8IXmjqi/AEoM6OsUatSWgSl7tKXNOLOabPBCNg5ZgyCwz7Vr3CMF6InYtZYo+NsowUuzBD9O2ibkDJRr2TbkmM+VVy7pkEcwFdnVy4sYMjoZASw/EhJ4Wq5UBh/lcWQeD0uzJrriHfEu2ehHQz0Fpr2rQexE65Tabt0M9i7FA1bNwXW8l1EnateyTWYbR78eLYsrF+YkiVmxy7rHd7tTlfw3XDmT3CI8nM9dDkjfhd83YACfIJFSigreUIJij/YNwmECHHh"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/oplay?id=sl"
-    },
-    {
-      "name": "Fancode",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/oplay?id=fc1"
-    },
-    {
-      "name": "Server 1 IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
-    },
-    {
-      "name": "Server 2 IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://est.dhscgrsresri.space/xzqwer12/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "IOS ",
-      "player": "f1",
-      "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
-    }
-  ],
   "athletic-bilbao-vs-girona": [
     {
       "name": "Laliga Tv",
