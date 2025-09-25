@@ -1,41 +1,4 @@
 {
-  "pakistan-vs-bangladesh": [
-    {
-      "name": "TNT SPORTS 4",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt4"
-    },
-    {
-      "name": "Sliv IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device02/playlist.m3u8"
-    },
-    {
-      "name": "Astro Cricket ",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
-    },
-    {
-      "name": "Willow",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
-    },
-    {
-      "name": "FOX501",
-      "player": "f1",
-      "stream_link": "https://cricketstan.github.io/Sony-Liv/"
-    },
-    {
-      "name": "Hindi IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
-    }
-  ],
   "real-oviedo-vs-barcelona": [
     {
       "name": "Sky LaLiga",
