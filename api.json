@@ -1,18 +1,5 @@
 [
   {
-    "id": "pakistan-vs-bangladesh",
-    "team1": {
-      "name": "Pakistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
-    },
-    "team2": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-09-25T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-oviedo-vs-barcelona",
     "team1": {
       "name": "Real Oviedo",
