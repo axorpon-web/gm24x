@@ -1,14 +1,14 @@
 {
   "pakistan-vs-bangladesh": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 4",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt4"
     },
     {
-      "name": "Server 2",
+      "name": "Willow",
       "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fc"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
     }
   ],
   "real-oviedo-vs-barcelona": [
