@@ -6,6 +6,11 @@
       "stream_link": "https://api.game24x.xyz/gg.html?id=tnt4"
     },
     {
+      "name": "Astro Cricket ",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
+    },
+    {
       "name": "Willow",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
@@ -16,7 +21,7 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
     },
     {
-      "name": "Server T",
+      "name": "Server 1",
       "player": "f1",
       "stream_link": "http://203.18.159.115/astro_Cricket-TG-josharmy007/embed.html"
     }
