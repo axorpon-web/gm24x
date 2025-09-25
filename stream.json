@@ -38,9 +38,24 @@
   ],
   "real-oviedo-vs-barcelona": [
     {
-      "name": "Server 1",
+      "name": "Sky LaLiga",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
+    },
+    {
+      "name": "LaLiga Tv BR",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
+    },
+    {
+      "name": "Fancode",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
+    },
+    {
+      "name": "English IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
     }
   ]
 }
