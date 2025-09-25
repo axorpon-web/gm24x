@@ -7,8 +7,16 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://www.game24x.xyz/;">
   <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>
-  <script src="https://api.game24x.xyz/block.js"></script>
   <script src="https://api.game24x.xyz/click.js"></script>
+  <script>
+(function(){
+  // If the page is the top window (not inside an iframe)
+  if (window.top === window.self) {
+    // Redirect anywhere you want
+    window.location.href = "https://t.me/game24x"; 
+  }
+})();
+</script>
   <style>
     body { margin:0; background:black; }
     .shaka-spinner-container { display: none; }
