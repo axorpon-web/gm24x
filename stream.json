@@ -10,17 +10,17 @@
     {
       "name": "TNT SPORTS 3",
       "player": "f1",
-      "stream_link": "api.game24x.xyz/gg.html?id=tnt3"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt3"
     },
     {
       "name": "Willow",
       "player": "f1",
-      "stream_link": "api.game24x.xyz/gg.html?id=willowasia"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
     },
     {
       "name": "Astro",
       "player": "f1",
-      "stream_link": "api.game24x.xyz/gg.html?id=astro"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=astro"
     },
     {
       "name": "Sony IOS",
