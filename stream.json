@@ -8,9 +8,19 @@
   ],
   "india-vs-sri-lanka": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 3",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "api.game24x.xyz/gg.html?id=tnt3"
+    },
+    {
+      "name": "Willow",
+      "player": "f1",
+      "stream_link": "api.game24x.xyz/gg.html?id=willowasia"
+    },
+    {
+      "name": "Astro",
+      "player": "f1",
+      "stream_link": "api.game24x.xyz/gg.html?id=astro"
     }
   ]
 }
