@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png"
     },
     "matchTime": "2025-09-26T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "india-vs-sri-lanka",
@@ -23,8 +22,7 @@
       "name": "Sri Lanka",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/sri-lanka-cricket.png"
     },
-    "matchTime": "2025-09-26T14:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-09-26T14:30:00.000Z",
+    "endTime": ""
   }
 ]
