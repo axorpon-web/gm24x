@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "girona-vs-espanyol",
+    "team1": {
+      "name": "Girona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
+    },
+    "team2": {
+      "name": "Espanyol",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png"
+    },
+    "matchTime": "2025-09-26T19:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
