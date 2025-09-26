@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-09-26T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "india-vs-sri-lanka",
-    "team1": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
-    },
-    "team2": {
-      "name": "Sri Lanka",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/sri-lanka-cricket.png"
-    },
-    "matchTime": "2025-09-26T14:30:00.000Z",
-    "endTime": ""
   }
 ]
