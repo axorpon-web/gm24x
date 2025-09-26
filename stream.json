@@ -21,6 +21,11 @@
       "name": "Astro",
       "player": "f1",
       "stream_link": "api.game24x.xyz/gg.html?id=astro"
+    },
+    {
+      "name": "Sony IOS",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
     }
   ]
 }
