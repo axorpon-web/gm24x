@@ -1,18 +1,5 @@
 [
   {
-    "id": "brentford-vs-manchester-united",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "matchTime": "2025-09-27T11:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "chelsea-vs-brighton",
     "team1": {
       "name": "Chelsea",
