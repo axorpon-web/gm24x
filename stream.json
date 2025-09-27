@@ -1,23 +1,4 @@
 {
-  "chelsea-vs-brighton": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=l2"
-    },
-    {
-      "name": "IOS tv",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch3.php"
-    }
-  ],
-  "manchester-city-vs-burnley": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
-    }
-  ],
   "crystal-palace-vs-liverpool": [
     {
       "name": "Server 1",
