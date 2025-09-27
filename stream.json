@@ -36,13 +36,18 @@
       "name": "Server 1",
       "player": "f1",
       "stream_link": "http://api.game24x.xyz/gg.html?id=l2"
+    },
+     {
+      "name": "IOS tv",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch3.php"
     }
   ],
   "manchester-city-vs-burnley": [
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
     }
   ],
   "crystal-palace-vs-liverpool": [
@@ -56,7 +61,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
     }
   ],
   "atletico-madrid-vs-real-madrid": [
@@ -66,14 +71,24 @@
       "stream_link": "http://api.game24x.xyz/gg.html?id=lltv"
     },
      {
-      "name": "Laliga tv",
+      "name": "SKY Laliga",
       "player": "f1",
       "stream_link": "http://api.game24x.xyz/gg.html?id=sl"
     },
      {
-      "name": "Laliga tv",
+      "name": "Fancode",
       "player": "f1",
       "stream_link": "http://api.game24x.xyz/gg.html?id=fc1"
-    }
+    },
+     {
+      "name": "IOS ENGLISH",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
+    },
+         {
+      "name": "IOS Ar",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch11.php"
+    },
   ]
 }
