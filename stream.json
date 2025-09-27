@@ -1,36 +1,4 @@
 {
-  "brentford-vs-manchester-united": [
-    {
-      "name": "USA NETWORK ",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
-    },
-    {
-      "name": "Fubo",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
-    },
-    {
-      "name": "TNT 1",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt1"
-    },
-    {
-      "name": "TNT 1 IOS",
-      "player": "f1",
-      "stream_link": "https://game24xpll.pages.dev?id=TNT_Sports_1"
-    },
-    {
-      "name": "Server 2 IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTExODEzMC9pbmRleC5tM3U4P0RWUiZ0b2tlbj0zNGRkZTIyNDkxNDM2MjBjYTAwM2M5M2RhZDdiYWFmMTI3YmY4MmE2LTMxYmNmYmQ4ZDI0NGE4MWUyNDc1NjBjZWNiYWRmN2MwLTE3NTg5ODMwNjQtMTc1ODk3MjI2NCZhdXRvcGxheT10cnVl"
-    },
-    {
-      "name": "Server 1 IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_brentford/index.m3u8"
-    }
-  ],
   "chelsea-vs-brighton": [
     {
       "name": "Server 1",
