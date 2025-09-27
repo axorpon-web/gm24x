@@ -35,7 +35,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "http://api.game24x.xyz/gg.html?id=l2"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=l2"
     },
     {
       "name": "IOS tv",
@@ -54,7 +54,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "http://api.game24x.xyz/gg.html?id=l1"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=l1"
     }
   ],
   "nottingham-forest-vs-sunderland": [
