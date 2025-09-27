@@ -1,18 +1,4 @@
 {
-  "crystal-palace-vs-liverpool": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=l1"
-    }
-  ],
-  "nottingham-forest-vs-sunderland": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
-    }
-  ],
   "atletico-madrid-vs-real-madrid": [
     {
       "name": "Sky LaLiga",
