@@ -1,19 +1,5 @@
 [
   {
-    "id": "atletico-madrid-vs-real-madrid",
-    "team1": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2025-09-27T14:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
     "id": "nottingham-forest-vs-sunderland",
     "team1": {
       "name": "Nottingham Forest",
@@ -24,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
     },
     "matchTime": "2025-09-27T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "tottenham-vs-wolverhampton-wanderers",
@@ -38,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
     },
     "matchTime": "2025-09-27T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "villarreal-vs-athletic-bilbao",
@@ -52,7 +36,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
     },
     "matchTime": "2025-09-27T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
