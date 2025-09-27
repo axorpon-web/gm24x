@@ -50,9 +50,24 @@
   ],
   "villarreal-vs-athletic-bilbao": [
     {
-      "name": "Server 1",
+      "name": "SKY LALIGA",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
+    },
+    {
+      "name": "LALIGA TV BR",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
+    },
+    {
+      "name": "ESPN Deportes IOS",
+      "player": "f1",
+      "stream_link": "https://game24xpll.pages.dev?id=ESPN_Deportes_BU"
+    },
+    {
+      "name": "LaLigaTV UK",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjc2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTc3ZGNhOTk5M2ZkMjEwMzA1YzEyN2JmOGYwMjNkM2UyNmUwY2ZmM2EtOTQzYzI4YjAzZDdiMmFlNTQ5Y2MwMzVhYzZjZmFlOTUtMTc1OTAwODk2NS0xNzU4OTk4MTY1JmF1dG9wbGF5PXRydWU%3D"
     }
   ]
 }
