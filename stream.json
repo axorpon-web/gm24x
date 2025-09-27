@@ -61,9 +61,19 @@
   ],
   "atletico-madrid-vs-real-madrid": [
     {
-      "name": "Server 1",
+      "name": "Laliga tv",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "http://api.game24x.xyz/gg.html?id=lltv"
+    },
+     {
+      "name": "Laliga tv",
+      "player": "f1",
+      "stream_link": "http://api.game24x.xyz/gg.html?id=sl"
+    },
+     {
+      "name": "Laliga tv",
+      "player": "f1",
+      "stream_link": "http://api.game24x.xyz/gg.html?id=fc1"
     }
   ]
 }
