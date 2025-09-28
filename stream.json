@@ -43,9 +43,29 @@
   ],
   "barcelona-vs-real-sociedad": [
     {
-      "name": "Server 1",
+      "name": "SKY LALIGA",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
+    },
+    {
+      "name": "LALIGA TV UK",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
+    },
+    {
+      "name": "FANCODE",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
+    },
+    {
+      "name": "Server 1 IOS",
+      "player": "f1",
+      "stream_link": "https://game24xpll.pages.dev?id=ESPN_Deportes"
+    },
+    {
+      "name": "Server 2 IOS",
+      "player": "f1",
+      "stream_link": "https://game24xpll.pages.dev?id=Premier_Sports_1"
     }
   ],
   "newcastle-united-vs-arsenal": [
