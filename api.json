@@ -1,18 +1,5 @@
 [
   {
-    "id": "india-vs-pakistan",
-    "team1": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
-    },
-    "team2": {
-      "name": "Pakistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
-    },
-    "matchTime": "2025-09-28T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-betis-vs-osasuna",
     "team1": {
       "name": "Real Betis",
@@ -23,7 +10,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
     },
     "matchTime": "2025-09-28T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
