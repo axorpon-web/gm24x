@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-09-28T14:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "newcastle-united-vs-arsenal",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2025-09-28T15:30:00.000Z",
-    "endTime": ""
   }
 ]
