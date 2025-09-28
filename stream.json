@@ -1,11 +1,6 @@
 {
   "india-vs-pakistan": [
     {
-      "name": "ASTRO ALL DEVICE",
-      "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/ADB?c=https://player.kick.com/himelopishere"
-    },
-    {
       "name": "TNT SPORTS 2",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=tnt2"
@@ -19,6 +14,11 @@
       "name": "Willow",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
+    },
+    {
+      "name": "ASTRO ALL DEVICE",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/ADB?c=https://player.kick.com/himelopishere"
     },
     {
       "name": "Fox501 IOS",
