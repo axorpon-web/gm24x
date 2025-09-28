@@ -40,59 +40,5 @@
       "player": "f1",
       "stream_link": "http://dash-hex.pages.dev/ADB?c=https://user464.ifrem.net/iframe/frame.php"
     }
-  ],
-  "barcelona-vs-real-sociedad": [
-    {
-      "name": "SKY LALIGA",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
-    },
-    {
-      "name": "LALIGA TV UK",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
-    },
-    {
-      "name": "FANCODE",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
-    },
-    {
-      "name": "IOS ENGLISH ",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
-    },
-    {
-      "name": "Arbic IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9sZW56LnNwbHVzLmlyL1BMVFYvODg4ODg4ODgvMjI0LzMyMjEyMjY4NDUvaW5kZXgubTN1OA%3D%3D"
-    },
-    {
-      "name": "IOS ARBIC",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch11.php"
-    },
-    {
-      "name": "Server 1 IOS",
-      "player": "f1",
-      "stream_link": "https://game24xpll.pages.dev?id=ESPN_Deportes"
-    },
-    {
-      "name": "Server 2 IOS",
-      "player": "f1",
-      "stream_link": "https://game24xpll.pages.dev?id=Premier_Sports_1"
-    }
-  ],
-  "newcastle-united-vs-arsenal": [
-    {
-      "name": "USA NETWORK",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
-    },
-    {
-      "name": "Fubo",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
-    }
   ]
 }
