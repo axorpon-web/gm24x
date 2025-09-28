@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "india-vs-pakistan",
+    "team1": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "team2": {
+      "name": "Pakistan",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
+    },
+    "matchTime": "2025-09-28T14:30:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
+  }
+]
