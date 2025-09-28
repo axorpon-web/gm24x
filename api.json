@@ -9,9 +9,8 @@
       "name": "Pakistan",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
     },
-    "matchTime": "2025-09-28T14:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-09-28T14:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "barcelona-vs-real-sociedad",
@@ -24,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
     },
     "matchTime": "2025-09-28T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "aston-villa-vs-fulham",
@@ -38,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
     },
     "matchTime": "2025-09-28T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-arsenal",
@@ -52,7 +49,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
     },
     "matchTime": "2025-09-28T15:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
