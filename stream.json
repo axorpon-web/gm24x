@@ -27,5 +27,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
     }
+  ],
+  "barcelona-vs-paris-saint-germain": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/RQoqBztn5zFLbdgVljK7"
+    }
   ]
 }
