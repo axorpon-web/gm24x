@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "chelsea-vs-benfica",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "team2": {
-      "name": "Benfica",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
-    },
-    "matchTime": "2025-09-30T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "barcelona-vs-paris-saint-germain",
     "team1": {
       "name": "Barcelona",
@@ -36,7 +23,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
     },
     "matchTime": "2025-10-01T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
