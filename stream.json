@@ -1,16 +1,4 @@
 {
-  "galatasaray-vs-liverpool": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://game24xpll.pages.dev?id=Vidio_1_BU"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch4.php"
-    }
-  ],
   "barcelona-vs-paris-saint-germain": [
     {
       "name": "Server 1",
