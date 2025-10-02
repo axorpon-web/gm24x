@@ -22,22 +22,7 @@
       "name": "Bangladesh",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
     },
-    "matchTime": "2025-10-03T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
-  },
-  {
-    "id": "afghanistan-vs-bangladesh",
-    "team1": {
-      "name": "Afghanistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
-    },
-    "team2": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-10-05T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-03T15:00:00.000Z",
+    "endTime": ""
   }
 ]
