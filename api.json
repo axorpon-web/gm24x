@@ -1,16 +1,15 @@
 [
   {
-    "id": "india-a-vs-australia-a",
+    "id": "barcelona-vs-paris-saint-germain",
     "team1": {
-      "name": "India A",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-a-cricket-team.png"
+      "name": "Barcelona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
     "team2": {
-      "name": "Australia A",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-a-cricket-team.png"
+      "name": "Paris Saint-Germain",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
     },
-    "matchTime": "2025-10-05T08:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-01T19:00:00.000Z",
+    "endTime": ""
   }
 ]
