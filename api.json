@@ -1,18 +1,5 @@
 [
   {
-    "id": "afghanistan-vs-bangladesh",
-    "team1": {
-      "name": "Afghanistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
-    },
-    "team2": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-10-03T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "bournemouth-vs-fulham",
     "team1": {
       "name": "Bournemouth",
@@ -23,7 +10,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
     },
     "matchTime": "2025-10-03T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
