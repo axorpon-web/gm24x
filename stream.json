@@ -3,7 +3,12 @@
     {
       "name": "USA NETWORK ",
       "player": "f1",
-      "stream_link": ""
+      "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
+    },
+    {
+      "name": "FUBO",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
     }
   ]
 }
