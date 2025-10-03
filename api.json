@@ -1,16 +1,15 @@
 [
   {
-    "id": "india-vs-west-indies",
+    "id": "india-a-vs-australia-a",
     "team1": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+      "name": "India A",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-a-cricket-team.png"
     },
     "team2": {
-      "name": "West Indies",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
+      "name": "Australia A",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-a-cricket-team.png"
     },
-    "matchTime": "2025-10-10T04:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-03T08:00:00.000Z",
+    "endTime": ""
   }
 ]
