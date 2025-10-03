@@ -1,14 +1,1 @@
-{
-  "india-vs-west-indies": [
-    {
-      "name": "TNT SPORTS 3",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=tnt3"
-    },
-    {
-      "name": "Willow",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=willowasia"
-    }
-  ]
-}
+{}
