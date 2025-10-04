@@ -23,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/toZCug6DR6edDTx1SvZQL.png"
     },
     "matchTime": "2025-10-04T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sevilla-vs-barcelona",
@@ -37,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
     "matchTime": "2025-10-05T14:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "spain-u20-vs-brazil-u20",
@@ -51,7 +49,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Omgw2jWenfR6iJg5uu2bY.png"
     },
     "matchTime": "2025-10-04T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
