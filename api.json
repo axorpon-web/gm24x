@@ -1,18 +1,5 @@
 [
   {
-    "id": "chelsea-vs-liverpool",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-10-04T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-madrid-vs-villarreal",
     "team1": {
       "name": "Real Madrid",
