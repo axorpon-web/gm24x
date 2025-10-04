@@ -1,21 +1,4 @@
 {
-  "bournemouth-vs-fulham": [
-    {
-      "name": "USA NETWORK ",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
-    },
-    {
-      "name": "FUBO",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
-    },
-    {
-      "name": "Server 1 IOS",
-      "player": "f1",
-      "stream_link": "https://game24xpll.pages.dev?id=Sky_Sports_Main_Event"
-    }
-  ],
   "osasuna-vs-getafe": [
     {
       "name": "Server 1",
