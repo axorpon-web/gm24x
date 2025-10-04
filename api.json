@@ -39,5 +39,19 @@
     "matchTime": "2025-10-05T14:15:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "spain-u20-vs-brazil-u20",
+    "team1": {
+      "name": "Spain U20",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/maPc-sqBUk4fSeVWX1yUf.png"
+    },
+    "team2": {
+      "name": "Brazil U20",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Omgw2jWenfR6iJg5uu2bY.png"
+    },
+    "matchTime": "2025-10-04T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
