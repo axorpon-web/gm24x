@@ -1,9 +1,14 @@
 {
   "manchester-united-vs-sunderland": [
     {
-      "name": "Server 1",
+      "name": "USA NETWORK ",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
+    },
+    {
+      "name": "Fubo Sports ",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
     }
   ],
   "arsenal-vs-west-ham": [
