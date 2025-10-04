@@ -55,11 +55,6 @@
   ],
   "real-madrid-vs-villarreal": [
     {
-      "name": "LALIGA TV",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
-    },
-    {
       "name": "SKY LALIGA",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
@@ -68,6 +63,11 @@
       "name": "FANCODE",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
+    },
+    {
+      "name": "LALIGA TV",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
     },
     {
       "name": "Fancode",
