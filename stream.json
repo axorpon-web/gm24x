@@ -78,6 +78,16 @@
       "name": "Server 1 IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/laliga_real-madrid/index.m3u8"
+    },
+    {
+      "name": "Server 2 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch6.php"
+    },
+    {
+      "name": "Server 3",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch11.php"
     }
   ]
 }
