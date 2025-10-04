@@ -53,6 +53,16 @@
       "name": "Fubo Sports",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
+    },
+    {
+      "name": "ENGLISH IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch1.php"
+    },
+    {
+      "name": "ARBIC IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch11.php"
     }
   ]
 }
