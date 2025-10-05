@@ -76,19 +76,5 @@
     },
     "matchTime": "2025-10-05T15:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "formula-1-vs-formula-1",
-    "team1": {
-      "name": "Formula 1",
-      "logo": "https://iili.io/3mallYG.md.png"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://iili.io/3mallYG.md.png"
-    },
-    "matchTime": "05-10-2025 19:09",
-    "endTime": "",
-    "sport": "Manual"
   }
 ]
