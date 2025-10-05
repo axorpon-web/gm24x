@@ -1,18 +1,5 @@
 [
   {
-    "id": "sevilla-vs-barcelona",
-    "team1": {
-      "name": "Sevilla",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/crn6HYOO9QzfqMRAUuGIF.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2025-10-05T14:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "afghanistan-vs-bangladesh",
     "team1": {
       "name": "Afghanistan",
