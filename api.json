@@ -51,5 +51,19 @@
     "matchTime": "2025-10-05T14:30:00+00:00",
     "endTime": "",
     "sport": "Cricket"
+  },
+  {
+    "id": "everton-vs-crystal-palace",
+    "team1": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
+    },
+    "matchTime": "2025-10-05T13:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
