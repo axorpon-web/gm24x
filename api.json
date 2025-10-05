@@ -1,18 +1,5 @@
 [
   {
-    "id": "brentford-vs-manchester-city",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2025-10-05T15:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "f1",
     "team1": {
       "name": "Formula 1",
