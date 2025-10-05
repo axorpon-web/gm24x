@@ -80,12 +80,12 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
     },
     {
       "name": "Server 2",
       "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch7.php"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch7.php"
     }
   ]
 }
