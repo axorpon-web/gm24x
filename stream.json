@@ -54,9 +54,19 @@
   ],
   "celta-vigo-vs-atletico-madrid": [
     {
-      "name": "Server 1",
+      "name": "LaLiga Tv",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
+    },
+    {
+      "name": "SkY LaLiga",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
+    },
+    {
+      "name": "Server 1 ios",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch6.php"
     }
   ],
   "juventus-vs-ac-milan": [
