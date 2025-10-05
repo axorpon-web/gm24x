@@ -65,18 +65,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "spain-u20-vs-brazil-u20": [
-    {
-      "name": "SporTV",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
-    },
-    {
-      "name": "FIFA+",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=u20"
-    }
-  ],
   "afghanistan-vs-bangladesh": [
     {
       "name": "Server 1",
