@@ -1,18 +1,5 @@
 [
   {
-    "id": "real-madrid-vs-villarreal",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "matchTime": "2025-10-04T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "sevilla-vs-barcelona",
     "team1": {
       "name": "Sevilla",
@@ -48,9 +35,8 @@
       "name": "Bangladesh",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
     },
-    "matchTime": "2025-10-05T14:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-05T14:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "everton-vs-crystal-palace",
@@ -63,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
     },
     "matchTime": "2025-10-05T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "aston-villa-vs-burnley",
@@ -77,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
     },
     "matchTime": "2025-10-05T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-nottingham-forest",
@@ -91,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
     "matchTime": "2025-10-05T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brentford-vs-manchester-city",
@@ -105,7 +88,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2025-10-05T15:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
