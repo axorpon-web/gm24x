@@ -23,9 +23,19 @@
   ],
   "sevilla-vs-barcelona": [
     {
-      "name": "Server 1",
+      "name": "Sky LaLiga",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sl"
+    },
+    {
+      "name": "LaLiga Tv",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=lltv"
+    },
+    {
+      "name": "Fancode",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=fcxq"
     }
   ],
   "afghanistan-vs-bangladesh": [
