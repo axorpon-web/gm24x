@@ -133,9 +133,19 @@
       "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
     },
     {
+      "name": "Telemundo",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=tl"
+    },
+    {
       "name": "USA",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=usa"
+    },
+    {
+      "name": "Server 1 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
     }
   ],
   "formula-1-vs-formula-1": [
