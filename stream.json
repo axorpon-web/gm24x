@@ -63,6 +63,11 @@
       "name": "FANCODE",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fcbd"
+    },
+    {
+      "name": "Server 1 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://anyplay.stream/embed/live/68de9b100384929aa489216f"
     }
   ],
   "everton-vs-crystal-palace": [
