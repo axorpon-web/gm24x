@@ -1,18 +1,5 @@
 [
   {
-    "id": "afghanistan-vs-bangladesh",
-    "team1": {
-      "name": "Afghanistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-cricket.png"
-    },
-    "team2": {
-      "name": "Bangladesh",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-10-05T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brentford-vs-manchester-city",
     "team1": {
       "name": "Brentford",
@@ -49,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
     },
     "matchTime": "2025-10-05T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "juventus-vs-ac-milan",
@@ -63,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png"
     },
     "matchTime": "2025-10-05T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "lille-vs-paris-saint-germain",
@@ -77,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
     },
     "matchTime": "2025-10-05T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
