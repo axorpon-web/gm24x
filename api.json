@@ -11,31 +11,5 @@
     },
     "matchTime": "2025-10-05T19:00:00.000",
     "endTime": ""
-  },
-  {
-    "id": "celta-vigo-vs-atletico-madrid",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
-    },
-    "team2": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "matchTime": "2025-10-05T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "lille-vs-paris-saint-germain",
-    "team1": {
-      "name": "Lille",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nphkDirYGP1JFaopFVqQy.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2025-10-05T18:45:00.000Z",
-    "endTime": ""
   }
 ]
