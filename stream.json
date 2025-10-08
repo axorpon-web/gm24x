@@ -40,11 +40,6 @@
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fcbd"
-    },
-    {
-      "name": "Server 2 IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly90YXBtYWQtbGl2ZS5jZG4udnVzdHJlYW1zLmNvbS9saXZlLzk3MGRlYjg0LWJiNGMtNGRjMy05OWZiLTAxYzY4ZGQ3YzlhZi9saXZlLmlzbWwvLm0zdTg%3D"
     }
   ]
 }
