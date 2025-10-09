@@ -34,22 +34,5 @@
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
     }
-  ],
-  "bangladesh-vs-hong-kong": [
-    {
-      "name": "Server 3",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjE0NDMubTN1OA%3D%3D"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://player.kick.com/himelhimuisback"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://g2.hexvai56.workers.dev/ASDSOC8/index.m3u8"
-    }
   ]
 }
