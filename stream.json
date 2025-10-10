@@ -37,6 +37,11 @@
   ],
   "argentina-vs-venezuela": [
     {
+      "name": "ESPN",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=espn3"
+    },
+    {
       "name": "Fubo Tv",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
