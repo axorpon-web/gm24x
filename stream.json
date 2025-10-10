@@ -37,19 +37,14 @@
   ],
   "south-korea-vs-brazil": [
     {
-      "name": "Spotv",
+      "name": "SporTV",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
+    },
+    {
+      "name": "Spotv IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTMyMzk3L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTUzNmM5ZDdjMWU3ZjhmOWFkOGViNDRjOTg2MjNmMTMyMGU2YzJhZmMtNGE4ZjFlZjllYWFhZTZiMzg0YzcwNTBkYWFmMGZlMjEtMTc2MDEwNTEyOS0xNzYwMDk0MzI5JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://live.inplyr.com/room/499765.m3u8"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA%3D%3D"
     }
   ],
   "argentina-vs-venezuela": [
