@@ -39,6 +39,11 @@
     {
       "name": "Server 1",
       "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA%3D%3D"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=nova1"
     }
   ],
