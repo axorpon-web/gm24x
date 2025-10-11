@@ -66,6 +66,11 @@
   ],
   "spain-vs-georgia": [
     {
+      "name": "Sportv",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTJmNzBiYTc2YmQ0MWQ5NGNjODE2NjRmM2Q4MTcwNjBmMDNmNDQ0MTctYTgxNjlkNTY0OWJmNjM5YTdkOGE5MzRiM2VkOTk5MjQtMTc2MDIxNzg2My0xNzYwMjA3MDYzJmF1dG9wbGF5PXRydWU%3D"
