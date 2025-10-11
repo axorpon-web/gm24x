@@ -34,27 +34,5 @@
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=fc1"
     }
-  ],
-  "argentina-vs-venezuela": [
-    {
-      "name": "CazéTV",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=cz"
-    },
-    {
-      "name": "ESPN",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=espn3"
-    },
-    {
-      "name": "Fubo Tv",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=fubo"
-    },
-    {
-      "name": "Server 1 IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-    }
   ]
 }
