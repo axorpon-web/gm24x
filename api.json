@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "iceland-vs-france",
+    "team1": {
+      "name": "Iceland",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/stwDQv0hKjyfYK6K1XVjj.png"
+    },
+    "team2": {
+      "name": "France",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JFjztXlE7biecWFIejFOb.png"
+    },
+    "matchTime": "2025-10-13T18:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
