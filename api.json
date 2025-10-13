@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JFjztXlE7biecWFIejFOb.png"
     },
     "matchTime": "2025-10-13T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "northern-ireland-vs-germany",
@@ -24,21 +23,19 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png"
     },
     "matchTime": "2025-10-13T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
-    "id": "uruguay-vs-uzbekistan",
+    "id": "wwe",
     "team1": {
-      "name": "Uruguay",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RDMQ5kw21idnJUerOs0-g.png"
+      "name": "RAW",
+      "logo": "https://iili.io/FHWoi2R.md.png"
     },
     "team2": {
-      "name": "Uzbekistan",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SntX7kho3TurVjUJygroP.png"
+      "name": "RAW",
+      "logo": "https://iili.io/FHWoi2R.md.png"
     },
-    "matchTime": "2025-10-13T12:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2025-10-13T18:00:00.000",
+    "endTime": ""
   }
 ]
