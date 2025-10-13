@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-10-13T18:45:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "wwe",
-    "team1": {
-      "name": "RAW",
-      "logo": "https://iili.io/FHWoi2R.md.png"
-    },
-    "team2": {
-      "name": "RAW",
-      "logo": "https://iili.io/FHWoi2R.md.png"
-    },
-    "matchTime": "2025-10-13T18:00:00.000",
-    "endTime": ""
   }
 ]
