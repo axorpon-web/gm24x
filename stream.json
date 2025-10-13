@@ -37,9 +37,9 @@
   ],
   "iceland-vs-france": [
     {
-      "name": "Server 1",
+      "name": "SporTv",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
     }
   ],
   "northern-ireland-vs-germany": [
