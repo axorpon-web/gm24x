@@ -40,6 +40,21 @@
       "name": "SporTv",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "http://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch2.php"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://game24xpll.pages.dev?id=TF1"
+    },
+    {
+      "name": "Server 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkwL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTQ1M2ZiZjM4ODIwYTJkNzdlOGJiZmJmYjJjNGVkMGNjYTc1ZGY2NmItYzAwYTIwNjgyMjA1NDM5NDQ1ZTY5ZmZjMjE0MzExYjItMTc2MDM4NjA3My0xNzYwMzc1MjczJmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "northern-ireland-vs-germany": [
