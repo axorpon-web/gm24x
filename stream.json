@@ -54,6 +54,11 @@
       "name": "fubo Tv",
       "player": "f1",
       "stream_link": "https://api.game24x.xyz/pl.html?id=fubo"
+    },
+    {
+      "name": "Espn",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=espn"
     }
   ],
   "spain-vs-bulgaria": [
