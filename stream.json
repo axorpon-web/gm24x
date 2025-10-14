@@ -58,9 +58,14 @@
   ],
   "japan-vs-brazil": [
     {
+      "name": "SporTv",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": ""
     }
   ]
 }
