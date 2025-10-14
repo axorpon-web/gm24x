@@ -1,18 +1,5 @@
 [
   {
-    "id": "northern-ireland-vs-germany",
-    "team1": {
-      "name": "Northern Ireland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDMTDOEdBsBsRfIiT3IL8.png"
-    },
-    "team2": {
-      "name": "Germany",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png"
-    },
-    "matchTime": "2025-10-13T18:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "hong-kong-vs-bangladesh",
     "team1": {
       "name": "Hong Kong",
