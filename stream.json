@@ -42,18 +42,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://saz.blitzen.store/wwe.m3u8"
     }
   ],
-  "hong-kong-vs-bangladesh": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://hls.suanzsd6.com/sd-6MtMP7J6zCjRbQLKJw.m3u8?txSecret=4b01b427269440bc0d385080e91f9139&txTime=68EF8A5C"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1760446702-0-0-11566c5e09f3c5cd350b5f9d4ee16520"
-    }
-  ],
   "afghanistan-vs-bangladesh": [
     {
       "name": "Fancode",
