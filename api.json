@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "japan-vs-brazil",
-    "team1": {
-      "name": "Japan",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ODLLQnIl_4FrSHflbX6aa.png"
-    },
-    "team2": {
-      "name": "Brazil",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w2xUykxZKjKaQVECx7qVA.png"
-    },
-    "matchTime": "2025-10-14T10:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "puerto-rico-vs-argentina",
     "team1": {
       "name": "Puerto Rico",
