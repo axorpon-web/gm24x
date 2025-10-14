@@ -58,9 +58,24 @@
   ],
   "spain-vs-bulgaria": [
     {
+      "name": "ZIGGO",
+      "player": "f1",
+      "stream_link": "https://api.game24x.xyz/gg.html?id=ziggo2"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNzU2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWQzZTU1NjE2OGQyM2Y2YTRiOTk3MmEyMTg0MzM3OTNiNDZkODRhYWUtNjBkODQxODQyMmU5YjMxMzRjODU0MzEwZmZmM2NjMzMtMTc2MDQ3NTQwMC0xNzYwNDY0NjAwJmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch2.php"
+    },
+    {
+      "name": "Server 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkwL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTQwNjE1MzI1ZGYwNTg2YTM0MDVlMWZjNDg1NDhjMWU2MGJjNDVkMmUtNzhhMTQ4N2U0ZDVjMjlkMmQxMDMwMGE3MDA3ZDJjNGItMTc2MDQ3NTQwMi0xNzYwNDY0NjAyJmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "portugal-vs-hungary": [
