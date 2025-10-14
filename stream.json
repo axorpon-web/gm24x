@@ -65,9 +65,29 @@
   ],
   "portugal-vs-hungary": [
     {
-      "name": "Server 1",
+      "name": "SporTv",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=sportv"
+    },
+    {
+      "name": "BDIX",
+      "player": "f1",
+      "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
+    },
+    {
+      "name": "Server 2 IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch3.php"
+    },
+    {
+      "name": "Server 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTg5L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTNlMDFmY2U3MjgzZjYyZjY5NmFjYzBjYjlmY2U5ZWZjODc2ZjYzMmQtOWZlMDIzMWZjYWVjYzU5ZmFhMDE5NjgxMGJkMjA5ZjMtMTc2MDQ3NTM5OS0xNzYwNDY0NTk5JmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Server 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDkvaW5kZXgubTN1OD9EVlImdG9rZW49Mjc5YTM4MDMwMTRmYjhhZjM1OTJkNjc0ZTRlMGY5N2M2NWQxNzI5Mi1lNGZjZGE4OTQyNzFlOWE0MDMwOGUwZDQ2NmFlMDZjNS0xNzYwNDc1NDAzLTE3NjA0NjQ2MDMmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
     }
   ]
 }
