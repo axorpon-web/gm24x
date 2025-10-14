@@ -63,9 +63,9 @@
   ],
   "spain-vs-bulgaria": [
     {
-      "name": "ZIGGO",
+      "name": "Live 1",
       "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=ziggo2"
+      "stream_link": "https://api.game24x.xyz/gg.html?id=live1"
     },
     {
       "name": "Server 1",
