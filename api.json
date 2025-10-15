@@ -1,19 +1,5 @@
 [
   {
-    "id": "puerto-rico-vs-argentina",
-    "team1": {
-      "name": "Puerto Rico",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZQzW8ZRg-BY-WK8g0EF6-.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GmWv3eisSFbOruHsbYyM5.png"
-    },
-    "matchTime": "2025-10-15T00:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
     "id": "canada-vs-colombia",
     "team1": {
       "name": "Canada",
@@ -24,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iF8oMh0EFdQRMbW7dxXQX.png"
     },
     "matchTime": "2025-10-15T00:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "usa-vs-australia",
@@ -38,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png"
     },
     "matchTime": "2025-10-15T01:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sri-lanka-women-vs-bangladesh-women",
@@ -51,8 +35,7 @@
       "name": "Bangladesh Women",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh-womens-cricket.png"
     },
-    "matchTime": "2025-10-20T09:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-20T09:30:00.000Z",
+    "endTime": ""
   }
 ]
