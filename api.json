@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "usa-vs-australia",
-    "team1": {
-      "name": "USA",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e461ztKoUaa0f4z9d2KHV.png"
-    },
-    "team2": {
-      "name": "Australia",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png"
-    },
-    "matchTime": "2025-10-15T01:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "sri-lanka-women-vs-bangladesh-women",
     "team1": {
       "name": "Sri Lanka Women",
