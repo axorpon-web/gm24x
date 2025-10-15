@@ -1,18 +1,5 @@
 [
   {
-    "id": "spain-vs-bulgaria",
-    "team1": {
-      "name": "Spain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MuWgyMrpxyHUVQavE_4Go.png"
-    },
-    "team2": {
-      "name": "Bulgaria",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZFHkbKZsYskj2L7dW2IOs.png"
-    },
-    "matchTime": "2025-10-14T18:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "portugal-vs-hungary",
     "team1": {
       "name": "Portugal",
