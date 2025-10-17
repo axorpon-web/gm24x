@@ -26,5 +26,19 @@
     "matchTime": "2025-10-17T18:45:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "barcelona-vs-girona",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
+    },
+    "team2": {
+      "name": "Girona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
+    },
+    "matchTime": "2025-10-18T14:15:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
