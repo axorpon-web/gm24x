@@ -56,9 +56,24 @@
   ],
   "atletico-madrid-vs-osasuna": [
     {
-      "name": "Server 1",
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
+      "name": "FancodeX",
+      "player": "pl1",
+      "stream_link": "fcaq"
+    },
+    {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
+    },
+    {
+      "name": "SuperSport Laliga ios",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDE1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTUwNzY4NTkyZTQ3MzRkYWQ5NjU0MjYyNjgzNzlhYjZhNzBlNzEyMTctM2Q0MDljYWNjZWY0Y2U4YWEwN2FkYzE0OTBlOGRlZDYtMTc2MDgyMjMxNS0xNzYwODExNTE1JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "roma-vs-inter": [
