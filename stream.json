@@ -73,9 +73,14 @@
   ],
   "manchester-city-vs-everton": [
     {
-      "name": "Server 1",
+      "name": "English ",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch2.php"
+    },
+    {
+      "name": "Arbic",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch12.php"
     }
   ],
   "crystal-palace-vs-bournemouth": [
