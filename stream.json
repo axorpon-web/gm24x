@@ -1,33 +1,4 @@
 {
-  "arsenal-vs-west-ham": [
-    {
-      "name": "ServerX",
-      "player": "f1",
-      "stream_link": "https://api.game24x.xyz/gg.html?id=l1"
-    },
-    {
-      "name": "IOS ENGLISH ",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.pro/embed/ch2.php"
-    },
-    {
-      "name": "Sky Sport 6 NZ IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTdiNzA5NDFmNDUyN2Q3N2NiOThkYTQyNmU5YzY5NWMzNDA0ZmI2ODMtN2I0YzZhM2E3ZjIzY2ZhZjQ0YzBlYWIxOTY5ODUwY2UtMTc1OTU5NjA0Ny0xNzU5NTg1MjQ3JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Canal+ Foot IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDYzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTY5ZmU3ZDllZmRhZGNlOWQxMzQyZjY0YWQ5NDg3MTFjOGI1ZTY2ZGMtZmYzZmIyNTcxOTk2NTQ2OWIwMDZmNmNjZTRkYmZkZWQtMTc1OTU5NjA0Ny0xNzU5NTg1MjQ3JmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
-  "formula-1-vs-formula-1": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
-    }
-  ],
   "vfb-stuttgart-vs-fc-heidenheim": [
     {
       "name": "FANCODE",
