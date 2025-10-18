@@ -36,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
     },
     "matchTime": "2025-10-18T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "roma-vs-inter",
@@ -50,22 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png"
     },
     "matchTime": "2025-10-18T18:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
-    "id": "al-fahaheel-vs-al-nasr",
-    "team1": {
-      "name": "Al Fahaheel",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kz-A64km4eYxy6DQS8BaM.png"
-    },
-    "team2": {
-      "name": "Al Nasr",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IdtlPqRQu4-Wn3hEr3an1.png"
-    },
-    "matchTime": "2025-10-18T14:40:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "al-nassr-fc-vs-al-fateh-fc",
@@ -78,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wmcx85iGvppiUZoXTW-zm.png"
     },
     "matchTime": "2025-10-18T18:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
