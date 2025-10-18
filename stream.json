@@ -47,8 +47,8 @@
   "manchester-city-vs-everton": [
     {
       "name": "Live 1",
-      "player": "pl1",
-      "stream_link": "l1"
+      "player": "f1",
+      "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Fg003-sle-us-cmaf-prd-cc.cdn.peacocktv.com%2Fco01%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(2507178-208591-247bf776d4f)%2Fmaster_2hr.mpd&keyid=00224cdf8e01cef3fd6511d87faad75f&key=eaa3558ad60870dc86a3810dbe4d8a7e"
     },
     {
       "name": "English ",
