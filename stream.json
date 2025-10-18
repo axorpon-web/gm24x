@@ -54,6 +54,11 @@
   ],
   "brighton-vs-newcastle-united": [
     {
+      "name": "USA",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWI4MzlhNDljMzFmNDBlZmI3NThlYTc3YjM0NzZkNjZhMWMxYTg1NDAtM2RmZTQ2YzkwMTMyYjk5MTczMGZmZGY4MWZjZTY3ZmEtMTc2MDgwNTIwMC0xNzYwNzk0NDAwJmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
       "name": "Fubo Sports ",
       "player": "pl1",
       "stream_link": "fubo"
