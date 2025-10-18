@@ -29,7 +29,7 @@
     {
       "name": "Server 1",
       "player": "ns",
-      "stream_link": "https://www.game24x.xyz/p/live.html?id=nottingham-forest-vs-chelsea"
+      "stream_link": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
     },
     {
       "name": "Server 1",
@@ -38,7 +38,7 @@
     },
     {
       "name": "TNT SPORTS 1",
-      "player": "pl1",
+      "player": "f1",
       "stream_link": "tnt1"
     }
   ],
