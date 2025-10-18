@@ -102,9 +102,24 @@
   ],
   "fulham-vs-arsenal": [
     {
-      "name": "Server 1",
+      "name": "NBC USA ",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTMvaW5kZXgubTN1OD9EVlImdG9rZW49ZTIzMTU2N2FiYWZiNWRmMmU5NTU2NGJhYjQ4NjFiZGVkNWE3ZTA3ZC0xYWEyZjVkYWJiNmNhNjg4YmEzYjk4YWIxZGZlZjg3Yi0xNzYwODA1MjA1LTE3NjA3OTQ0MDUmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "NBC UNIVERSO",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vODQ1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWE5ZDVlNjVhMTIwNzM3ZjM4ODkyMjU5NjMwOTAwZDk2YTZmOWMyMDQtMmRjNDlmNTlkZDY4ZDUwMGU3ODEyYjQ2YWRjNTMyYmYtMTc2MDgwNTIwMy0xNzYwNzk0NDAzJmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "English ",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
+    },
+    {
+      "name": "Arbic",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
     }
   ],
   "villarreal-vs-real-betis": [
