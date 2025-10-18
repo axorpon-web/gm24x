@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-10-18T14:15:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "nottingham-forest-vs-chelsea",
+    "team1": {
+      "name": "Nottingham Forest",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "matchTime": "2025-10-18T11:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
