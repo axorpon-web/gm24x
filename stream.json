@@ -55,6 +55,11 @@
       "name": "Server 4 IOS ARBIC",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
+    },
+    {
+      "name": "BDIX NS PLAYER ",
+      "player": "ns",
+      "stream_link": "https://babbysports.com/111/index.m3u8?DVR&token=db703d0d6785cd9f4c93bb6ae884356067c90be5-16b4306ee893d68ee1c4a8648c1005a8-1760811327-1760800527&autoplay=true"
     }
   ],
   "brighton-vs-newcastle-united": [
