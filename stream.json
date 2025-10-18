@@ -35,6 +35,11 @@
       "name": "Server 1",
       "player": "ad",
       "stream_link": "adsby hex"
+    },
+    {
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
     }
   ],
   "nottingham-forest-vs-chelsea": [
