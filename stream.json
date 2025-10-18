@@ -46,6 +46,11 @@
   ],
   "manchester-city-vs-everton": [
     {
+      "name": "Live 1",
+      "player": "pl1",
+      "stream_link": "l1"
+    },
+    {
       "name": "English ",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch2.php"
