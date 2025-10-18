@@ -37,33 +37,6 @@
       "stream_link": "usa"
     }
   ],
-  "manchester-city-vs-everton": [
-    {
-      "name": "Live 1",
-      "player": "f1",
-      "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Fg003-sle-us-cmaf-prd-cc.cdn.peacocktv.com%2Fco01%2FContent%2FCMAF_CTR-4s-v2%2FLive%2Fchannel(2507178-208591-247bf776d4f)%2Fmaster_2hr.mpd&keyid=00224cdf8e01cef3fd6511d87faad75f&key=eaa3558ad60870dc86a3810dbe4d8a7e"
-    },
-    {
-      "name": "English ",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch2.php"
-    },
-    {
-      "name": "Arbic",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch12.php"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTg3L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTk5YTgyMWJjODUwOWMyYTliNWVlY2FmZjdjMGMxYTY3YjkwZjRmZDktOTM0NTg2NmMzMTUxOTY4YzY4NDg5MGE1NTQzZjA0OTYtMTc2MDgwNTIwNC0xNzYwNzk0NDA0JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTIzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWYwZjcyYzBlYzAwYzgwMTgyZWI4MzAxZWQ4N2E4YWExNDI0NzE4NTQtNWFiMDlmN2NkNzc2Y2M0ZjQxN2ZiY2E4MWIxMjMzYTAtMTc2MDgwNTIwNC0xNzYwNzk0NDA0JmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
   "fulham-vs-arsenal": [
     {
       "name": "NBC USA ",
