@@ -52,5 +52,19 @@
     "matchTime": "2025-10-18T14:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "manchester-city-vs-everton",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "matchTime": "2025-10-18T14:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
