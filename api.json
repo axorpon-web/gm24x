@@ -1,18 +1,5 @@
 [
   {
-    "id": "fulham-vs-arsenal",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2025-10-18T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "villarreal-vs-real-betis",
     "team1": {
       "name": "Villarreal",
