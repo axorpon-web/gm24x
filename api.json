@@ -1,18 +1,5 @@
 [
   {
-    "id": "liverpool-vs-manchester-united",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "team2": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "matchTime": "2025-10-19T15:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "getafe-vs-real-madrid",
     "team1": {
       "name": "Getafe",
