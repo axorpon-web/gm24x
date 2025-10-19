@@ -1,18 +1,5 @@
 [
   {
-    "id": "villarreal-vs-real-betis",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "team2": {
-      "name": "Real Betis",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
-    },
-    "matchTime": "2025-10-18T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "atletico-madrid-vs-osasuna",
     "team1": {
       "name": "Atletico Madrid",
