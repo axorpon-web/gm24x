@@ -72,6 +72,11 @@
       "name": "Arbic IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
+    },
+    {
+      "name": "NS PLAYER ",
+      "player": "ns",
+      "stream_link": "https://gg.poocloud.in/epl_liverpool/index.m3u8|referer=https://ppv.to/"
     }
   ],
   "elche-vs-athletic-bilbao": [
