@@ -22,9 +22,19 @@
   ],
   "tottenham-vs-aston-villa": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
     }
   ],
   "liverpool-vs-manchester-united": [
