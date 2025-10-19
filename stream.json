@@ -49,9 +49,29 @@
   ],
   "liverpool-vs-manchester-united": [
     {
-      "name": "Server 1",
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
+      "name": "English IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
+    },
+    {
+      "name": "Arbic IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
     }
   ],
   "elche-vs-athletic-bilbao": [
