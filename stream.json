@@ -60,6 +60,16 @@
       "name": "Android/IOS Arbic",
       "player": "f1",
       "stream_link": "http://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch11.php"
+    },
+    {
+      "name": "BDIX NS Player ",
+      "player": "ns",
+      "stream_link": "https://hls.suanzsd6.com/hd-en-6MuSsYd4VKjMSshC47.m3u8?txSecret=153d3a748b76ca72700cc60db036f819&txTime=68F66A70"
+    },
+    {
+      "name": "BDIX Smooth NS",
+      "player": "ad",
+      "stream_link": "https://livelymatter.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
     }
   ],
   "ac-milan-vs-fiorentina": [
