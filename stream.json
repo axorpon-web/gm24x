@@ -29,9 +29,24 @@
   ],
   "ac-milan-vs-fiorentina": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch9.php"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTExODEzMC9pbmRleC5tM3U4P0RWUiZ0b2tlbj1jNmEwNTVkZGVjNzU4NTFkYzhhODI1OGI2ZDRkYzg2ZjViODRmMTJmLWYwZDVjMDYxZDNmYzAxNTkwN2JiNjNhYmQ3OWQwYjAxLTE3NjA5MDkwMTQtMTc2MDg5ODIxNCZhdXRvcGxheT10cnVl"
+    },
+    {
+      "name": "Android/IOS 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDkvaW5kZXgubTN1OD9EVlImdG9rZW49ZjJjNzRiMGM1NWIzODMwYmYxMzQ0Y2NkMWU1ZWQ5MTY1NmEyYmJiZS01M2NiMWM4NzgzZWQ4MWQ5M2IzNzlhNTI2ZjIwZTA5Yi0xNzYwOTA5MDE0LTE3NjA4OTgyMTQmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
     }
   ],
   "argentina-u20-vs-morocco-u20": [
