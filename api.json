@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "celta-vigo-vs-real-sociedad",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
-    },
-    "team2": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
-    },
-    "matchTime": "2025-10-19T14:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "getafe-vs-real-madrid",
     "team1": {
       "name": "Getafe",
