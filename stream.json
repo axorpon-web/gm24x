@@ -52,23 +52,6 @@
       "stream_link": "https://babbysports.com/343/index.m3u8?DVR&token=6e5194871a44548f3bc2aee3e9210275083b87e5-e58baf89869c53ab484e4050c34e2906-1760899216-1760888416"
     }
   ],
-  "elche-vs-athletic-bilbao": [
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "FancodeX",
-      "player": "pl1",
-      "stream_link": "fcaq"
-    }
-  ],
   "celta-vigo-vs-real-sociedad": [
     {
       "name": "Sky LaLiga",
