@@ -1,18 +1,5 @@
 [
   {
-    "id": "ac-milan-vs-fiorentina",
-    "team1": {
-      "name": "AC Milan",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png"
-    },
-    "team2": {
-      "name": "Fiorentina",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png"
-    },
-    "matchTime": "2025-10-19T18:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "argentina-u20-vs-morocco-u20",
     "team1": {
       "name": "Argentina U20",
