@@ -1,18 +1,5 @@
 [
   {
-    "id": "getafe-vs-real-madrid",
-    "team1": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2025-10-19T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "ac-milan-vs-fiorentina",
     "team1": {
       "name": "AC Milan",
