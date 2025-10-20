@@ -10,49 +10,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DHe0XZ-mIjDNk0C4uCE3J.png"
     },
     "matchTime": "2025-10-21T16:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
-    "id": "west-ham-vs-brentford",
-    "team1": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "team2": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "matchTime": "2025-10-20T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
-    "id": "west-ham-vs-brentford",
-    "team1": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "team2": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "matchTime": "2025-10-20T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
-    "id": "deportivo-alaves-vs-valencia",
-    "team1": {
-      "name": "Deportivo Alaves",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
-    },
-    "matchTime": "2025-10-20T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
