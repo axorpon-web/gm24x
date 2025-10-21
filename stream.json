@@ -82,6 +82,11 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ucl_barcelona/index.m3u8"
     },
     {
+      "name": "SONYLIV NS PLAYER ",
+      "player": "ns",
+      "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761107190~acl=/*~id=29293554638651394160316908542751~hmac=065faf86bd43231a6f4287c51990dc9fb68827e4bc312ae7c7ce2f22f6bbaf63"
+    },
+    {
       "name": "Ns Player ",
       "player": "ns",
       "stream_link": "https://babbysports.com/1118130/index.m3u8?DVR&token=0ed7c8fd12eb0a064c7650878f264fa8ed27534c-eb60d8ca92d7dca0df9f4306810c1092-1761074210-1761063410&autoplay=true"
