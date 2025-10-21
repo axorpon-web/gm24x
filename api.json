@@ -51,5 +51,19 @@
     "matchTime": "2025-10-23T03:30:00+00:00",
     "endTime": "",
     "sport": "Cricket"
+  },
+  {
+    "id": "bangladesh-vs-west-indies",
+    "team1": {
+      "name": "Bangladesh",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
+    },
+    "team2": {
+      "name": "West Indies",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
+    },
+    "matchTime": "2025-10-21T07:30:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
