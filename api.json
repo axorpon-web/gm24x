@@ -39,5 +39,19 @@
     "matchTime": "2025-10-21T19:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "newcastle-united-vs-benfica",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "Benfica",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
+    },
+    "matchTime": "2025-10-21T19:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
