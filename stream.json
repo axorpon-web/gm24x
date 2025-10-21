@@ -22,6 +22,11 @@
   ],
   "arsenal-vs-atletico-madrid": [
     {
+      "name": "Live Event ",
+      "player": "pl1",
+      "stream_link": "live1"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch4.php"
