@@ -1,18 +1,5 @@
 [
   {
-    "id": "barcelona-vs-olympiacos",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Olympiacos",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DHe0XZ-mIjDNk0C4uCE3J.png"
-    },
-    "matchTime": "2025-10-21T16:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "west-ham-vs-brentford",
     "team1": {
       "name": "West Ham",
@@ -48,9 +35,8 @@
       "name": "India",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
     },
-    "matchTime": "2025-10-23T03:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-23T03:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "bangladesh-vs-west-indies",
@@ -62,8 +48,7 @@
       "name": "West Indies",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
     },
-    "matchTime": "2025-10-21T07:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-21T07:30:00.000Z",
+    "endTime": ""
   }
 ]
