@@ -1,18 +1,5 @@
 [
   {
-    "id": "deportivo-alaves-vs-valencia",
-    "team1": {
-      "name": "Deportivo Alaves",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
-    },
-    "matchTime": "2025-10-20T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "australia-vs-india",
     "team1": {
       "name": "Australia",
