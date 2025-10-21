@@ -65,6 +65,26 @@
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTMzMjYyOS9pbmRleC5tM3U4P0RWUiZ0b2tlbj05Mjg3M2JkYzdiNDJlNDliNDljZDBjNTIzNzA3Yjc0NmQ2ZGIzNGNlLTQ0OTY1MzAyMzdjYmQxZDY2N2NjY2JkYTBiNjM4NjQwLTE3NjEwNzQyMTEtMTc2MTA2MzQxMSZhdXRvcGxheT10cnVl"
+    },
+    {
+      "name": "Android/IOS 3",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ucl_barcelona/index.m3u8"
+    },
+    {
+      "name": "Ns Player ",
+      "player": "ns",
+      "stream_link": "https://babbysports.com/1118130/index.m3u8?DVR&token=0ed7c8fd12eb0a064c7650878f264fa8ed27534c-eb60d8ca92d7dca0df9f4306810c1092-1761074210-1761063410&autoplay=true"
     }
   ]
 }
