@@ -11,5 +11,19 @@
     },
     "matchTime": "2025-10-21T07:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "arsenal-vs-atletico-madrid",
+    "team1": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "team2": {
+      "name": "Atletico Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
+    },
+    "matchTime": "2025-10-21T19:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
