@@ -69,6 +69,21 @@
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ucl_newcastle/index.m3u8"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzIvaW5kZXgubTN1OD9EVlImdG9rZW49ZmFjOTc3MTA4OGEwNTRlNWJlNWFjZDgzNjBhMmEyNGFiNzNiODExZC1iY2YwMTExOTk1YTkxMGIzZTRjYjFlZjNkZmVlMDZmNy0xNzYxMDgyODgxLTE3NjEwNzIwODEmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzA4L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTNmYjRlMTkzYzAxNDc2NzhiYzA4YjY1NDA0MGIyNDU2ZDQ5NjllNTEtY2U4NTNlODgyOTIwMjI0NmYzNGM5ZDg0ZTczNzBlN2MtMTc2MTA4Mjg4Mi0xNzYxMDcyMDgyJmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "villarreal-vs-manchester-city": [
