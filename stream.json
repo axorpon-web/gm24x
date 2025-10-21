@@ -44,9 +44,24 @@
   ],
   "bayer-leverkusen-vs-paris-saint-germain": [
     {
-      "name": "Server 1",
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch5.php"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTgvaW5kZXgubTN1OD9EVlImdG9rZW49NWQ5ZDFiMjY1YWQ3MGZmMDE3NjhhZjk4NDJhY2QwM2NjNDI1MjYyYy0zMTM5ODc4ODk5NTNiNTBhNGUyYWVhYjY2NTRiNDA3MC0xNzYxMDgyODc4LTE3NjEwNzIwNzgmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTM0MzIzMS9pbmRleC5tM3U4P0RWUiZ0b2tlbj1mMmQ3NjIzNjk2NDA1NWJmNWQ5YzgxMjYwOWU5NTY0MmIwYzgxN2ZlLWU3OGRkYWUyMWUyN2RhNWY5Mjc0Yzg1NDM0ODk4MmUxLTE3NjEwODI4NzgtMTc2MTA3MjA3OCZhdXRvcGxheT10cnVl"
+    },
+    {
+      "name": "Android/IOS 3",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ucl_leverkusen/index.m3u8"
     }
   ],
   "newcastle-united-vs-benfica": [
