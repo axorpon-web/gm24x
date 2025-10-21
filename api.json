@@ -63,33 +63,5 @@
     },
     "matchTime": "2025-10-21T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "barcelona-vs-olympiacos",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Olympiacos",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DHe0XZ-mIjDNk0C4uCE3J.png"
-    },
-    "matchTime": "2025-10-21T16:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
-  },
-  {
-    "id": "barcelona-vs-olympiacos",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Olympiacos",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DHe0XZ-mIjDNk0C4uCE3J.png"
-    },
-    "matchTime": "2025-10-21T16:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
   }
 ]
