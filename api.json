@@ -37,18 +37,5 @@
     },
     "matchTime": "2025-10-21T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "villarreal-vs-manchester-city",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2025-10-21T19:00:00.000Z",
-    "endTime": ""
   }
 ]
