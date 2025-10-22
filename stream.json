@@ -79,6 +79,16 @@
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTExODEzMC9pbmRleC5tM3U4P0RWUiZ0b2tlbj05MjViYjhiYmI2NTI3MWVkY2VjNzgzZGFhNzgyZWJjMmFmNDQ1OTc2LWNhN2E0OTkzOWQ0NDE5MjBlYzQxZGZkMWM0MDM3MGQ5LTE3NjExNjg4NDItMTc2MTE1ODA0MiZhdXRvcGxheT10cnVl"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTAyNC9pbmRleC5tM3U4P0RWUiZ0b2tlbj03ZDBiY2E4NWYzODM2MDU3N2MyNzBmYjRhYTI4OTU4ZjI5MjZjMjhmLWY1YTUwNjEwMTk3ZmRmN2E4MTA4YzJmN2ZhYzU4Y2RkLTE3NjExNjg4MzktMTc2MTE1ODAzOSZhdXRvcGxheT10cnVl"
     }
   ],
   "monaco-vs-tottenham": [
