@@ -93,9 +93,19 @@
   ],
   "monaco-vs-tottenham": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 3",
+      "player": "pl1",
+      "stream_link": "tnt3"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzMvaW5kZXgubTN1OD9EVlImdG9rZW49ZGE2MzViNTQ3NzNkNDdkZWE0OTg5Y2ZkZDM0MDYyMjVlN2FhNGRlNC1jM2U4MTExMGE5OWEwMDZhNmVhZGExYjU0YWRkNGNlYS0xNzYxMTY4ODQwLTE3NjExNTgwNDAmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDYzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWI1MTg1NGVjOTVmMGMyZGFiY2E4OWEzYjlhYjk0NWQ0NWQzNjEwNjItM2YyZGE5ZTAwMjE0OGJlYjAzODNjMDEwODJmMDA3NDctMTc2MTE2ODgzOS0xNzYxMTU4MDM5JmF1dG9wbGF5PXRydWU%3D"
     }
   ]
 }
