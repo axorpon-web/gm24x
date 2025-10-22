@@ -22,9 +22,9 @@
   ],
   "real-madrid-vs-juventus": [
     {
-      "name": "SonyLiv NS Redirect",
-      "player": "ns",
-      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=0706350d616e7c7f3a05ced3217e7f41-1761157578043&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; HP2707; Build/OPR6.170623.013)"
+      "name": "Prime Video ",
+      "player": "pl1",
+      "stream_link": "prime1"
     },
     {
       "name": "Android/IOS",
@@ -45,6 +45,11 @@
       "name": "Android/IOS 3",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNjEvaW5kZXgubTN1OD9EVlImdG9rZW49ODZmNWM0YWU0Yjk2MTIwNDQ4NzFhODkyZmY1YzFjNmEwOWM4OWNmYi01YjVlODlhZWQwM2NhMmI5NTMxNTdlMWUwMzFhN2YwNS0xNzYxMTY4ODQzLTE3NjExNTgwNDMmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "SonyLiv NS Redirect",
+      "player": "ns",
+      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=0706350d616e7c7f3a05ced3217e7f41-1761157578043&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; HP2707; Build/OPR6.170623.013)"
     }
   ],
   "chelsea-vs-ajax": [
