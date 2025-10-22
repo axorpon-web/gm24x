@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-10-21T19:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "bayer-leverkusen-vs-paris-saint-germain",
-    "team1": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2025-10-21T19:00:00.000Z",
-    "endTime": ""
   }
 ]
