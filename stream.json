@@ -27,6 +27,11 @@
       "stream_link": "tnt3"
     },
     {
+      "name": "Willow",
+      "player": "pl1",
+      "stream_link": "willowasia"
+    },
+    {
       "name": "FOX 501",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://foxhindi.pages.dev/playlist.m3u8"
