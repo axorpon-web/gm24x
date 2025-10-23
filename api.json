@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-10-23T07:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "celta-vigo-vs-nice",
+    "team1": {
+      "name": "Celta Vigo",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
+    },
+    "team2": {
+      "name": "Nice",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29Qp98UEQtRCniX583-x2.png"
+    },
+    "matchTime": "2025-10-23T19:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
