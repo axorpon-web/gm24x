@@ -1,18 +1,5 @@
 [
   {
-    "id": "monaco-vs-tottenham",
-    "team1": {
-      "name": "Monaco",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-10-22T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "australia-vs-india",
     "team1": {
       "name": "Australia",
@@ -22,8 +9,7 @@
       "name": "India",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
     },
-    "matchTime": "2025-10-23T03:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-23T03:30:00.000Z",
+    "endTime": ""
   }
 ]
