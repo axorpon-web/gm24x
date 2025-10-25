@@ -35,6 +35,11 @@
       "name": "Willow",
       "player": "pl1",
       "stream_link": "willowasia"
+    },
+    {
+      "name": "Fox 501 Hindi",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://rumble.com/live-hls-dvr/6ykg6g/playlist.m3u8"
     }
   ]
 }
