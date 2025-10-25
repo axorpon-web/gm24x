@@ -70,6 +70,11 @@
       "stream_link": "daznlive"
     },
     {
+      "name": "FSBL",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://hls.suanzsd6.com/sd-6MvXc74geVYXTq8Aaj.m3u8?txSecret=df9b89c7f45514d3c631040a9688dfac&txTime=68FE595C"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjg5L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWQ1NWMwYmZhYjM5ODc2YzFjNzU0MWFlZTQwYWQ4ZDM4YTllMTVhYWYtMjM4NDU4YzVkY2VjMzc0MGEzZDg3MjczYWQ1MzAzY2UtMTc2MTQyNTg3OS0xNzYxNDE1MDc5JmF1dG9wbGF5PXRydWU%3D"
