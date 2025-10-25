@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "ssc-napoli-vs-inter",
-    "team1": {
-      "name": "SSC Napoli",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
-    },
-    "team2": {
-      "name": "Inter",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png"
-    },
-    "matchTime": "2025-10-25T16:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brest-vs-paris-saint-germain",
     "team1": {
       "name": "Brest",
