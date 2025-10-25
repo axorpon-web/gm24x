@@ -79,6 +79,11 @@
       "name": "Telemundo",
       "player": "pl1",
       "stream_link": "tl"
+    },
+    {
+      "name": "Live Event ",
+      "player": "pl1",
+      "stream_link": "live1"
     }
   ],
   "girona-vs-real-oviedo": [
