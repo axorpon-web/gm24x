@@ -44,11 +44,6 @@
   ],
   "newcastle-united-vs-fulham": [
     {
-      "name": "Fubo Sports ",
-      "player": "pl1",
-      "stream_link": "fubo"
-    },
-    {
       "name": "USA NETWORK ",
       "player": "pl1",
       "stream_link": "usa"
