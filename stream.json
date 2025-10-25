@@ -128,9 +128,9 @@
   ],
   "al-hazem-vs-al-nassr-fc": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "DAZN",
+      "player": "pl1",
+      "stream_link": "daznlive"
     }
   ]
 }
