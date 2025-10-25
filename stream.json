@@ -131,6 +131,16 @@
       "name": "DAZN",
       "player": "pl1",
       "stream_link": "daznlive"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjg5L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWQ1NWMwYmZhYjM5ODc2YzFjNzU0MWFlZTQwYWQ4ZDM4YTllMTVhYWYtMjM4NDU4YzVkY2VjMzc0MGEzZDg3MjczYWQ1MzAzY2UtMTc2MTQyNTg3OS0xNzYxNDE1MDc5JmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNzU2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTZjZmYxOWM5NjU5NDI5ZWU3ZDYwNDg2OTIyOWYxMmU1NjNhMDNlYjAtMGVhOThkYmY0MWVkOWJmZTZiNjY1Mzg5MzUxNjM5YTItMTc2MTQyNTg3OS0xNzYxNDE1MDc5JmF1dG9wbGF5PXRydWU%3D"
     }
   ]
 }
