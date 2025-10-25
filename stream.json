@@ -22,6 +22,11 @@
   ],
   "chelsea-vs-sunderland": [
     {
+      "name": "Live Event ",
+      "player": "pl1",
+      "stream_link": "live1"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_chelsea/index.m3u8"
