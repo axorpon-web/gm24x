@@ -51,9 +51,9 @@
   ],
   "aston-villa-vs-manchester-city": [
     {
-      "name": "FUBO SPORTS ",
+      "name": "Fubo Sports ",
       "player": "pl1",
-      "stream_link": "fubo2"
+      "stream_link": "fubo"
     },
     {
       "name": "USA NETWORK ",
@@ -64,6 +64,21 @@
       "name": "Telemundo",
       "player": "pl1",
       "stream_link": "tl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWM2ODYyYzljOWQ3NzhmNGQ1MWRiOTVjZTI0MDgxZTFjNWJiMTdmNTgtN2Q3MjkxZGYxMjhjMzhmMWQxNDU1OWZhNTVmYzA4MTQtMTc2MTQ5NTA0NS0xNzYxNDg0MjQ1JmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTZhOGUwNzBhODQwNWI2YjZmMDJjYzg4NGFlYzkxOGFkYTlhOTFkYjctYzAwYTMzMGFkMTM2MzI3YjM3ZmI2NzQxN2MxYzRjMWYtMTc2MTQ5NTA0NS0xNzYxNDg0MjQ1JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "bournemouth-vs-nottingham-forest": [
