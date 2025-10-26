@@ -39,9 +39,19 @@
   ],
   "osasuna-vs-celta-vigo": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
+    },
+    {
+      "name": "FancodeX",
+      "player": "pl1",
+      "stream_link": "fcaq"
+    },
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
     }
   ],
   "india-women-vs-australia-women": [
