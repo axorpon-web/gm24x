@@ -27,6 +27,11 @@
       "stream_link": "prem1"
     },
     {
+      "name": "ESPN 2",
+      "player": "pl1",
+      "stream_link": "espn2"
+    },
+    {
       "name": "Sky LaLiga",
       "player": "pl1",
       "stream_link": "sl"
