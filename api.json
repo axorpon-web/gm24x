@@ -1,18 +1,5 @@
 [
   {
-    "id": "al-hazem-vs-al-nassr-fc",
-    "team1": {
-      "name": "Al Hazem",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VZtEayXIvHec3yob5W95H.png"
-    },
-    "team2": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "matchTime": "2025-10-25T18:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-madrid-vs-barcelona",
     "team1": {
       "name": "Real Madrid",
