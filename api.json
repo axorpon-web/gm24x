@@ -1,18 +1,5 @@
 [
   {
-    "id": "brentford-vs-liverpool",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-10-25T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-hazem-vs-al-nassr-fc",
     "team1": {
       "name": "Al Hazem",
