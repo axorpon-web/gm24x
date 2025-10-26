@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-10-26T17:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "india-w-vs-bangladesh-w",
-    "team1": {
-      "name": "India Women",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/indian-women-cricket.png"
-    },
-    "team2": {
-      "name": "Bangladesh Women",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh.png"
-    },
-    "matchTime": "2025-10-26T04:00:00.000",
-    "endTime": ""
   }
 ]
