@@ -20,35 +20,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "manchester-united-vs-brighton": [
-    {
-      "name": "USA NETWORK ",
-      "player": "pl1",
-      "stream_link": "usa"
-    },
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    },
-    {
-      "name": "Live Event ",
-      "player": "pl1",
-      "stream_link": "live1"
-    }
-  ],
-  "girona-vs-real-oviedo": [
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    }
-  ],
   "athletic-bilbao-vs-getafe": [
     {
       "name": "LaLiga Tv",
