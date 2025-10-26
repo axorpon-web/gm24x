@@ -20,45 +20,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "athletic-bilbao-vs-getafe": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    }
-  ],
-  "brentford-vs-liverpool": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    },
-    {
-      "name": "USA NETWORK ",
-      "player": "pl1",
-      "stream_link": "usa"
-    },
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch1.php"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/epl_brentford/index.m3u8"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTk1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTc1MTBmMGNhNjdhM2U1MDgzNzc2OTc0MTNjZmMwZGNiMjg0MzNlNTEtOGY4MzUxMmE4MmQ4ZWZlMzY0Y2QyNGY3NTE4MTU0OWItMTc2MTQyNTg4MC0xNzYxNDE1MDgwJmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
   "al-hazem-vs-al-nassr-fc": [
     {
       "name": "DAZN",
