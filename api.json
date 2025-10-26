@@ -1,18 +1,5 @@
 [
   {
-    "id": "real-madrid-vs-barcelona",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2025-10-26T15:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "everton-vs-tottenham",
     "team1": {
       "name": "Everton",
