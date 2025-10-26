@@ -78,9 +78,14 @@
   ],
   "india-w-vs-bangladesh-w": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "Prime Video ",
+      "player": "pl1",
+      "stream_link": "prime1"
+    },
+    {
+      "name": "Willow",
+      "player": "pl1",
+      "stream_link": "willowasia"
     }
   ]
 }
