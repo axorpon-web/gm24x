@@ -20,58 +20,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "real-madrid-vs-barcelona": [
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "pl1",
-      "stream_link": "prem1"
-    },
-    {
-      "name": "ESPN 2",
-      "player": "pl1",
-      "stream_link": "espn2"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "FANCODE XQ",
-      "player": "pl1",
-      "stream_link": "fcbd"
-    },
-    {
-      "name": "NS PLAYER ",
-      "player": "ns",
-      "stream_link": "https://hls.suanzsd6.com/hd-en-6MuSsYdpeVWWRXjdqZ.m3u8?txSecret=fa33cafa668d5e4045c3bd209734beef&txTime=68FF8BE2"
-    },
-    {
-      "name": "ENGLISH Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch6.php"
-    },
-    {
-      "name": "Spanish Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTEzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTlhYzhjZmQ4ZTM0YTJjZDQ0MTQ3YmI0ZTJlYjc0ZTkxZmUyZjFjYTItMDQxNmJlNzNlMTcyMGY1NjIwZjQ0NWM1NzBhNjQyN2QtMTc2MTQ5NTA0Ny0xNzYxNDg0MjQ3JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Arbic Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDUvaW5kZXgubTN1OD9EVlImdG9rZW49ZTNlMWI5MmI3ZmI2ZGUzYjlkZWNlNDhkNDE1YTA3NzZhM2Q1ZWNmNC1iNzk3ZDU0MDMzYzZhMDZlYTI4M2RjYThkYjFmN2Y5YS0xNzYxNDk1MDQ3LTE3NjE0ODQyNDcmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjc2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTc2NDYwMjYxYjZjNGY4MzBhNThjZmM2YzQ2NGQ4NjlhNGUwMTA5YzAtYWFkNTM1OTIyODg3NTU3ZjUyMmNmZDcxZmQ1NTI4YjktMTc2MTQ5NTA0My0xNzYxNDg0MjQzJmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
   "everton-vs-tottenham": [
     {
       "name": "USA NETWORK ",
