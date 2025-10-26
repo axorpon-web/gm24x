@@ -23,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
     },
     "matchTime": "2025-10-26T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "aston-villa-vs-manchester-city",
@@ -37,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2025-10-26T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "bournemouth-vs-nottingham-forest",
@@ -51,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
     "matchTime": "2025-10-26T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "everton-vs-tottenham",
@@ -65,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2025-10-26T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "osasuna-vs-celta-vigo",
@@ -79,22 +75,20 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
     },
     "matchTime": "2025-10-26T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
-    "id": "india-women-vs-australia-women",
+    "id": "india-w-vs-bangladesh-w",
     "team1": {
       "name": "India Women",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/indian-women-cricket.png"
     },
     "team2": {
-      "name": "Australia Women",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-women.png"
+      "name": "Bangladesh Women",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
     },
-    "matchTime": "2025-10-30T09:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-26T04:00:00.000",
+    "endTime": ""
   },
   {
     "id": "bangladesh-vs-west-indies",
@@ -106,8 +100,7 @@
       "name": "West Indies",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
     },
-    "matchTime": "2025-10-27T12:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-27T12:00:00.000Z",
+    "endTime": ""
   }
 ]
