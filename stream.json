@@ -20,23 +20,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "everton-vs-tottenham": [
-    {
-      "name": "USA NETWORK ",
-      "player": "pl1",
-      "stream_link": "usa"
-    },
-    {
-      "name": "Fubo Sports ",
-      "player": "pl1",
-      "stream_link": "fubo"
-    },
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    }
-  ],
   "osasuna-vs-celta-vigo": [
     {
       "name": "Sky LaLiga",
