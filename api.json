@@ -12,5 +12,19 @@
     "matchTime": "2025-10-27T12:00:00+00:00",
     "endTime": "",
     "sport": "Cricket"
+  },
+  {
+    "id": "real-betis-vs-atletico-madrid",
+    "team1": {
+      "name": "Real Betis",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
+    },
+    "team2": {
+      "name": "Atletico Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
+    },
+    "matchTime": "2025-10-27T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
