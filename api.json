@@ -9,9 +9,8 @@
       "name": "West Indies",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
     },
-    "matchTime": "2025-10-27T12:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-10-27T12:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "real-betis-vs-atletico-madrid",
@@ -24,7 +23,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
     },
     "matchTime": "2025-10-27T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
