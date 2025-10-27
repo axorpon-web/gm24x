@@ -1,18 +1,5 @@
 [
   {
-    "id": "everton-vs-tottenham",
-    "team1": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-10-26T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "osasuna-vs-celta-vigo",
     "team1": {
       "name": "Osasuna",
