@@ -32,6 +32,11 @@
       "name": "FANCODE XQ",
       "player": "pl1",
       "stream_link": "fcbd"
+    },
+    {
+      "name": "ESPN 2",
+      "player": "pl1",
+      "stream_link": "espn2"
     }
   ]
 }
