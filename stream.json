@@ -34,6 +34,11 @@
       "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Fhuolive-pull.yudeyd.com%2Flive%2Fsd-6MvXrNoFWTnDfiLL4Z.m3u8%3Fexpire%3D1761684492%26sign%3Db965de4998be781cb7ed7d7315713392&keyid=null&key=null"
     },
     {
+      "name": "ENGLISH ONLY BD",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/137857_english_hls_18ecf2b39616859_1ta-di_h264/index.m3u8"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Flive.inplyr.com%2Froom%2F549682.m3u8&keyid=null&key=null"
