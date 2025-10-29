@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "australia-vs-india",
+    "team1": {
+      "name": "Australia",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australian-cricket-team.png"
+    },
+    "team2": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "matchTime": "2025-10-31T08:15:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
+  }
+]
