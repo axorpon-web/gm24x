@@ -94,5 +94,19 @@
     "matchTime": "2025-10-29T19:45:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "swansea-vs-manchester-city",
+    "team1": {
+      "name": "Swansea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hXCTQr4Zcnzo5BmL7CB7L.png"
+    },
+    "team2": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "matchTime": "2025-10-29T19:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
