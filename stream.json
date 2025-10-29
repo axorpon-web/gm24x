@@ -46,14 +46,19 @@
   ],
   "roma-vs-parma-calcio-1913": [
     {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch9.php"
-    },
-    {
       "name": "Android/IOS 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/seriea_rom/index.m3u8"
+    },
+    {
+      "name": "Ziggo 2",
+      "player": "pl1",
+      "stream_link": "ziggo2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch9.php"
     }
   ],
   "lorient-vs-paris-saint-germain": [
