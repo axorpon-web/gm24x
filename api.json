@@ -1,18 +1,5 @@
 [
   {
-    "id": "australia-vs-india",
-    "team1": {
-      "name": "Australia",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australian-cricket-team.png"
-    },
-    "team2": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
-    },
-    "matchTime": "2025-10-29T04:15:00.000",
-    "endTime": ""
-  },
-  {
     "id": "bangladesh-vs-west-indies",
     "team1": {
       "name": "Bangladesh",
@@ -36,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png"
     },
     "matchTime": "2025-10-29T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "roma-vs-parma-calcio-1913",
@@ -50,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G_RUYD43lljirbAuQpDvc.png"
     },
     "matchTime": "2025-10-29T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "lorient-vs-paris-saint-germain",
@@ -64,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
     },
     "matchTime": "2025-10-29T18:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "wolverhampton-wanderers-vs-chelsea",
@@ -78,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2025-10-29T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "arsenal-vs-brighton",
@@ -92,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
     },
     "matchTime": "2025-10-29T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "swansea-vs-manchester-city",
@@ -106,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2025-10-29T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "liverpool-vs-crystal-palace",
@@ -120,8 +101,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
     },
     "matchTime": "2025-10-29T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-tottenham",
@@ -134,7 +114,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2025-10-29T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
