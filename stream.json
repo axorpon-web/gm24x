@@ -34,6 +34,11 @@
       "stream_link": "tnt2"
     },
     {
+      "name": "FOX ENGLISH",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://foxenglish.pages.dev/playlist.m3u8"
+    },
+    {
       "name": "FOX HINDI IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://ipl.hypetg.fun/fh.m3u8"
