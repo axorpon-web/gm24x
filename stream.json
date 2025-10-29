@@ -32,6 +32,11 @@
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
+    },
+    {
+      "name": "FOX HINDI IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://ipl.hypetg.fun/fh.m3u8"
     }
   ]
 }
