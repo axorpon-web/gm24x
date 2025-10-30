@@ -13,32 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "lorient-vs-paris-saint-germain",
-    "team1": {
-      "name": "Lorient",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NeLznb4azTQgHCdX6l9X3.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2025-10-29T18:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "wolverhampton-wanderers-vs-chelsea",
-    "team1": {
-      "name": "Wolverhampton Wanderers",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2025-10-29T19:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "arsenal-vs-brighton",
     "team1": {
       "name": "Arsenal",
