@@ -1,18 +1,5 @@
 [
   {
-    "id": "juventus-vs-udinese",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "team2": {
-      "name": "Udinese",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png"
-    },
-    "matchTime": "2025-10-29T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "roma-vs-parma-calcio-1913",
     "team1": {
       "name": "Roma",
