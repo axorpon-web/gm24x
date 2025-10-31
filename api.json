@@ -1,18 +1,5 @@
 [
   {
-    "id": "india-vs-australia",
-    "team1": {
-      "name": "India",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_xQfF9RaSzyM0AnVFyGHAFXhfOII2Ma0TPUytaBO_2dE7XRoHCxsURO0&s=10"
-    },
-    "team2": {
-      "name": "Australia",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpiYfE2aJxMgt_CHUmRBinfnsn4GR0LfN6Dtvya2BxSNWt8vvjV-I6aCa&s=10"
-    },
-    "matchTime": "2025-10-31T14:00:00.000",
-    "endTime": ""
-  },
-  {
     "id": "new-zealand-vs-west-indies",
     "team1": {
       "name": "Bangladesh",
