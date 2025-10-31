@@ -37,6 +37,16 @@
       "name": "Willow",
       "player": "pl1",
       "stream_link": "willowasia"
+    },
+    {
+      "name": "FOX HINDI IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-15/qiz6-ltf7/chunklist.m3u8"
+    },
+    {
+      "name": "FOX ENGLISH IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-99/8cvk-zh9f/chunklist.m3u8"
     }
   ]
 }
