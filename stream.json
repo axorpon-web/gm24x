@@ -59,6 +59,11 @@
       "name": "FANCODE XQ",
       "player": "pl1",
       "stream_link": "fcbd"
+    },
+    {
+      "name": "Android/IOS ONLY BD",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/137373_english_hls_83c04e80a093365_1ta-di_h264/index.m3u8"
     }
   ]
 }
