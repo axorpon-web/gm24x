@@ -22,22 +22,7 @@
       "name": "West Indies",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
     },
-    "matchTime": "2025-11-05T06:15:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
-  },
-  {
-    "id": "bangladesh-under-19s-vs-afghanistan-under-19s",
-    "team1": {
-      "name": "Bangladesh Under-19s",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh-u-19-cricket.png"
-    },
-    "team2": {
-      "name": "Afghanistan Under-19s",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/afghanistan-u-19-cricket.png"
-    },
-    "matchTime": "2025-10-31T03:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-05T06:15:00.000Z",
+    "endTime": ""
   }
 ]
