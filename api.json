@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-10-31T14:50:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "burnley-vs-arsenal",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "matchTime": "2025-11-01T15:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
