@@ -65,6 +65,11 @@
   ],
   "nottingham-forest-vs-manchester-united": [
     {
+      "name": "PEACOCK TV",
+      "player": "pl1",
+      "stream_link": "pc2"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWNkOTVmNmM3ZGU5MDEyMGIwMmJkZmNjNGYwNWY0YzcxOGFhZjY5N2MtZDYwM2Q2NmI0ZmZlY2Y1MzNmMDBhMmY0NTNmZTczZGUtMTc2MjAyMDE4NS0xNzYyMDA5Mzg1JmF1dG9wbGF5PXRydWU%3D"
