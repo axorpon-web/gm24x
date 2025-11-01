@@ -68,9 +68,19 @@
   ],
   "real-sociedad-vs-athletic-bilbao": [
     {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjc2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWM5ZjZkNDZiNWZlOTU3NzgwMTczZDBkOWMwMTgzNDQzZDFkOWNlNmMtMWZjZGY5MmEwNTcxNWUxNDVkYjAwZmUzMTQ2MTNjMGEtMTc2MjAyODY3NS0xNzYyMDE3ODc1JmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
       "name": "Sky LaLiga",
       "player": "pl1",
       "stream_link": "sl"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDE1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTI3YWQ4NmI0ODVlNjJiY2EzNWNhNTg5ZTI3NjYyOWNhNTk1ODA4NjItOTRmYTQ4NzdiNzljNzMzNDJiZGNiZGYyYWU0OTI0NmMtMTc2MjAyODY3NS0xNzYyMDE3ODc1JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "real-madrid-vs-valencia": [
