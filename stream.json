@@ -29,9 +29,19 @@
   ],
   "tottenham-vs-chelsea": [
     {
-      "name": "Server 1",
+      "name": "PEACOCK TV 1",
+      "player": "pl1",
+      "stream_link": "pc1"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzgvaW5kZXgubTN1OD9EVlImdG9rZW49NWQzNjM0NjBmYTU2Mzc4YjBkOWIzNWIzMTJmYjFhMzY5YzVmOTgzOC1jYmZkY2RjMDYyYzJhOWZlZTNkMThhM2E1MDliZTZjOC0xNzYyMDI4Njc3LTE3NjIwMTc4NzcmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTk1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTY3ZjNmZDA1OGE4YjAxZGY3MTgwYjYyYmQzNjgzYTM1Y2RmNmIzOWMtMDkwYzFkZDRkNGE1ODkyOTM4MGFlMjQxNDA0M2NlNmEtMTc2MjAyODY3Ny0xNzYyMDE3ODc3JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "atletico-madrid-vs-sevilla": [
