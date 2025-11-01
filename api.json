@@ -1,18 +1,5 @@
 [
   {
-    "id": "getafe-vs-girona",
-    "team1": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
-    },
-    "team2": {
-      "name": "Girona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
-    },
-    "matchTime": "2025-10-31T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-hilal-vs-al-shabab",
     "team1": {
       "name": "Al Hilal",
