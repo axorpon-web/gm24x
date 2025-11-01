@@ -1,18 +1,5 @@
 [
   {
-    "id": "fulham-vs-wolverhampton-wanderers",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "team2": {
-      "name": "Wolverhampton Wanderers",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
-    },
-    "matchTime": "2025-11-01T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-chelsea",
     "team1": {
       "name": "Tottenham",
