@@ -1,18 +1,5 @@
 [
   {
-    "id": "al-hilal-vs-al-shabab",
-    "team1": {
-      "name": "Al Hilal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7B-B14BUExP3pp4zNnlrX.png"
-    },
-    "team2": {
-      "name": "Al Shabab",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YjgZPpc-f4FWVq4YlWvJ0.png"
-    },
-    "matchTime": "2025-10-31T14:50:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "burnley-vs-arsenal",
     "team1": {
       "name": "Burnley",
