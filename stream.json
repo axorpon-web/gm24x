@@ -43,6 +43,16 @@
   ],
   "burnley-vs-arsenal": [
     {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTQ5NTZkMGQyNTFiM2ZjNjI1MDExYmVhZjhkNzY4NWViOWMwZGYyNGQtMjBlNzNmNzEwYTMxY2UxMGQ5NWNmMzAxMmRlNWY0MDEtMTc2MjAwNjMzNy0xNzYxOTk1NTM3JmF1dG9wbGF5PXRydWU%3D"
