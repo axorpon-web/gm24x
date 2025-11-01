@@ -27,13 +27,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "getafe-vs-girona": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    }
-  ],
   "al-hilal-vs-al-shabab": [
     {
       "name": "Fox Sports ",
@@ -64,11 +57,6 @@
     }
   ],
   "nottingham-forest-vs-manchester-united": [
-    {
-      "name": "PEACOCK TV",
-      "player": "pl1",
-      "stream_link": "pc2"
-    },
     {
       "name": "Server 1",
       "player": "f1",
