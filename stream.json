@@ -86,6 +86,11 @@
       "name": "Willow",
       "player": "pl1",
       "stream_link": "willowasia"
+    },
+    {
+      "name": "FOX 501/Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/e.m3u8"
     }
   ]
 }
