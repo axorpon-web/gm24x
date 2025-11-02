@@ -63,6 +63,11 @@
   ],
   "manchester-city-vs-bournemouth": [
     {
+      "name": "SKY SPORTS ",
+      "player": "pl1",
+      "stream_link": "skytp"
+    },
+    {
       "name": "USA NETWORK ",
       "player": "pl1",
       "stream_link": "usa"
@@ -76,6 +81,21 @@
       "name": "Telemundo",
       "player": "pl1",
       "stream_link": "tl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTMwL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWZmYjhmMjQ2NjU0NzhjNDQxN2VkNzQwNWU2YzY5YTcwZjdkNzkxYmYtYzI0NmRhZjM3YTA0MmQ1ZGQ3NGZiZjhiYjY4Y2NlYzQtMTc2MjExMTUxMC0xNzYyMTAwNzEwJmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzgvaW5kZXgubTN1OD9EVlImdG9rZW49ZTRjODU3ZjUwMzI5NDRjM2M0MzhjZTRjNWEyZTYzZDk1YzJiZWNlOS1iMmFlNWE4MzY2NzEyZDYyZWNmMTUwZGU4M2JlYWRkMy0xNzYyMTExNTEwLTE3NjIxMDA3MTAmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWNhY2UzODMyYjM0YWJkZjBkODE0NTJlMDU2ZmQ2NGUyYzg2NWNiYzktY2YxYTZmMmM1NDhlMjRhYTQ4NWY0NmQ2YjRjNGU2NzctMTc2MjExMTUwOS0xNzYyMTAwNzA5JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "real-betis-vs-mallorca": [
