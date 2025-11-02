@@ -11,5 +11,19 @@
     },
     "matchTime": "2025-11-02T17:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "west-ham-vs-newcastle-united",
+    "team1": {
+      "name": "West Ham",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "matchTime": "2025-11-02T14:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
