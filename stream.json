@@ -27,38 +27,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
-  "real-madrid-vs-valencia": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch6.php"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.hexvai56.workers.dev/ll_rma/index.m3u8"
-    },
-    {
-      "name": "Android/IOS 3",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzc1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWNkMGE5NDI0ODc3MThmOTg1MTQ1NzZmMjQ5NmE3OTZlMTM4OWZjNmYtMDIyNmU1NTFhM2VkYWE2YWU2MWNiYmVmZmNiOWRjZWMtMTc2MjAzMTI1Ny0xNzYyMDIwNDU3JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 4",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMjc2L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTc2MGUxZmQzMGEzMTJjYWZkNGE1ZWU5YWE0Nzc5YzVlYWYzNDRiY2MtMDFiNTFkZmE1ODBlMDNhNGRlMjlkYjgxNzM3ZDFiY2EtMTc2MjAzMTI1OC0xNzYyMDIwNDU4JmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
   "barcelona-vs-elche": [
     {
       "name": "Server 1",
