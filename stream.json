@@ -91,9 +91,19 @@
   ],
   "deportivo-alaves-vs-espanyol": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "FANCODE XQ",
+      "player": "pl1",
+      "stream_link": "fcbd"
+    },
+    {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
+    },
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
     }
   ]
 }
