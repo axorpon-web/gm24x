@@ -1,18 +1,5 @@
 [
   {
-    "id": "manchester-city-vs-bournemouth",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "matchTime": "2025-11-02T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-betis-vs-mallorca",
     "team1": {
       "name": "Real Betis",
