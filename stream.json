@@ -82,9 +82,29 @@
   ],
   "liverpool-vs-real-madrid": [
     {
+      "name": "Prime Video ",
+      "player": "pl1",
+      "stream_link": "prime1"
+    },
+    {
       "name": "Ziggo 2",
       "player": "pl1",
       "stream_link": "ziggo2"
+    },
+    {
+      "name": "TUDN USA / IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNjYvaW5kZXgubTN1OD9EVlImdG9rZW49NTc1YTJjYjI1NDA5NDMwMDY1MzI0ZTIyOGMzNmM0NTIxMDRlMTI5Ny0yYTE3Y2ZhMTU1MTVhOGEwODU1ODhhNGNhY2M1ZjM4ZS0xNzYyMjkyOTYyLTE3NjIyODIxNjImYXV0b3BsYXk9dHJ1ZQ%3D%3D"
+    },
+    {
+      "name": "SuperSport Premier League (IOS)",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNDE0L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWIxOWNkNmY5NTA3Mzc2NTBlZDkxNzc4OWE1M2E0ZGU4MTUxNWI2MzYtZjNhYTg5YzU4YWUwOGVlMWYyYWM2MDI4YzRlOTRmMmUtMTc2MjI5Mjk2Mi0xNzYyMjgyMTYyJmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "beIN Sports MENA English 1 (IOS)",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNjEvaW5kZXgubTN1OD9EVlImdG9rZW49ZDM4ZjhjZmNlNzA1YmE5OGE1NzBjY2U0MmExMjQ4ZTJmZWZiYTNjNi1mMjNmYTFmZTY4MDBkY2ViOTg2ZmJmM2YwODRkN2ZmOC0xNzYyMjkyOTYyLTE3NjIyODIxNjImYXV0b3BsYXk9dHJ1ZQ%3D%3D"
     }
   ],
   "paris-saint-germain-vs-bayern-munich": [
