@@ -97,6 +97,11 @@
       "stream_link": "prime1"
     },
     {
+      "name": "TUDN",
+      "player": "pl1",
+      "stream_link": "tudn"
+    },
+    {
       "name": "Ziggo 2",
       "player": "pl1",
       "stream_link": "ziggo2"
