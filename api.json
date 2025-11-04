@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "juventus-vs-sporting-cp",
+    "team1": {
+      "name": "Juventus",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
+    },
+    "team2": {
+      "name": "Sporting CP",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png"
+    },
+    "matchTime": "2025-11-04T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
