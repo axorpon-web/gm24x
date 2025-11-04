@@ -43,12 +43,12 @@
     {
       "name": "NS PLAYER ",
       "player": "ns",
-      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd"
+      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd"
     },
     {
       "name": "PC",
       "player": "ad",
-      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd"
+      "stream_link": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd"
     }
   ],
   "atletico-madrid-vs-union-st.gilloise": [
