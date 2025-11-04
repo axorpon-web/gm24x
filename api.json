@@ -82,5 +82,19 @@
     "matchTime": "2025-11-04T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "tottenham-vs-fc-copenhagen",
+    "team1": {
+      "name": "Tottenham",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
+    },
+    "team2": {
+      "name": "FC Copenhagen",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6fI5Od-fvYeXN0W0P6Y6t.png"
+    },
+    "matchTime": "2025-11-04T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
