@@ -1,18 +1,5 @@
 [
   {
-    "id": "slavia-prague-vs-arsenal",
-    "team1": {
-      "name": "Slavia Prague",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VKbRDYN3uOPopTT0wEI1U.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2025-11-04T17:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "atletico-madrid-vs-union-st.gilloise",
     "team1": {
       "name": "Atletico Madrid",
