@@ -63,18 +63,5 @@
     },
     "matchTime": "2025-11-05T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "NZ-VS-WI",
-    "team1": {
-      "name": "New Zealand",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png"
-    },
-    "team2": {
-      "name": "West Indies",
-      "logo": "https://static.vecteezy.com/system/resources/previews/024/839/650/non_2x/illustration-of-west-indies-flag-design-vector.jpg"
-    },
-    "matchTime": "2025-11-05T12:10:00.000",
-    "endTime": ""
   }
 ]
