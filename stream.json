@@ -94,6 +94,11 @@
       "name": "FANCODE XQ",
       "player": "pl1",
       "stream_link": "fcbd"
+    },
+    {
+      "name": "SportDigital",
+      "player": "pl1",
+      "stream_link": "sptdg"
     }
   ],
   "pafos-fc-vs-villarreal": [
