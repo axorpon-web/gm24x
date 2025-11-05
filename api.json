@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2025-11-05T17:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "club-brugge-vs-barcelona",
@@ -24,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
     "matchTime": "2025-11-05T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "inter-vs-kairat-almaty",
@@ -38,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XaZrX3ZI3Iu0WLjh7oq0K.png"
     },
     "matchTime": "2025-11-05T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-borussia-dortmund",
@@ -52,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
     },
     "matchTime": "2025-11-05T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-athletic-bilbao",
@@ -66,21 +62,19 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
     },
     "matchTime": "2025-11-05T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
-    "id": "south-africa-vs-pakistan",
+    "id": "NZ-VS-WI",
     "team1": {
-      "name": "South Africa",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
+      "name": "New Zealand",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png"
     },
     "team2": {
-      "name": "Pakistan",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
+      "name": "West Indies",
+      "logo": "https://static.vecteezy.com/system/resources/previews/024/839/650/non_2x/illustration-of-west-indies-flag-design-vector.jpg"
     },
-    "matchTime": "2025-11-04T10:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-05T12:10:00.000",
+    "endTime": ""
   }
 ]
