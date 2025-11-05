@@ -54,5 +54,19 @@
     "matchTime": "2025-11-05T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "newcastle-united-vs-athletic-bilbao",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "Athletic Bilbao",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
+    },
+    "matchTime": "2025-11-05T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
