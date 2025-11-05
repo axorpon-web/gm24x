@@ -1,18 +1,5 @@
 [
   {
-    "id": "qarabag-fk-vs-chelsea",
-    "team1": {
-      "name": "Qarabag FK",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/30vZK0Os1U2vIIkadPZre.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2025-11-05T17:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "club-brugge-vs-barcelona",
     "team1": {
       "name": "Club Brugge",
