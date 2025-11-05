@@ -12,5 +12,19 @@
     "matchTime": "2025-11-05T17:45:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "club-brugge-vs-barcelona",
+    "team1": {
+      "name": "Club Brugge",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
+    },
+    "matchTime": "2025-11-05T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
