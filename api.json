@@ -76,5 +76,19 @@
     },
     "matchTime": "2025-11-05T18:15:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "pafos-fc-vs-villarreal",
+    "team1": {
+      "name": "Pafos FC",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TeuWqJJgWyCa6fjuxWc_F.png"
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
+    },
+    "matchTime": "2025-11-05T17:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
