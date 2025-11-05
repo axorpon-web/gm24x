@@ -68,5 +68,19 @@
     "matchTime": "2025-11-05T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "south-africa-vs-pakistan",
+    "team1": {
+      "name": "South Africa",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
+    },
+    "team2": {
+      "name": "Pakistan",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-cricket-team.png"
+    },
+    "matchTime": "2025-11-04T10:00:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
