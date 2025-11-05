@@ -56,6 +56,11 @@
   ],
   "club-brugge-vs-barcelona": [
     {
+      "name": "PARAMOUNT",
+      "player": "pl1",
+      "stream_link": "pm1"
+    },
+    {
       "name": "TNT SPORTS 4",
       "player": "pl1",
       "stream_link": "tnt4"
