@@ -1,18 +1,5 @@
 [
   {
-    "id": "ssc-napoli-vs-eintracht-frankfurt",
-    "team1": {
-      "name": "SSC Napoli",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
-    },
-    "team2": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2Myurk0GUKAA2rF21Tx4Z.png"
-    },
-    "matchTime": "2025-11-04T17:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "paris-saint-germain-vs-bayern-munich",
     "team1": {
       "name": "Paris Saint-Germain",
