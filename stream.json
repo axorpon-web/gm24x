@@ -29,6 +29,11 @@
   ],
   "qarabag-fk-vs-chelsea": [
     {
+      "name": "Live Event ",
+      "player": "pl1",
+      "stream_link": "live1"
+    },
+    {
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
