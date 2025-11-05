@@ -40,5 +40,19 @@
     "matchTime": "2025-11-05T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "manchester-city-vs-borussia-dortmund",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Borussia Dortmund",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
+    },
+    "matchTime": "2025-11-05T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
