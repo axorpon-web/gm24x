@@ -12,5 +12,19 @@
     "matchTime": "2025-11-06T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "aston-villa-vs-maccabi-tel-aviv",
+    "team1": {
+      "name": "Aston Villa",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
+    },
+    "team2": {
+      "name": "Maccabi Tel Aviv",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eg77ufkN4KXIaNnVmtS3N.png"
+    },
+    "matchTime": "2025-11-06T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
