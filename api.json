@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "crystal-palace-vs-az-alkmaar",
+    "team1": {
+      "name": "Crystal Palace",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
+    },
+    "team2": {
+      "name": "AZ Alkmaar",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X963ylMA_nSxn3F6AOvrP.png"
+    },
+    "matchTime": "2025-11-06T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
