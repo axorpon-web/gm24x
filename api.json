@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-11-06T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "real-betis-vs-lyon",
-    "team1": {
-      "name": "Real Betis",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
-    },
-    "team2": {
-      "name": "Lyon",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png"
-    },
-    "matchTime": "2025-11-06T20:00:00.000Z",
-    "endTime": ""
   }
 ]
