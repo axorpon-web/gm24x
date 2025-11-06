@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "west-indies-vs-new-zealand",
+    "team1": {
+      "name": "West Indies",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/west-indies-cricket-team.png"
+    },
+    "team2": {
+      "name": "New Zealand",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/new-zealand-2.png"
+    },
+    "matchTime": "2025-11-05T06:15:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
+  }
+]
