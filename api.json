@@ -11,5 +11,19 @@
     },
     "matchTime": "2025-11-06T12:10:00.000",
     "endTime": ""
+  },
+  {
+    "id": "australia-vs-india",
+    "team1": {
+      "name": "Australia",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australian-cricket-team.png"
+    },
+    "team2": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "matchTime": "2025-11-08T08:15:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
