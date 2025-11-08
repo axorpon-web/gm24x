@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "girona-vs-deportivo-alaves",
-    "team1": {
-      "name": "Girona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
-    },
-    "team2": {
-      "name": "Deportivo Alaves",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
-    },
-    "matchTime": "2025-11-08T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "atletico-madrid-vs-levante",
     "team1": {
       "name": "Atletico Madrid",
