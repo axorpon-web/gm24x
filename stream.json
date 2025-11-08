@@ -75,9 +75,19 @@
   ],
   "sunderland-vs-arsenal": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTAzNTIxMS9pbmRleC5tM3U4P0RWUiZ0b2tlbj0xMDZhZGZlM2M1ZTUyZjE3ZmJiYzU2ZGZjMTFlMWUwYTcyYjM2MzMyLTQ1ZmNjNGE1MWY3ZWU1NWVkOWIwNDNiOWYyZDdiZjExLTE3NjI2MzM0MzctMTc2MjYyMjYzNyZhdXRvcGxheT10cnVl"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzgvaW5kZXgubTN1OD9EVlImdG9rZW49Nzc1MzY1Y2ZlYmRiZTRlZjYxMWUxODRjZmQxN2UwNzc1NjVmY2E0Ni0xMWFmMWQ0MGE3ZTJjM2I2MGMyODZhZDAwZjc0NzFkYS0xNzYyNjMzNDQyLTE3NjI2MjI2NDImYXV0b3BsYXk9dHJ1ZQ%3D%3D"
     }
   ],
   "atletico-madrid-vs-levante": [
