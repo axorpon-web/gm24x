@@ -80,9 +80,24 @@
   ],
   "everton-vs-fulham": [
     {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTk1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTRhZjlhNDM3MmM5NDEyZGYzODMwZTM2YjcwNjVlYTg0ZjU1OGU3ZjEtZTcyMzM3MGU4ZThmZDZhMzAzZTlkNjNjZjBkNDkyZWQtMTc2MjYyMTc3NC0xNzYyNjEwOTc0JmF1dG9wbGF5PXRydWU%3D"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTU4ZjMxZjkxNmE2YmNmMGQ1ZGE4Mjg5NTQ5ZjUyNzZlNWMzODUyY2UtZjZhNzg4ZGFiMjM1ZjRjYWM1N2NlNjMzZmM2M2FiODItMTc2MjYyMTc3NC0xNzYyNjEwOTc0JmF1dG9wbGF5PXRydWU%3D"
     }
   ],
   "sunderland-vs-arsenal": [
