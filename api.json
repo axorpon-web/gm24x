@@ -1,18 +1,5 @@
 [
   {
-    "id": "tottenham-vs-manchester-united",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "matchTime": "2025-11-08T12:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "west-ham-vs-burnley",
     "team1": {
       "name": "West Ham",
