@@ -133,5 +133,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
+  ],
+  "f1": [
+    {
+      "name": "TSN 2",
+      "player": "pl1",
+      "stream_link": "tsn2"
+    }
   ]
 }
