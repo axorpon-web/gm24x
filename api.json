@@ -128,5 +128,19 @@
     },
     "matchTime": "2025-11-08T13:50:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "union-berlin-vs-bayern-munich",
+    "team1": {
+      "name": "Union Berlin",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png"
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
+    },
+    "matchTime": "2025-11-08T14:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
