@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "bayer-leverkusen-vs-fc-heidenheim",
-    "team1": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
-    },
-    "team2": {
-      "name": "FC Heidenheim",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PLpiKddTc2GU0ZKAokqJo.png"
-    },
-    "matchTime": "2025-11-08T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "neom-sc-vs-al-nassr-fc",
     "team1": {
       "name": "Neom SC",
