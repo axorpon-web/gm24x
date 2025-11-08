@@ -75,6 +75,11 @@
   ],
   "sunderland-vs-arsenal": [
     {
+      "name": "PEACOCK TV 1",
+      "player": "pl1",
+      "stream_link": "pc1"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
