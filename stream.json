@@ -120,6 +120,11 @@
       "name": "SportDigital",
       "player": "pl1",
       "stream_link": "sptdg"
+    },
+    {
+      "name": "Sport Tv",
+      "player": "pl1",
+      "stream_link": "spotv"
     }
   ]
 }
