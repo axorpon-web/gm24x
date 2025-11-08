@@ -171,14 +171,14 @@
   ],
   "f1": [
     {
-      "name": "TSN 3",
-      "player": "pl1",
-      "stream_link": "tsn3"
-    },
-    {
       "name": "FancodeX",
       "player": "pl1",
       "stream_link": "fcaq"
+    },
+    {
+      "name": "TSN 3",
+      "player": "pl1",
+      "stream_link": "tsn3"
     }
   ]
 }
