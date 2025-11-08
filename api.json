@@ -1,18 +1,5 @@
 [
   {
-    "id": "everton-vs-fulham",
-    "team1": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "team2": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "matchTime": "2025-11-08T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "sunderland-vs-arsenal",
     "team1": {
       "name": "Sunderland",
