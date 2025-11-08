@@ -36,6 +36,11 @@
   ],
   "tottenham-vs-manchester-united": [
     {
+      "name": "PEACOCK TV 1",
+      "player": "pl1",
+      "stream_link": "pc1"
+    },
+    {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
