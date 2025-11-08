@@ -41,6 +41,11 @@
       "stream_link": "pc1"
     },
     {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
