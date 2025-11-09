@@ -55,11 +55,6 @@
   ],
   "manchester-city-vs-liverpool": [
     {
-      "name": "PEACOCK TV.",
-      "player": "pl1",
-      "stream_link": "pc3"
-    },
-    {
       "name": "USA NETWORK ",
       "player": "pl1",
       "stream_link": "usa"
@@ -68,33 +63,6 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzQzL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWExYTQ4MzliOWQyOTFmN2RiMWFlNzYyYTZmNzM5NmZkZmNiMmRhY2UtZDE5YzdiM2RkYzBlZjY3YTg5NDIzNTI3OTgzMjA3YzYtMTc2MjcxNTg5My0xNzYyNzA1MDkzJmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzgvaW5kZXgubTN1OD9EVlImdG9rZW49YzA5MjNmOGFiZTkxMmRlNDVhZTgzNmFlMTdlMTY3NjZlNTE0N2JiYi1hMDg3OGYxZDM3NTE1ZTU3N2ZlYWY0NGMxODFmNWE1YS0xNzYyNzE1ODkzLTE3NjI3MDUwOTMmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMTMwL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTMzYmZhMDNjYmFhYTgwZTI2YTI4ZmIzOTZlMjE2MDhhYzNjM2U1MjUtNDc3Njc4YTVmZmQ4NzM3NDY0Y2JhZjI0NDljNmYyZTEtMTc2MjcxNTg5NC0xNzYyNzA1MDk0JmF1dG9wbGF5PXRydWU%3D"
-    }
-  ],
-  "athletic-bilbao-vs-real-oviedo": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
     }
   ],
   "rayo-vallecano-vs-real-madrid": [
