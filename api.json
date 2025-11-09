@@ -1,18 +1,5 @@
 [
   {
-    "id": "atletico-madrid-vs-levante",
-    "team1": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "team2": {
-      "name": "Levante",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O-dLKNu7kxdqPWfH2EpDy.png"
-    },
-    "matchTime": "2025-11-08T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "juventus-vs-torino",
     "team1": {
       "name": "Juventus",
