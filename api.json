@@ -1,18 +1,5 @@
 [
   {
-    "id": "sunderland-vs-arsenal",
-    "team1": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2025-11-08T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "atletico-madrid-vs-levante",
     "team1": {
       "name": "Atletico Madrid",
