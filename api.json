@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "athletic-bilbao-vs-real-oviedo",
-    "team1": {
-      "name": "Athletic Bilbao",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
-    },
-    "team2": {
-      "name": "Real Oviedo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
-    },
-    "matchTime": "2025-11-09T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "rayo-vallecano-vs-real-madrid",
     "team1": {
       "name": "Rayo Vallecano",
