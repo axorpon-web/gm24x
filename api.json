@@ -1,18 +1,5 @@
 [
   {
-    "id": "juventus-vs-torino",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "team2": {
-      "name": "Torino",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XIDF_vywpIBsnMCyYmnLJ.png"
-    },
-    "matchTime": "2025-11-08T17:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "f1",
     "team1": {
       "name": "Formula 1",
