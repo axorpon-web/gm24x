@@ -72,6 +72,11 @@
   ],
   "brentford-vs-newcastle-united": [
     {
+      "name": "PEACOCK TV 1",
+      "player": "pl1",
+      "stream_link": "pc1"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzgvaW5kZXgubTN1OD9EVlImdG9rZW49NzA4NjUyNTRiMjM5YTUzOWE4MzQ3MWMwNmFjNzQ4MDhjMDYyZTZjNC1kOGNhMTM1Nzg1OTVlMWNjZWY0MjZhYTI0ZmYwMDk5My0xNzYyNzA2MDQ5LTE3NjI2OTUyNDkmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
