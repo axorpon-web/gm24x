@@ -55,6 +55,11 @@
   ],
   "crystal-palace-vs-brighton": [
     {
+      "name": "PEACOCK TV",
+      "player": "pl1",
+      "stream_link": "pc2"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vNTkxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTI5ZGYwMzg5MWYzMjVmMDA5MTVjMWNlZTY0MjY2NTBmYTMyMjhiZTEtMWI0NjNhOTI1NzVlOTU1MzM4YjUzZjJlOWE4NmRlZTgtMTc2MjcwNjA1MC0xNzYyNjk1MjUwJmF1dG9wbGF5PXRydWU%3D"
