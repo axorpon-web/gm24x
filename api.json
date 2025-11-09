@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "brentford-vs-newcastle-united",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "matchTime": "2025-11-09T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "aston-villa-vs-bournemouth",
     "team1": {
       "name": "Aston Villa",
