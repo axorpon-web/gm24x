@@ -55,19 +55,24 @@
   ],
   "manchester-city-vs-liverpool": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "PEACOCK TV.",
       "player": "pl1",
       "stream_link": "pc3"
     },
     {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
       "name": "USA NETWORK ",
       "player": "pl1",
       "stream_link": "usa"
-    },
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
     },
     {
       "name": "Android/IOS",
