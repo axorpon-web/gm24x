@@ -157,9 +157,14 @@
       "stream_link": "lltv"
     },
     {
-      "name": "FancodeX",
-      "player": "pl1",
-      "stream_link": "fcaq"
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportzonline.live/channels/pt/eleven2.php"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch6.php"
     }
   ],
   "roma-vs-udinese": [
