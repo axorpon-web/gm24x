@@ -150,6 +150,16 @@
       "name": "Sky LaLiga",
       "player": "pl1",
       "stream_link": "sl"
+    },
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
+      "name": "FancodeX",
+      "player": "pl1",
+      "stream_link": "fcaq"
     }
   ],
   "roma-vs-udinese": [
