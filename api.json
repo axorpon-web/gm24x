@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-city-vs-liverpool",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-11-09T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "rayo-vallecano-vs-real-madrid",
     "team1": {
       "name": "Rayo Vallecano",
