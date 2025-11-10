@@ -53,48 +53,6 @@
       "stream_link": "tsn3"
     }
   ],
-  "rayo-vallecano-vs-real-madrid": [
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    },
-    {
-      "name": "PREMIER SPORTS 2",
-      "player": "pl1",
-      "stream_link": "pm2"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://xp.tvn889419.workers.dev/ESPN-Deportes-BU/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iYWJieXNwb3J0cy5jb20vMzc1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWQ2MGNmZjQyMTljNzdlYWVkNTQ3Y2E1Mzk5MTZiMzc1MjNhMDBiYjctYTljMzBmZjMyNjQ3MzMzYTBiMWJiYjRhYWM1NWM5ZDAtMTc2MjcxMTI2Ny0xNzYyNzAwNDY3JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.pro%2Fembed%2Fch6.php"
-    },
-    {
-      "name": "BUFFERLESS ALL DEVICE ",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/sport/202_4305549_2.m3u8"
-    }
-  ],
   "roma-vs-udinese": [
     {
       "name": "Server 1",
