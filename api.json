@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-11-08T13:50:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "roma-vs-udinese",
-    "team1": {
-      "name": "Roma",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png"
-    },
-    "team2": {
-      "name": "Udinese",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png"
-    },
-    "matchTime": "2025-11-09T17:00:00.000Z",
-    "endTime": ""
   }
 ]
