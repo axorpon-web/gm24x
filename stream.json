@@ -58,6 +58,11 @@
       "name": "FS TV 2",
       "player": "pl1",
       "stream_link": "fs2"
+    },
+    {
+      "name": "Ziggo 3",
+      "player": "pl1",
+      "stream_link": "ziggo3"
     }
   ],
   "england-vs-serbia": [
