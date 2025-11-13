@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-11-13T14:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "ireland-vs-portugal",
+    "team1": {
+      "name": "Ireland",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fy9TB3bbVB02qKiOKoYvt.png"
+    },
+    "team2": {
+      "name": "Portugal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TgVcm6fGZ73VvkIX-vEnP.png"
+    },
+    "matchTime": "2025-11-13T19:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
