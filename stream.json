@@ -43,9 +43,9 @@
   ],
   "ireland-vs-portugal": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "SporTV",
+      "player": "pl1",
+      "stream_link": "sportv"
     }
   ],
   "france-vs-ukraine": [
