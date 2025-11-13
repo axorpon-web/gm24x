@@ -43,6 +43,11 @@
   ],
   "bangladesh-vs-nepal": [
     {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9zYXNlcmllcy5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIxMTAwOTcvdGFwcGFrL2hkbnRsPWV4cD0xNzYzMTI2MzY4fmFjbD0lMmYqfmRhdGE9aGRudGx%2BaG1hYz0yZWIwMmMwNDQzYjBiNTdkMTg1NDg4ODY4NTA0NjEzNDFiYmFhMTA5ZWJlYjBiYTk1NWMxNmQ0MjIyNWRkYzViL2xldmVsXzMubTN1OA%3D%3D"
+    },
+    {
       "name": "All Device",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://player.kick.com/himelbroisalive"
