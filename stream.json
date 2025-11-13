@@ -40,5 +40,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
+  ],
+  "bangladesh-vs-nepal": [
+    {
+      "name": "All Device",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://player.kick.com/himelbroisalive"
+    }
   ]
 }
