@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "bangladesh-vs-nepal",
-    "team1": {
-      "name": "Bangladesh",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/u8OGrp0lu2VZS9hfewjyI.png"
-    },
-    "team2": {
-      "name": "Nepal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hsNcwOjt0WsV8wqvTyoub.png"
-    },
-    "matchTime": "2025-11-13T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "ireland-vs-portugal",
     "team1": {
       "name": "Ireland",
@@ -36,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TgVcm6fGZ73VvkIX-vEnP.png"
     },
     "matchTime": "2025-11-13T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "france-vs-ukraine",
@@ -50,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/750f4vTZcreZhgkK1eG57.png"
     },
     "matchTime": "2025-11-13T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "england-vs-serbia",
@@ -64,7 +49,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BgFfyB25fJWkhT6EdI1Hc.png"
     },
     "matchTime": "2025-11-13T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
