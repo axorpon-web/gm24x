@@ -46,6 +46,11 @@
       "name": "SporTV",
       "player": "pl1",
       "stream_link": "sportv"
+    },
+    {
+      "name": "Ziggo 2",
+      "player": "pl1",
+      "stream_link": "ziggo2"
     }
   ],
   "france-vs-ukraine": [
