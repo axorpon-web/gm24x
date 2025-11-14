@@ -48,9 +48,9 @@
       "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Flive.vivo200.com%2Flive%2Fsd-1-4451086.m3u8%3FtxSecret%3D4b3c1fd075fcf4c4533e1390fa56821e%26txTime%3D6917986C&keyid=null&key=null"
     },
     {
-      "name": "CAZE TV",
+      "name": "All devices ",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://live.inplyr.com/room/118206.m3u8"
     },
     {
       "name": "FUBO",
