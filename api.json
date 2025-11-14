@@ -1,18 +1,5 @@
 [
   {
-    "id": "angola-vs-argentina",
-    "team1": {
-      "name": "Angola",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wli5WEnDymklRZ4m4aOPg.png"
-    },
-    "team2": {
-      "name": "Argentina",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GmWv3eisSFbOruHsbYyM5.png"
-    },
-    "matchTime": "2025-11-14T16:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "india-vs-south-africa",
     "team1": {
       "name": "India",
