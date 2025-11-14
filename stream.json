@@ -43,6 +43,11 @@
   ],
   "angola-vs-argentina": [
     {
+      "name": "TYC",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://est.dhscgrsresri.space/simpch6/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzYzMTM3MDc1LCJyYW5kIjoiNDIzNTBmOGNjMmQ0ZTJhYiJ9.fcb7db3658e8c7b42d625bfdaf18509ddea676de3fe4ec4ca032848bcb20146b"
+    },
+    {
       "name": "CAZE TV",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
