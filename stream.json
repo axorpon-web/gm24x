@@ -43,6 +43,11 @@
   ],
   "angola-vs-argentina": [
     {
+      "name": "TYC",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://voodc.com/embed/1/85818c949d8a9f84847a85979c8a988a.html"
+    },
+    {
       "name": "Server xd",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://live.inplyr.com/room/118206.m3u8"
