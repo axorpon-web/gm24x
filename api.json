@@ -25,5 +25,19 @@
     "matchTime": "2025-11-14T16:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "india-vs-south-africa",
+    "team1": {
+      "name": "India",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
+    },
+    "team2": {
+      "name": "South Africa",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
+    },
+    "matchTime": "2025-11-14T04:00:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
