@@ -50,6 +50,11 @@
   ],
   "brazil-vs-senegal": [
     {
+      "name": "SpoSD",
+      "player": "pl1",
+      "stream_link": "spsd"
+    },
+    {
       "name": "Sport Tv",
       "player": "pl1",
       "stream_link": "spotv"
