@@ -48,28 +48,6 @@
       "stream_link": "tnt3"
     }
   ],
-  "brazil-vs-senegal": [
-    {
-      "name": "SpoSD",
-      "player": "pl1",
-      "stream_link": "spsd"
-    },
-    {
-      "name": "Sport Tv",
-      "player": "pl1",
-      "stream_link": "spotv"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly8yNDdjZG4uY2xpY2svNDI1L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPThhZjBiOGQ3NmNjNWZhMzI5MjUyOWFmZTljMzczZThlMzc0MDg1N2EtNWY3ZTE5ODM2NThkYzRlYjNiYzQ2NjRkMjI0YmJlOWYtMTc2MzIzMjA5NS0xNzYzMjIxMjk1JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly8yNDdjZG4uY2xpY2svNzgvaW5kZXgubTN1OD9EVlImdG9rZW49ZDhkNmE4NzE4YjVlZGJlYjYxMmYzZjI0MTllNTIxZTlhN2ZmMzE3ZS03NGUwOTdlNGZiMTY2NDA1ODg1NTc2YTZhZGIwZDA3Yi0xNzYzMjMyMDk1LTE3NjMyMjEyOTUmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
-    }
-  ],
   "georgia-vs-spain": [
     {
       "name": "Live Event ",
