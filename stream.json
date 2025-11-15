@@ -47,27 +47,5 @@
       "player": "pl1",
       "stream_link": "tnt3"
     }
-  ],
-  "georgia-vs-spain": [
-    {
-      "name": "Live Event ",
-      "player": "pl1",
-      "stream_link": "live1"
-    },
-    {
-      "name": "SKY EVENT ",
-      "player": "pl1",
-      "stream_link": "skyev1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly8yNDdjZG4uY2xpY2svNDkvaW5kZXgubTN1OD9EVlImdG9rZW49YjJmNDAyMzI2M2ZiZjMwMWU1OGM5ODg3ZDQyMjY0MTRmN2YxNzBkYi04MmY5ZmU1YmRkYmU4YzM0NGYwY2NjYzZmZWY0MzgzYy0xNzYzMjM2NDY1LTE3NjMyMjU2NjUmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly8yNDdjZG4uY2xpY2svNTk0L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPWQ1MmFkNTc0Nzk5OWM3ZTkzOWRiYjg3NDU5MDg3ZjM2NDdhOGI2OTYtZTU1OTQ5N2U4NWQyMzFjYzZlNWMxZWVkMmNmMzgzOTktMTc2MzIzNjQ2NC0xNzYzMjI1NjY0JmF1dG9wbGF5PXRydWU%3D"
-    }
   ]
 }
