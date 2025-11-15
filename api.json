@@ -9,7 +9,7 @@
       "name": "South Africa",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
     },
-    "matchTime": "2025-11-14T04:00:00.000Z",
+    "matchTime": "2025-11-22T03:30:00.000Z",
     "endTime": ""
   },
   {
@@ -22,9 +22,8 @@
       "name": "South Africa",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
     },
-    "matchTime": "2025-11-22T03:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-22T03:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "venezuela-vs-australia",
@@ -37,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png"
     },
     "matchTime": "2025-11-15T02:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brazil-vs-senegal",
@@ -51,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/27PmiiNWItqz-FUFq1p8b.png"
     },
     "matchTime": "2025-11-15T16:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "georgia-vs-spain",
@@ -65,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MuWgyMrpxyHUVQavE_4Go.png"
     },
     "matchTime": "2025-11-15T17:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
