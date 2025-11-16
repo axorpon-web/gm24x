@@ -84,18 +84,6 @@
       "stream_link": "https://zubayerop.short.gy/IND-A-VS-PAK-A.m3u8"
     }
   ],
-  "portugal-vs-armenia": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "SporTV",
-      "player": "pl1",
-      "stream_link": "sportv"
-    }
-  ],
   "azerbaijan-vs-france": [
     {
       "name": "Server 1",
