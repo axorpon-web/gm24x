@@ -35,9 +35,8 @@
       "name": "Pakistan A",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-a.png"
     },
-    "matchTime": "2025-11-16T14:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-16T14:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "portugal-vs-armenia",
@@ -50,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SsLhvUewIxoUDEa4hqCNG.png"
     },
     "matchTime": "2025-11-16T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "azerbaijan-vs-france",
@@ -64,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JFjztXlE7biecWFIejFOb.png"
     },
     "matchTime": "2025-11-16T17:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
