@@ -79,6 +79,11 @@
       "name": "FS TV 2",
       "player": "pl1",
       "stream_link": "fs2"
+    },
+    {
+      "name": "SpoSD",
+      "player": "pl1",
+      "stream_link": "spsd"
     }
   ],
   "azerbaijan-vs-france": [
