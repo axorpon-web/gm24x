@@ -59,5 +59,12 @@
       "player": "pl1",
       "stream_link": "tnt2"
     }
+  ],
+  "motogp": [
+    {
+      "name": "TNT SPORTS 2",
+      "player": "pl1",
+      "stream_link": "tnt2"
+    }
   ]
 }
