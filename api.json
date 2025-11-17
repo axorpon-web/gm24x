@@ -50,5 +50,19 @@
     },
     "matchTime": "2025-11-16T17:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "janakpur-bolts-vs-biratnagar-kings",
+    "team1": {
+      "name": "Janakpur Bolts",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/janakpur-bolts.png"
+    },
+    "team2": {
+      "name": "Biratnagar Kings",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/biratnagar-kings.png"
+    },
+    "matchTime": "2025-11-24T06:00:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
