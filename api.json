@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "india-a-vs-pakistan-a",
-    "team1": {
-      "name": "India A",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-a-cricket-team.png"
-    },
-    "team2": {
-      "name": "Pakistan A",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/pakistan-a.png"
-    },
-    "matchTime": "2025-11-16T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "azerbaijan-vs-france",
     "team1": {
       "name": "Azerbaijan",
@@ -61,8 +48,7 @@
       "name": "Biratnagar Kings",
       "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/biratnagar-kings.png"
     },
-    "matchTime": "2025-11-24T06:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-24T06:00:00.000Z",
+    "endTime": ""
   }
 ]
