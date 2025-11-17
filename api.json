@@ -1,18 +1,5 @@
 [
   {
-    "id": "india-vs-south-africa",
-    "team1": {
-      "name": "India",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/india-national-cricket-team.png"
-    },
-    "team2": {
-      "name": "South Africa",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/south-africa.png"
-    },
-    "matchTime": "2025-11-16T09:30:00.000",
-    "endTime": ""
-  },
-  {
     "id": "motogp",
     "team1": {
       "name": "MotoGP",
