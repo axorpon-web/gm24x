@@ -26,16 +26,16 @@
     "endTime": ""
   },
   {
-    "id": "janakpur-bolts-vs-biratnagar-kings",
+    "id": "NPL-2025",
     "team1": {
-      "name": "Janakpur Bolts",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/janakpur-bolts.png"
+      "name": "NPL - 2025",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Nepal_Premier_League_official_logo.png"
     },
     "team2": {
-      "name": "Biratnagar Kings",
-      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/biratnagar-kings.png"
+      "name": "NPL - 2025",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Nepal_Premier_League_official_logo.png"
     },
-    "matchTime": "2025-11-24T06:00:00.000Z",
+    "matchTime": "2025-11-17T16:00:00.000",
     "endTime": ""
   }
 ]
