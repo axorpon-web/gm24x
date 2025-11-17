@@ -48,13 +48,6 @@
       "stream_link": "tnt2"
     }
   ],
-  "motogp": [
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    }
-  ],
   "janakpur-bolts-vs-biratnagar-kings": [
     {
       "name": "FancodeX",
@@ -67,13 +60,6 @@
       "name": "FancodeX",
       "player": "pl1",
       "stream_link": "fcaq"
-    }
-  ],
-  "bangladesh-a-vs-afghanistan-a": [
-    {
-      "name": "Willow",
-      "player": "pl1",
-      "stream_link": "willowasia"
     }
   ]
 }
