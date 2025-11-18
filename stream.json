@@ -71,6 +71,11 @@
   ],
   "bangladesh-vs-india": [
     {
+      "name": "Fancode",
+      "player": "pl1",
+      "stream_link": "fc"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/137370_english_hls_f48e2ecbcb52142_1ta-di_h264/index.m3u8"
