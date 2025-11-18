@@ -62,9 +62,19 @@
       "stream_link": "spotv"
     },
     {
+      "name": "TV",
+      "player": "pl1",
+      "stream_link": "itv"
+    },
+    {
       "name": "SportDigital",
       "player": "pl1",
       "stream_link": "sptdg"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://l.lioncdn.net/ITV-4/index.m3u8"
     }
   ]
 }
