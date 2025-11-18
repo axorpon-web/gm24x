@@ -1,18 +1,5 @@
 [
   {
-    "id": "NPL-2025",
-    "team1": {
-      "name": "NPL - 2025",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Nepal_Premier_League_official_logo.png"
-    },
-    "team2": {
-      "name": "NPL - 2025",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Nepal_Premier_League_official_logo.png"
-    },
-    "matchTime": "2025-11-17T16:00:00.000",
-    "endTime": ""
-  },
-  {
     "id": "brazil-vs-tunisia",
     "team1": {
       "name": "Brazil",
