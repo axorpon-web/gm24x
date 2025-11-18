@@ -23,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gLeI5Wn8RYUC628xlhbp.png"
     },
     "matchTime": "2025-11-18T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "bangladesh-vs-india",
@@ -37,7 +36,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q9taI1NWNTV9YzUKE9id7.png"
     },
     "matchTime": "2025-11-18T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
