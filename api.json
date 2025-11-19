@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "sri-lanka-a-vs-bangladesh-a",
+    "team1": {
+      "name": "Sri Lanka A",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/sri-lanka-a.png"
+    },
+    "team2": {
+      "name": "Bangladesh A",
+      "logo": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/bangladesh-a.png"
+    },
+    "matchTime": "2025-11-19T14:30:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
+  }
+]
