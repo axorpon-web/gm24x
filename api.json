@@ -10,21 +10,6 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83K_Gr_MK_hLXn1--hMUgMAU6zSnCfIiMebNnp9kOrw&s=10"
     },
     "matchTime": "2025-11-19T10:00:00.000Z",
-    "endTime": "",
-    "sport": "Manual"
-  },
-  {
-    "id": "arsenal-women-vs-real-madrid-femenino",
-    "team1": {
-      "name": "Arsenal Women",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jcCBU2uajAAyYyJn1-Xxg.png"
-    },
-    "team2": {
-      "name": "Real Madrid Femenino",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vTjdaLWCnszhzCrGtCOlr.png"
-    },
-    "matchTime": "2025-11-19T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
