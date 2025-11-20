@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-11-20T09:30:00.000",
     "endTime": ""
+  },
+  {
+    "id": "sri-lanka-vs-zimbabwe",
+    "team1": {
+      "name": "Sri Lanka",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Sri-Lanka.png?4"
+    },
+    "team2": {
+      "name": "Zimbabwe",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Zimbabwe.png?4"
+    },
+    "matchTime": "2025-11-20T13:00:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
