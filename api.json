@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-11-20T09:30:00.000",
     "endTime": ""
+  },
+  {
+    "id": "australia-vs-england",
+    "team1": {
+      "name": "Australia",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Australia.png?4"
+    },
+    "team2": {
+      "name": "England",
+      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/England.png?4"
+    },
+    "matchTime": "2025-11-21T02:20:00+00:00",
+    "endTime": "",
+    "sport": "Cricket"
   }
 ]
