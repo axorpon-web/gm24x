@@ -72,18 +72,6 @@
       "name": "Fancode",
       "player": "pl1",
       "stream_link": "fc"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
-    }
-  ],
-  "australia-vs-england": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ]
 }
