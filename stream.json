@@ -118,6 +118,11 @@
       "name": "FUBO SPORTS ",
       "player": "pl1",
       "stream_link": "fubo3"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://box.tvn889419.workers.dev/EPL-05/tracks-v1a1/mono.m3u8?fastoken=9018dfa1-00ee-41f2-a902-a88d4f508ccd"
     }
   ],
   "fulham-vs-sunderland": [
