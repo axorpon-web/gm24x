@@ -73,5 +73,12 @@
       "player": "pl1",
       "stream_link": "tnt1"
     }
+  ],
+  "india-vs-south-africa": [
+    {
+      "name": "Fancode",
+      "player": "pl1",
+      "stream_link": "fc"
+    }
   ]
 }
