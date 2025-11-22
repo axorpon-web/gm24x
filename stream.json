@@ -159,6 +159,11 @@
       "name": "Bein Sports 2",
       "player": "pl1",
       "stream_link": "b2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://box.tvn889419.workers.dev/ESPN-Deportes/mono.m3u8?fastoken=9a34ed21-f31e-4f93-a0ff-e464112da6e6"
     }
   ],
   "osasuna-vs-real-sociedad": [
