@@ -37,5 +37,19 @@
     },
     "matchTime": "2025-11-21T02:20:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "burnley-vs-chelsea",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "matchTime": "2025-11-22T12:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
