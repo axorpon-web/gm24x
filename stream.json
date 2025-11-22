@@ -86,6 +86,33 @@
       "stream_link": "fc"
     }
   ],
+  "burnley-vs-chelsea": [
+    {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
+    }
+  ],
   "liverpool-vs-nottingham-forest": [
     {
       "name": "FUBO SPORTS ",
@@ -124,14 +151,19 @@
       "stream_link": "lltv"
     },
     {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
       "name": "Bein Sports 2",
       "player": "pl1",
       "stream_link": "b2"
+    },
+    {
+      "name": "Fancode",
+      "player": "pl1",
+      "stream_link": "fc"
+    },
+    {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
     },
     {
       "name": "Android/IOS",
