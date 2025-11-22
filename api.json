@@ -121,5 +121,19 @@
     "matchTime": "2025-11-22T17:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "fiorentina-vs-juventus",
+    "team1": {
+      "name": "Fiorentina",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
+    },
+    "matchTime": "2025-11-22T17:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
