@@ -113,18 +113,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
     }
   ],
-  "fulham-vs-sunderland": [
-    {
-      "name": "FUBO ",
-      "player": "pl1",
-      "stream_link": "Fubo4"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://box.tvn889419.workers.dev/Stan-Sport-AU-Event-8/mono.m3u8?fastoken=9a34ed21-f31e-4f93-a0ff-e464112da6e6"
-    }
-  ],
   "newcastle-united-vs-manchester-city": [
     {
       "name": "Server 1",
