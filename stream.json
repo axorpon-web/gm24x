@@ -123,6 +123,11 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://box.tvn889419.workers.dev/Sky-Sports-Main-Event/index.m3u8?fastoken=27ff3aba-f0c5-4c72-bd31-d12f9515f7e3"
     }
   ],
   "osasuna-vs-real-sociedad": [
