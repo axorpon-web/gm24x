@@ -78,19 +78,6 @@
     "endTime": ""
   },
   {
-    "id": "getafe-vs-atletico-madrid",
-    "team1": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
-    },
-    "team2": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "matchTime": "2025-11-23T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "inter-vs-ac-milan",
     "team1": {
       "name": "Inter",
