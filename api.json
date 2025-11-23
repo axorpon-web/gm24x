@@ -74,9 +74,8 @@
       "name": "Pakistan A",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Pakistan.png?4"
     },
-    "matchTime": "2025-11-23T14:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-23T14:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "leeds-vs-aston-villa",
@@ -89,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
     },
     "matchTime": "2025-11-23T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "real-betis-vs-girona",
@@ -103,8 +101,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
     },
     "matchTime": "2025-11-23T15:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "getafe-vs-atletico-madrid",
@@ -117,8 +114,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
     },
     "matchTime": "2025-11-23T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "inter-vs-ac-milan",
@@ -131,7 +127,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png"
     },
     "matchTime": "2025-11-23T19:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
