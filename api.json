@@ -91,5 +91,19 @@
     "matchTime": "2025-11-23T14:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "real-betis-vs-girona",
+    "team1": {
+      "name": "Real Betis",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
+    },
+    "team2": {
+      "name": "Girona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
+    },
+    "matchTime": "2025-11-23T15:15:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
