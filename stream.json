@@ -141,9 +141,14 @@
   ],
   "leeds-vs-aston-villa": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
+      "name": "FUBO SPORTS ",
+      "player": "pl1",
+      "stream_link": "fubo3"
     }
   ],
   "real-betis-vs-girona": [
