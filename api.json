@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "osasuna-vs-real-sociedad",
-    "team1": {
-      "name": "Osasuna",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
-    },
-    "team2": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
-    },
-    "matchTime": "2025-11-22T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "fiorentina-vs-juventus",
     "team1": {
       "name": "Fiorentina",
