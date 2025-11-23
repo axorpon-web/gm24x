@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "india-vs-south-africa",
-    "team1": {
-      "name": "Bangladesh ",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/250px-Flag_of_Bangladesh.svg.png"
-    },
-    "team2": {
-      "name": "Ireland ",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
-    },
-    "matchTime": "2025-11-20T09:30:00.000",
-    "endTime": ""
-  },
-  {
     "id": "australia-vs-england",
     "team1": {
       "name": "Australia",
@@ -49,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2025-11-23T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "elche-vs-real-madrid",
@@ -63,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
     },
     "matchTime": "2025-11-23T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "al-nassr-fc-vs-al-khaleej",
@@ -77,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
     },
     "matchTime": "2025-11-23T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
