@@ -125,14 +125,24 @@
   ],
   "elche-vs-real-madrid": [
     {
-      "name": "SKY PREMIER",
+      "name": "LaLiga Tv",
       "player": "pl1",
-      "stream_link": "skyp"
+      "stream_link": "lltv"
     },
     {
-      "name": "FUBO SPORTS ",
+      "name": "Bein Sports 2",
       "player": "pl1",
-      "stream_link": "fubo3"
+      "stream_link": "b2"
+    },
+    {
+      "name": "TSN 2",
+      "player": "pl1",
+      "stream_link": "tsn2"
+    },
+    {
+      "name": "FancodeX",
+      "player": "pl1",
+      "stream_link": "fcaq"
     }
   ],
   "al-nassr-fc-vs-al-khaleej": [
