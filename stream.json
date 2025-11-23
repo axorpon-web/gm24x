@@ -113,25 +113,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
     }
   ],
-  "osasuna-vs-real-sociedad": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "FANCODE XQ",
-      "player": "pl1",
-      "stream_link": "fcbd"
-    }
-  ],
-  "fiorentina-vs-juventus": [
-    {
-      "name": "Bein Sports 3",
-      "player": "pl1",
-      "stream_link": "bein3"
-    }
-  ],
   "bayern-munich-vs-freiburg": [
     {
       "name": "Bein Sports 3",
