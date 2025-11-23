@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "bayern-munich-vs-freiburg",
-    "team1": {
-      "name": "Bayern Munich",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
-    },
-    "team2": {
-      "name": "Freiburg",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmLX2coDWVHnrrt376Otc.png"
-    },
-    "matchTime": "2025-11-22T14:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "paris-saint-germain-vs-le-havre",
     "team1": {
       "name": "Paris Saint-Germain",
