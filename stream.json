@@ -142,28 +142,6 @@
       "stream_link": "sptdg"
     }
   ],
-  "bangladesh-a-vs-pakistan-a": [
-    {
-      "name": "Willow",
-      "player": "pl1",
-      "stream_link": "willowasia"
-    },
-    {
-      "name": "Willow Server 2",
-      "player": "pl1",
-      "stream_link": "willowpr"
-    },
-    {
-      "name": "NS Player",
-      "player": "ns",
-      "stream_link": "https://zubayerop.short.gy/BAN-A-VS-PAK-A.m3u8"
-    },
-    {
-      "name": "Server 1",
-      "player": "ad",
-      "stream_link": "https://obligedmeditatedazed.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73"
-    }
-  ],
   "leeds-vs-aston-villa": [
     {
       "name": "SKY PREMIER",
