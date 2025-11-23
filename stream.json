@@ -168,9 +168,9 @@
   ],
   "real-betis-vs-girona": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
     }
   ],
   "getafe-vs-atletico-madrid": [
