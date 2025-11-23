@@ -139,6 +139,11 @@
       "stream_link": "willowasia"
     },
     {
+      "name": "Willow Server 2",
+      "player": "pl1",
+      "stream_link": "willowpr"
+    },
+    {
       "name": "NS Player",
       "player": "ns",
       "stream_link": "https://zubayerop.short.gy/BAN-A-VS-PAK-A.m3u8"
