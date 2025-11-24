@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "australia-vs-england",
-    "team1": {
-      "name": "Australia",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Australia.png?4"
-    },
-    "team2": {
-      "name": "England",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/England.png?4"
-    },
-    "matchTime": "2025-11-21T02:20:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "manchester-united-vs-everton",
     "team1": {
       "name": "Manchester United",
@@ -36,7 +23,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
     },
     "matchTime": "2025-11-24T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
