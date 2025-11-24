@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "arsenal-vs-tottenham",
-    "team1": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-11-23T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "elche-vs-real-madrid",
     "team1": {
       "name": "Elche",
