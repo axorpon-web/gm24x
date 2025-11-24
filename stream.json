@@ -67,18 +67,6 @@
       "stream_link": "fc"
     }
   ],
-  "australia-vs-england": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02/chunklist.m3u8"
-    }
-  ],
   "burnley-vs-chelsea": [
     {
       "name": "SKY PREMIER",
