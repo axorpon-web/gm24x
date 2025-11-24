@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-11-21T02:20:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "inter-vs-ac-milan",
-    "team1": {
-      "name": "Inter",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png"
-    },
-    "team2": {
-      "name": "AC Milan",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png"
-    },
-    "matchTime": "2025-11-23T19:45:00.000Z",
-    "endTime": ""
   }
 ]
