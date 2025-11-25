@@ -94,23 +94,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
     }
   ],
-  "manchester-united-vs-everton": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "FUBO SPORTS ",
-      "player": "pl1",
-      "stream_link": "fubo3"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://streamcenter.xyz/embed/ch1.php"
-    }
-  ],
   "india-vs-south-africa": [
     {
       "name": "Server 1",
