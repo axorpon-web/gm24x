@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-united-vs-everton",
-    "team1": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "matchTime": "2025-11-24T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "india-vs-south-africa",
     "team1": {
       "name": "India",
@@ -35,8 +22,7 @@
       "name": "South Africa",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/South-Africa.png?4"
     },
-    "matchTime": "2025-11-22T03:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-11-22T03:30:00.000Z",
+    "endTime": ""
   }
 ]
