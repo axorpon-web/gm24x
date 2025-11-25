@@ -24,5 +24,19 @@
     },
     "matchTime": "2025-11-22T03:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "manchester-city-vs-bayer-leverkusen",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
+    },
+    "matchTime": "2025-11-25T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
