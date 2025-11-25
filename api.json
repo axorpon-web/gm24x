@@ -52,5 +52,19 @@
     "matchTime": "2025-11-25T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "bodoe/glimt-vs-juventus",
+    "team1": {
+      "name": "Bodoe/Glimt",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
+    },
+    "matchTime": "2025-11-25T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
