@@ -1,6 +1,6 @@
 {
   "liverpool-vs-psv-eindhoven": [
-{
+    {
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
@@ -12,7 +12,7 @@
     }
   ],
   "olympiacos-vs-real-madrid": [
-{
+    {
       "name": "Ziggo 5",
       "player": "pl1",
       "stream_link": "zigg5"
@@ -24,7 +24,7 @@
     }
   ],
   "paris-saint-germain-vs-tottenham": [
-{
+    {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
@@ -32,7 +32,12 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34"
+    },
+    {
+      "name": "Ziggo 2",
+      "player": "pl1",
+      "stream_link": "ziggo2"
     }
   ]
 }
