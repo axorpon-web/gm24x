@@ -1,5 +1,10 @@
 {
   "liverpool-vs-psv-eindhoven": [
+{
+      "name": "TNT SPORTS 2",
+      "player": "pl1",
+      "stream_link": "tnt2"
+    },
     {
       "name": "Server 1",
       "player": "f1",
@@ -7,6 +12,11 @@
     }
   ],
   "olympiacos-vs-real-madrid": [
+{
+      "name": "Ziggo 5",
+      "player": "pl1",
+      "stream_link": "zigg5"
+    },
     {
       "name": "Server 1",
       "player": "f1",
@@ -14,6 +24,11 @@
     }
   ],
   "paris-saint-germain-vs-tottenham": [
+{
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
+    },
     {
       "name": "Server 1",
       "player": "f1",
