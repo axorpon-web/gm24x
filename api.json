@@ -24,18 +24,5 @@
     },
     "matchTime": "2025-11-26T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "paris-saint-germain-vs-tottenham",
-    "team1": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-11-26T20:00:00.000Z",
-    "endTime": ""
   }
 ]
