@@ -18,30 +18,6 @@
       "stream_link": "tsn5"
     }
   ],
-  "manchester-city-vs-leeds": [
-    {
-      "name": "PEACOCK TV 1",
-      "player": "pl1",
-      "stream_link": "pc1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch2.php"
-    }
-  ],
-  "brentford-vs-burnley": [
-    {
-      "name": "UNIVARSO",
-      "player": "pl1",
-      "stream_link": "uni"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php/IOS"
-    }
-  ],
   "mallorca-vs-osasuna": [
     {
       "name": "LaLiga Tv",
