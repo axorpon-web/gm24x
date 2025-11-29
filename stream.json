@@ -47,6 +47,11 @@
   ],
   "everton-vs-newcastle-united": [
     {
+      "name": "UNIVARSO",
+      "player": "pl1",
+      "stream_link": "uni"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
