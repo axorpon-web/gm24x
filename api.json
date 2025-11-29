@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "bangladesh-vs-ireland",
-    "team1": {
-      "name": "Bangladesh",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Bangladesh.png?4"
-    },
-    "team2": {
-      "name": "Ireland",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Ireland.png?4"
-    },
-    "matchTime": "2025-11-29T18:00:00.000",
-    "endTime": ""
-  },
-  {
     "id": "sunderland-vs-bournemouth",
     "team1": {
       "name": "Sunderland",
