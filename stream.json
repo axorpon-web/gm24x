@@ -18,13 +18,6 @@
       "stream_link": "tsn5"
     }
   ],
-  "sunderland-vs-bournemouth": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
-    }
-  ],
   "manchester-city-vs-leeds": [
     {
       "name": "PEACOCK TV 1",
@@ -47,6 +40,13 @@
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php/IOS"
+    }
+  ],
+  "mallorca-vs-osasuna": [
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
     }
   ],
   "barcelona-vs-deportivo-alaves": [
@@ -74,13 +74,6 @@
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
-    }
-  ],
-  "everton-vs-newcastle-united": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ]
 }
