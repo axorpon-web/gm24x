@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-city-vs-leeds",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "matchTime": "2025-11-29T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brentford-vs-burnley",
     "team1": {
       "name": "Brentford",
