@@ -53,6 +53,11 @@
   ],
   "crystal-palace-vs-manchester-united": [
     {
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
