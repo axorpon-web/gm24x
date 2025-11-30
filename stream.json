@@ -30,23 +30,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/eng.m3u8"
     }
   ],
-  "aston-villa-vs-wolverhampton-wanderers": [
-    {
-      "name": "Fubo Sports ",
-      "player": "pl1",
-      "stream_link": "fubo"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzQ3Lm0zdTg/dHhTZWNyZXQ9NTUyZjQ2ZWM2NzllNzQ2ZGE3NWVkOGYzNWFkOWUwNGQmdHhUaW1lPTY5MkM5NzA0"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
-    }
-  ],
   "nottingham-forest-vs-brighton": [
     {
       "name": "Server 1",
