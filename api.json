@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "west-ham-vs-liverpool",
-    "team1": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-11-30T14:05:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "aston-villa-vs-wolverhampton-wanderers",
     "team1": {
       "name": "Aston Villa",
