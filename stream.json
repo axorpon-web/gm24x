@@ -20,9 +20,14 @@
   ],
   "india-vs-south-africa": [
     {
-      "name": "Server 1",
+      "name": "TNT SPORTS 4",
+      "player": "pl1",
+      "stream_link": "tnt4"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/eng.m3u8"
     }
   ]
 }
