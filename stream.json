@@ -113,6 +113,21 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://justembeds.top/embed/e25132915cf1e67759051cac80b42275"
+    },
+    {
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzUyLm0zdTg/dHhTZWNyZXQ9ODA4MDdhM2YzZWY3Yjk2NjgwNDkwMjRkNTRhYjJlMmMmdHhUaW1lPTY5MkM3ODEy"
     }
   ],
   "sevilla-vs-real-betis": [
