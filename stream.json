@@ -32,6 +32,11 @@
   ],
   "west-ham-vs-liverpool": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "PEACOCK TV 1",
       "player": "pl1",
       "stream_link": "pc1"
