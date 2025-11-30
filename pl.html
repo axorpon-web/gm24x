@@ -53,7 +53,7 @@
 
     // Load channel stream info
     async function loadChannel(id) {
-      const res = await fetch("https://api.game24x.xyz/streams.json");
+      const res = await fetch("https://gm24x.pages.dev/streams.json");
       const streams = await res.json();
       const stream = streams.find(s => s.id === id);
       if (!stream) throw new Error("Channel not found: " + id);
