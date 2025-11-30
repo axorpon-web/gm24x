@@ -94,5 +94,19 @@
     "matchTime": "2025-11-30T16:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "sevilla-vs-real-betis",
+    "team1": {
+      "name": "Sevilla",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/crn6HYOO9QzfqMRAUuGIF.png"
+    },
+    "team2": {
+      "name": "Real Betis",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
+    },
+    "matchTime": "2025-11-30T15:15:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
