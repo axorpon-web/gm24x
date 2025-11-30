@@ -68,6 +68,11 @@
     {
       "name": "Server 1",
       "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzU5Lm0zdTg/dHhTZWNyZXQ9YjNkZGUxYmY4NDhlN2EyY2NhZDA4NzFiZWMzNzMzN2QmdHhUaW1lPTY5MkM5NzA2"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch3.php"
     }
   ],
