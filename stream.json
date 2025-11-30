@@ -30,28 +30,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/eng.m3u8"
     }
   ],
-  "west-ham-vs-liverpool": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "PEACOCK TV 1",
-      "player": "pl1",
-      "stream_link": "pc1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://justembeds.xyz/embed/c0ccf0beea0a63755e1b48c38a48f775"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch2.php"
-    }
-  ],
   "aston-villa-vs-wolverhampton-wanderers": [
     {
       "name": "Fubo Sports ",
