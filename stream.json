@@ -110,6 +110,11 @@
   ],
   "chelsea-vs-arsenal": [
     {
+      "name": "PEACOCK TV",
+      "player": "pl1",
+      "stream_link": "pc2"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
