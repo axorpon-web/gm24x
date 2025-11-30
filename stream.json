@@ -18,18 +18,6 @@
       "stream_link": "tsn5"
     }
   ],
-  "india-vs-south-africa": [
-    {
-      "name": "TNT SPORTS 4",
-      "player": "pl1",
-      "stream_link": "tnt4"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/eng.m3u8"
-    }
-  ],
   "crystal-palace-vs-manchester-united": [
     {
       "name": "SKY PREMIER",
