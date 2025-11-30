@@ -39,6 +39,11 @@
     {
       "name": "Android/IOS",
       "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://justembeds.xyz/embed/c0ccf0beea0a63755e1b48c38a48f775"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch2.php"
     }
   ],
