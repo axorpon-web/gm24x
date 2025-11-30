@@ -115,6 +115,11 @@
       "stream_link": "skyp"
     },
     {
+      "name": "SKY NZ",
+      "player": "pl1",
+      "stream_link": "skynz8"
+    },
+    {
       "name": "Telemundo",
       "player": "pl1",
       "stream_link": "tl"
