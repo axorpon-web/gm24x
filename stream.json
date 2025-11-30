@@ -18,33 +18,6 @@
       "stream_link": "tsn5"
     }
   ],
-  "barcelona-vs-deportivo-alaves": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    },
-    {
-      "name": "TSN 2",
-      "player": "pl1",
-      "stream_link": "tsn2"
-    },
-    {
-      "name": "Fancode",
-      "player": "pl1",
-      "stream_link": "fc"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
-    }
-  ],
   "everton-vs-newcastle-united": [
     {
       "name": "UNIVARSO",
