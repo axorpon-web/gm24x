@@ -133,5 +133,19 @@
     "matchTime": "2025-12-02T20:15:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "barcelona-vs-atletico-madrid",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
+    },
+    "team2": {
+      "name": "Atletico Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
+    },
+    "matchTime": "2025-12-02T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
