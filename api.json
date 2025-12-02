@@ -91,5 +91,19 @@
     "matchTime": "2025-12-02T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "bournemouth-vs-everton",
+    "team1": {
+      "name": "Bournemouth",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "matchTime": "2025-12-02T19:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
