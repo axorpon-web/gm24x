@@ -18,18 +18,6 @@
       "stream_link": "tsn5"
     }
   ],
-  "sevilla-vs-real-betis": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    }
-  ],
   "girona-vs-real-madrid": [
     {
       "name": "Bein Sports 2",
