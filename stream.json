@@ -73,9 +73,14 @@
   ],
   "fulham-vs-manchester-city": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "UNIVARSO",
+      "player": "pl1",
+      "stream_link": "uni"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
     }
   ],
   "newcastle-united-vs-tottenham": [
