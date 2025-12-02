@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "bangladesh-vs-ireland",
-    "team1": {
-      "name": "Bangladesh",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Bangladesh.png?4"
-    },
-    "team2": {
-      "name": "Ireland",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Ireland.png?4"
-    },
-    "matchTime": "2025-12-02T08:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "borussia-dortmund-vs-bayer-leverkusen",
     "team1": {
       "name": "Borussia Dortmund",
