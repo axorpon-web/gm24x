@@ -18,6 +18,18 @@
       "stream_link": "tsn5"
     }
   ],
+  "sevilla-vs-real-betis": [
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
+      "name": "Bein Sports 2",
+      "player": "pl1",
+      "stream_link": "b2"
+    }
+  ],
   "girona-vs-real-madrid": [
     {
       "name": "Bein Sports 2",
@@ -50,6 +62,11 @@
       "name": "Fancode",
       "player": "pl1",
       "stream_link": "fc"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9iZC1tYy1mZGxpdmUuZmFuY29kZS5jb20vbXVtYmFpLzEzODI0MV9lbmdsaXNoX2hsc180ZTUyZTZiZmUyNjQ5OTBfMXRhLWRpX2gyNjQvaW5kZXgubTN1OA%3D%3D"
     },
     {
       "name": "Android/IOS",
