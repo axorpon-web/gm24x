@@ -30,33 +30,6 @@
       "stream_link": "b2"
     }
   ],
-  "girona-vs-real-madrid": [
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "pl1",
-      "stream_link": "prem1"
-    },
-    {
-      "name": "Server 1 ios",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
-    },
-    {
-      "name": "Server 2 ios",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzM5NTg4Lm0zdTg/dHhTZWNyZXQ9MzAzMzM5NGY1MTNjZjM3ZTA5M2IyNTYzYTFiOTEwYzUmdHhUaW1lPTY5MkM3MTJF"
-    }
-  ],
   "roma-vs-ssc-napoli": [
     {
       "name": "Server 1",
