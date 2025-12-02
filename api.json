@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "girona-vs-real-madrid",
-    "team1": {
-      "name": "Girona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2025-11-30T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "roma-vs-ssc-napoli",
     "team1": {
       "name": "Roma",
