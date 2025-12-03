@@ -1,18 +1,5 @@
 [
   {
-    "id": "fulham-vs-manchester-city",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2025-12-02T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "arsenal-vs-brentford",
     "team1": {
       "name": "Arsenal",
