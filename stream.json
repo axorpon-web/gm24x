@@ -68,6 +68,11 @@
   ],
   "athletic-bilbao-vs-real-madrid": [
     {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
+    },
+    {
       "name": "LaLiga Tv",
       "player": "pl1",
       "stream_link": "lltv"
@@ -81,11 +86,6 @@
       "name": "FancodeX",
       "player": "pl1",
       "stream_link": "fcaq"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
     },
     {
       "name": "Android/IOS",
