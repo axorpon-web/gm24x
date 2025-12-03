@@ -64,6 +64,11 @@
   ],
   "liverpool-vs-sunderland": [
     {
+      "name": "FUBO SPORTS ",
+      "player": "pl1",
+      "stream_link": "fubo3"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch3.php"
