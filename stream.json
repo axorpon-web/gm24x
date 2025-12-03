@@ -86,6 +86,11 @@
       "name": "Sky LaLiga",
       "player": "pl1",
       "stream_link": "sl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzU4ODM2Lm0zdTg/dHhTZWNyZXQ9ZTRhYTliNWViNDFiMDI4MDg0NDk4MDJkODIzNTM4MjImdHhUaW1lPTY5MkY4QkRB"
     }
   ],
   "burnley-vs-crystal-palace": [
