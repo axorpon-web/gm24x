@@ -86,11 +86,6 @@
   ],
   "leeds-vs-chelsea": [
     {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzc4Lm0zdTg%2FdHhTZWNyZXQ9NDFiMmJlYzc5ZTNhMmFhYTkxNDVlODBkMzczNThmYWQmdHhUaW1lPTY5MzBERDgy"
