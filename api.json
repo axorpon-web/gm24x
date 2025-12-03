@@ -67,5 +67,19 @@
     "matchTime": "2025-12-03T18:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "burnley-vs-crystal-palace",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
+    },
+    "matchTime": "2025-12-03T19:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
