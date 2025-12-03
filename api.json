@@ -1,31 +1,5 @@
 [
   {
-    "id": "borussia-dortmund-vs-bayer-leverkusen",
-    "team1": {
-      "name": "Borussia Dortmund",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
-    },
-    "matchTime": "2025-12-02T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "bournemouth-vs-everton",
-    "team1": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "matchTime": "2025-12-02T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "fulham-vs-manchester-city",
     "team1": {
       "name": "Fulham",
