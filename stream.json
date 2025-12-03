@@ -44,17 +44,5 @@
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzM5NTg4Lm0zdTg/dHhTZWNyZXQ9MzAzMzM5NGY1MTNjZjM3ZTA5M2IyNTYzYTFiOTEwYzUmdHhUaW1lPTY5MkM3MTJF"
     }
-  ],
-  "fulham-vs-manchester-city": [
-    {
-      "name": "UNIVARSO",
-      "player": "pl1",
-      "stream_link": "uni"
-    },
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    }
   ]
 }
