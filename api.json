@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "newcastle-united-vs-tottenham",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2025-12-02T20:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "barcelona-vs-atletico-madrid",
     "team1": {
       "name": "Barcelona",
