@@ -64,6 +64,11 @@
   ],
   "liverpool-vs-sunderland": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "FUBO SPORTS ",
       "player": "pl1",
       "stream_link": "fubo3"
