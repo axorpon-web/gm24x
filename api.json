@@ -1,18 +1,5 @@
 [
   {
-    "id": "Formula1",
-    "team1": {
-      "name": "Formula 1",
-      "logo": "https://iili.io/3mallYG.md.png"
-    },
-    "team2": {
-      "name": "Formula 1",
-      "logo": "https://iili.io/3mallYG.md.png"
-    },
-    "matchTime": "2025-11-28T19:00:00.000",
-    "endTime": ""
-  },
-  {
     "id": "borussia-dortmund-vs-bayer-leverkusen",
     "team1": {
       "name": "Borussia Dortmund",
