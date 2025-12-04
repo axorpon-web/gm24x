@@ -67,6 +67,21 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
+    },
+    {
+      "name": "UNIVARSO",
+      "player": "pl1",
+      "stream_link": "uni"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch1.php"
     }
   ]
 }
