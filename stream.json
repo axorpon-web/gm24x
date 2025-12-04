@@ -45,35 +45,6 @@
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzM5NTg4Lm0zdTg/dHhTZWNyZXQ9MzAzMzM5NGY1MTNjZjM3ZTA5M2IyNTYzYTFiOTEwYzUmdHhUaW1lPTY5MkM3MTJF"
     }
   ],
-  "liverpool-vs-sunderland": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "FUBO SPORTS ",
-      "player": "pl1",
-      "stream_link": "fubo3"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvc2QtMS00MzQzMzgyLm0zdTg%2FdHhTZWNyZXQ9ODA3MjQwM2M0NWRhNGFjZDliODgyZmZlZDQyNmUyYWEmdHhUaW1lPTY5MzBERDhD"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch3.php"
-    }
-  ],
-  "leeds-vs-chelsea": [
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzc4Lm0zdTg%2FdHhTZWNyZXQ9NDFiMmJlYzc5ZTNhMmFhYTkxNDVlODBkMzczNThmYWQmdHhUaW1lPTY5MzBERDgy"
-    }
-  ],
   "athletic-bilbao-vs-real-madrid": [
     {
       "name": "Sky LaLiga",
