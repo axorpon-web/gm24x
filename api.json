@@ -1,31 +1,5 @@
 [
   {
-    "id": "liverpool-vs-sunderland",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "team2": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "matchTime": "2025-12-03T20:15:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "leeds-vs-chelsea",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2025-12-03T20:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "athletic-bilbao-vs-real-madrid",
     "team1": {
       "name": "Athletic Bilbao",
