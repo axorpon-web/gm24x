@@ -44,47 +44,5 @@
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzM5NTg4Lm0zdTg/dHhTZWNyZXQ9MzAzMzM5NGY1MTNjZjM3ZTA5M2IyNTYzYTFiOTEwYzUmdHhUaW1lPTY5MkM3MTJF"
     }
-  ],
-  "athletic-bilbao-vs-real-madrid": [
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "PREMIER SPORTS 2",
-      "player": "pl1",
-      "stream_link": "pm2"
-    },
-    {
-      "name": "FancodeX",
-      "player": "pl1",
-      "stream_link": "fcaq"
-    },
-    {
-      "name": "Android/IOS BD",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/131017_english_hls_16128d97e484789_1ta-di_h264/index.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzU4ODM2Lm0zdTg/dHhTZWNyZXQ9ZTRhYTliNWViNDFiMDI4MDg0NDk4MDJkODIzNTM4MjImdHhUaW1lPTY5MkY4QkRB"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://ballcontrol.click/home/blog7/"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://af.ayassport.ir/hls2/varzeshtest.m3u8"
-    }
   ]
 }
