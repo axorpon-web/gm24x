@@ -55,6 +55,11 @@
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-155/o6uz-ua8q_720p/chunklist.m3u8"
     }
   ]
 }
