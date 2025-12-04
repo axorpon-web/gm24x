@@ -1,18 +1,5 @@
 [
   {
-    "id": "athletic-bilbao-vs-real-madrid",
-    "team1": {
-      "name": "Athletic Bilbao",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2025-12-03T18:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "australia-vs-england",
     "team1": {
       "name": "Australia",
