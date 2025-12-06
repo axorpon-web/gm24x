@@ -153,17 +153,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://justembeds.xyz/embed/888520f36cd94c5da4c71fddc1a5fc9b"
     }
-  ],
-  "tottenham-vs-brentford": [
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    },
-    {
-      "name": "UNIVARSO",
-      "player": "pl1",
-      "stream_link": "uni"
-    }
   ]
 }
