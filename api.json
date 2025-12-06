@@ -23,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
     },
     "matchTime": "2025-12-06T12:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "bournemouth-vs-chelsea",
@@ -37,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "everton-vs-nottingham-forest",
@@ -51,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
     "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-sunderland",
@@ -65,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
     },
     "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-burnley",
@@ -79,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
     },
     "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "leeds-vs-liverpool",
@@ -93,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
     },
     "matchTime": "2025-12-06T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "villarreal-vs-getafe",
@@ -107,8 +101,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
     },
     "matchTime": "2025-12-06T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "real-betis-vs-barcelona",
@@ -121,8 +114,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
     "matchTime": "2025-12-06T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "deportivo-alaves-vs-real-sociedad",
@@ -135,8 +127,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
     },
     "matchTime": "2025-12-06T15:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "athletic-bilbao-vs-atletico-madrid",
@@ -149,8 +140,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
     },
     "matchTime": "2025-12-06T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "inter-vs-como",
@@ -163,8 +153,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rB5oJN66n2Qa0XbuR9v8.png"
     },
     "matchTime": "2025-12-06T17:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "paris-saint-germain-vs-rennes",
@@ -177,8 +166,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png"
     },
     "matchTime": "2025-12-06T20:05:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "india-vs-south-africa",
@@ -190,9 +178,8 @@
       "name": "South Africa",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/South-Africa.png?4"
     },
-    "matchTime": "2025-12-09T13:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-12-09T13:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "india-vs-south-africa",
@@ -204,8 +191,7 @@
       "name": "South Africa",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/South-Africa.png?4"
     },
-    "matchTime": "2025-12-06T08:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-12-06T08:00:00.000Z",
+    "endTime": ""
   }
 ]
