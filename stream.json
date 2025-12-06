@@ -106,18 +106,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
     }
   ],
-  "deportivo-alaves-vs-real-sociedad": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    }
-  ],
   "athletic-bilbao-vs-atletico-madrid": [
     {
       "name": "Server 1",
