@@ -94,6 +94,11 @@
       "name": "Fubo Sports ",
       "player": "pl1",
       "stream_link": "fubo"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvc2QtMS00MzQzMzk0Lm0zdTg%2FdHhTZWNyZXQ9MTVmNjI4YmM5YjhjNjRmNzZmMjFmZTgwMWZlY2M1OGMmdHhUaW1lPTY5MzQ4QkZC"
     }
   ],
   "everton-vs-nottingham-forest": [
