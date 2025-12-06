@@ -13,21 +13,30 @@
   <script src="//cdn.bitmovin.com/player/web/8/bitmovinplayer.js"></script>
   <script src="//cdn.bitmovin.com/player/web/8/bitmovinplayer-ui.js"></script>
 
-  <style>
+   <style>
     * {
       box-sizing: border-box;
     }
 
-    body, html {
+    html, body {
       height: 100%;
       margin: 0;
       background: #000;
       font-family: Arial, sans-serif;
       color: #fff;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
     .wrapper {
-      height: 100%;
+      width: 100%;
+      max-width: 1000px;
+      padding: 16px;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -35,40 +44,61 @@
 
     .card {
       width: 100%;
-      max-width: 1100px;
       background: #181818;
-      border-radius: 12px;
-      padding: 24px;
+      border-radius: 16px;
+      padding: 24px 24px 20px;
       box-shadow: 0 0 30px rgba(0,0,0,0.7);
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
     }
 
     .card-title {
       text-align: center;
-      font-size: 26px;
+      font-size: 24px;
       font-weight: 700;
-      margin-bottom: 18px;
+      margin: 0;
+    }
+
+    .card-subtitle {
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+      margin-top: 4px;
     }
 
     #player {
       width: 100%;
-      height: 600px;
-      border-radius: 10px;
+      height: 530px;
+      border-radius: 12px;
       background: #000;
       overflow: hidden;
-      margin-bottom: 18px;
+    }
+
+    .form-section {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
     }
 
     .input-group {
-      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .input-label {
+      font-size: 12px;
+      color: #aaa;
     }
 
     .input-group input {
       width: 100%;
       padding: 10px 12px;
-      border-radius: 6px;
-      border: none;
-      background: #222;
-      color: #ddd;
+      border-radius: 8px;
+      border: 1px solid #2c2c2c;
+      background: #202020;
+      color: #eee;
       outline: none;
       font-size: 14px;
     }
@@ -77,21 +107,48 @@
       color: #666;
     }
 
-    .btn-play {
-      width: 100%;
-      padding: 12px;
-      margin-top: 6px;
-      border-radius: 6px;
-      border: none;
-      font-size: 16px;
-      font-weight: 600;
-      cursor: pointer;
-      background: #1d6df7;
-      color: #fff;
+    .btn-row {
+      display: flex;
+      gap: 10px;
+      margin-top: 4px;
+    }
+
+.btn-play {
+  width: 100%;
+  padding: 10px 0; /* keeps text readable */
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  background: #1d6df7;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-play::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 10px;          /* looks like height 10px */
+  background: #0c56d1;
+}
+
+
+    .btn-play:active {
+      transform: scale(0.97);
+      box-shadow: 0 0 0;
     }
 
     .btn-play:hover {
       background: #0c56d1;
+    }
+
+    .helper-text {
+      font-size: 11px;
+      color: #888;
     }
 
     /* Bitmovin UI tweaks */
@@ -106,30 +163,119 @@
     .bmpui-ui-volumeslider .bmpui-seekbar .bmpui-seekbar-playbackposition {
       background-color: #1487fa;
     }
+
+    /* ------- Mobile-first improvements ------- */
+    @media (max-width: 768px) {
+      .wrapper {
+        padding: 0;
+        height: 100vh;
+        align-items: stretch;
+      }
+
+      .card {
+        border-radius: 0;
+        height: 100vh;
+        padding: 16px 12px 18px;
+        box-shadow: none;
+      }
+
+      .card-title {
+        font-size: 20px;
+      }
+
+      #player {
+        height: auto;
+        /* Keep a nice video shape on phones */
+        aspect-ratio: 16 / 9;
+        max-height: 55vh;
+      }
+
+      .form-section {
+        flex: 1;
+        overflow-y: auto;
+        padding-top: 4px;
+        padding-bottom: 4px;
+      }
+
+      .input-group input {
+        font-size: 15px;
+        padding: 12px 14px;
+      }
+
+      .btn-row {
+        position: sticky;
+        bottom: 0;
+        padding-top: 8px;
+        background: linear-gradient(to top, #181818 60%, rgba(24,24,24,0));
+      }
+
+      .btn-play {
+        font-size: 17px;
+        padding: 14px;
+      }
+
+      /* Make Bitmovin controls bigger and more touch-friendly */
+      .bmpui-ui-controlbar,
+      .bmpui-controlbar {
+        padding: 8px 10px;
+      }
+
+      .bmpui-ui-button,
+      .bmpui-controlbar .bmpui-button {
+        min-width: 32px;
+        min-height: 32px;
+      }
+
+      .bmpui-ui-seekbar .bmpui-seekbar {
+        height: 6px;
+      }
+
+      .bmpui-ui-volumeslider .bmpui-seekbar {
+        height: 6px;
+      }
+    }
+
+    @media (max-width: 420px) {
+      .card-title {
+        font-size: 18px;
+      }
+      .card-subtitle {
+        font-size: 12px;
+      }
+    }
   </style>
 </head>
-<body>
+ <body>
   <div class="wrapper">
     <div class="card">
-      <div class="card-title">Advanced DRM Video Player</div>
+      <div>
+        <h1 class="card-title">Advanced DRM Video Player</h1>
+      </div>
 
       <div id="player"></div>
 
-      <!-- INPUTS -->
-      <div class="input-group">
-        <input id="url" type="text" placeholder="Enter MPD or M3U8 URL" />
-      </div>
-      <div class="input-group">
-        <input id="clearkeyPair" type="text" placeholder="Enter ClearKey (keyId:key) [Optional]" />
-      </div>
-      <div class="input-group">
-        <input id="widevineUrl" type="text" placeholder="Enter Widevine License URL [Optional]" />
-      </div>
-      <div class="input-group">
-        <input id="clearkeyUrl" type="text" placeholder="Enter ClearKey License URL [Optional]" />
-      </div>
+      <div class="form-section">
+        <div class="input-group">
+          <span class="input-label">Stream URL</span>
+          <input id="url" type="text" placeholder="Enter MPD or M3U8 URL" />
+        </div>
 
-      <button class="btn-play" onclick="playFromInputs()">Play Video</button>
+        <div class="input-group">
+          <input id="clearkeyPair" type="text" placeholder="keyId:key" />
+        </div>
+
+        <div class="input-group">
+          <input id="widevineUrl" type="text" placeholder="Enter Widevine License URL" />
+        </div>
+
+        <div class="input-group">
+          <input id="clearkeyUrl" type="text" placeholder="Enter ClearKey License URL" />
+        </div>
+
+        <div class="btn-row">
+          <button class="btn-play" onclick="playFromInputs()">Play Video</button>
+        </div>
+      </div>
     </div>
   </div>
 
