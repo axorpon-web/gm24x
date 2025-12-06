@@ -78,19 +78,6 @@
     "endTime": ""
   },
   {
-    "id": "villarreal-vs-getafe",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "team2": {
-      "name": "Getafe",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
-    },
-    "matchTime": "2025-12-06T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-betis-vs-barcelona",
     "team1": {
       "name": "Real Betis",
