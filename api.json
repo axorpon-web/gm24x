@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "newcastle-united-vs-burnley",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "team2": {
-      "name": "Burnley",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
-    },
-    "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "leeds-vs-liverpool",
     "team1": {
       "name": "Leeds",
