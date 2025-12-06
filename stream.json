@@ -134,6 +134,11 @@
       "stream_link": "b2"
     },
     {
+      "name": "Android/IOS bufferless",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9wbGF5N2JhLnBlb2RsYy5jb20vbGl2ZS8yMDJfNDMxNDkzNV8yLm0zdTg%3D"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
