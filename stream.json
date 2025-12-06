@@ -74,9 +74,19 @@
       "stream_link": "tnt1"
     },
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "UNIVARSO",
       "player": "pl1",
       "stream_link": "uni"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvaGQtZW4tMS00MzQzMzk2Lm0zdTg%2FdHhTZWNyZXQ9YzJjODc5MDE4ODM0MjJlOGRmZTVkYTc4NDdjYTlmZDEmdHhUaW1lPTY5MzQ2ODMy"
     }
   ],
   "bournemouth-vs-chelsea": [
