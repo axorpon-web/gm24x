@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-city-vs-sunderland",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "matchTime": "2025-12-06T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "newcastle-united-vs-burnley",
     "team1": {
       "name": "Newcastle United",
