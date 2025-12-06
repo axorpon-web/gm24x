@@ -108,6 +108,11 @@
       "name": "PEACOCK TV",
       "player": "pl1",
       "stream_link": "pc1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9saXZlLnFmbmd4LmNvbS9zcG9ydC8yMDJfNDMxNDcyMV8yLm0zdTg%2FdHhTZWNyZXQ9MTQ2NDg5NGY3N2QwYWQyMGFlMzYzNTRjZWNiYTg3NDAmdHhUaW1lPTE3NjUwMzMyOTQ%3D"
     }
   ],
   "newcastle-united-vs-burnley": [
