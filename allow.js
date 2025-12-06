@@ -1,5 +1,5 @@
 function periksaDomain() {
-  const allowedDomains = ['https://game24x.xyz/'];
+  const allowedDomains = ['https://match24.site'];
   const referrer = document.referrer;
   let isAllowed = false;
 
