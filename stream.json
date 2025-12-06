@@ -173,9 +173,19 @@
   ],
   "formula-1-vs-formula-1": [
     {
-      "name": "Server 1",
+      "name": "FancodeX",
+      "player": "pl1",
+      "stream_link": "fcaq"
+    },
+    {
+      "name": "SKY NZ",
+      "player": "pl1",
+      "stream_link": "skynz8"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://justembeds.xyz/embed/888520f36cd94c5da4c71fddc1a5fc9b"
     }
   ]
 }
