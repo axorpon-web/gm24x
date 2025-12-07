@@ -47,19 +47,14 @@
   ],
   "australia-vs-england": [
     {
-      "name": "Willow ",
+      "name": "Willow",
       "player": "pl1",
-      "stream_link": "willowpr"
+      "stream_link": "willowasia"
     },
     {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
-    },
-    {
-      "name": "Willow",
-      "player": "pl1",
-      "stream_link": "willowasia"
     },
     {
       "name": "Android/IOS",
