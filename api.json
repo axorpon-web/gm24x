@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "leeds-vs-liverpool",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-12-06T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-betis-vs-barcelona",
     "team1": {
       "name": "Real Betis",
