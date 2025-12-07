@@ -67,45 +67,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-155/o6uz-ua8q_720p/chunklist.m3u8"
     }
   ],
-  "leeds-vs-liverpool": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    }
-  ],
-  "real-betis-vs-barcelona": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    },
-    {
-      "name": "Android/IOS bufferless",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9wbGF5N2JhLnBlb2RsYy5jb20vbGl2ZS8yMDJfNDMxNDkzNV8yLm0zdTg%3D"
-    },
-    {
-      "name": "Android/IOS ONLY BD",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/130972_english_hls_b35c2f1d4893092_1ta-di_h264/index.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https%3A%2F%2Fstreamcenter.xyz%2Fembed%2Fch6.php"
-    }
-  ],
   "athletic-bilbao-vs-atletico-madrid": [
     {
       "name": "LaLiga Tv",
