@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "inter-miami-cf-vs-vancouver-whitecaps",
-    "team1": {
-      "name": "Inter Miami CF",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eP7VUfiow48_R8A-w2ADb.png"
-    },
-    "team2": {
-      "name": "Vancouver Whitecaps",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OL8kJSLnulGeqt2uiwe0s.png"
-    },
-    "matchTime": "2025-12-06T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-madrid-vs-celta-vigo",
     "team1": {
       "name": "Real Madrid",
