@@ -64,14 +64,19 @@
   ],
   "Formula1": [
     {
+      "name": "TSN 5",
+      "player": "pl1",
+      "stream_link": "tsn5"
+    },
+    {
       "name": "FancodeX",
       "player": "pl1",
       "stream_link": "fcaq"
     },
     {
-      "name": "SKY NZ",
-      "player": "pl1",
-      "stream_link": "skynz8"
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://foxstream.pages.dev/f1.m3u8"
     },
     {
       "name": "Android/IOS",
