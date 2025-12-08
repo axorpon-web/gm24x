@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "ssc-napoli-vs-juventus",
-    "team1": {
-      "name": "SSC Napoli",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "matchTime": "2025-12-07T19:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "wolverhampton-wanderers-vs-manchester-united",
     "team1": {
       "name": "Wolverhampton Wanderers",
@@ -36,7 +23,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
     },
     "matchTime": "2025-12-08T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
