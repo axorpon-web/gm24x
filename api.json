@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "atalanta-vs-chelsea",
+    "team1": {
+      "name": "Atalanta",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "matchTime": "2025-12-09T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
