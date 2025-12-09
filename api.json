@@ -54,5 +54,19 @@
     "matchTime": "2025-12-09T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "psv-eindhoven-vs-atletico-madrid",
+    "team1": {
+      "name": "PSV Eindhoven",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png"
+    },
+    "team2": {
+      "name": "Atletico Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
+    },
+    "matchTime": "2025-12-09T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
