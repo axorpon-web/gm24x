@@ -63,5 +63,19 @@
     },
     "matchTime": "2025-12-09T20:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "bayern-munich-vs-sporting-cp",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
+    },
+    "team2": {
+      "name": "Sporting CP",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png"
+    },
+    "matchTime": "2025-12-09T17:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
