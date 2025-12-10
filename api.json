@@ -1,18 +1,5 @@
 [
   {
-    "id": "inter-vs-liverpool",
-    "team1": {
-      "name": "Inter",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-12-09T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-slavia-prague",
     "team1": {
       "name": "Tottenham",
