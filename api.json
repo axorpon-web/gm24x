@@ -1,18 +1,5 @@
 [
   {
-    "id": "tottenham-vs-slavia-prague",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Slavia Prague",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VKbRDYN3uOPopTT0wEI1U.png"
-    },
-    "matchTime": "2025-12-09T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "psv-eindhoven-vs-atletico-madrid",
     "team1": {
       "name": "PSV Eindhoven",
