@@ -74,20 +74,6 @@
       "stream_link": "uni"
     }
   ],
-  "atalanta-vs-chelsea": [
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    }
-  ],
-  "barcelona-vs-eintracht-frankfurt": [
-    {
-      "name": "TNT SPORTS 4",
-      "player": "pl1",
-      "stream_link": "tnt4"
-    }
-  ],
   "inter-vs-liverpool": [
     {
       "name": "Server 1",
