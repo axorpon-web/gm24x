@@ -26,5 +26,19 @@
     "matchTime": "2025-12-10T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "benfica-vs-ssc-napoli",
+    "team1": {
+      "name": "Benfica",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
+    },
+    "team2": {
+      "name": "SSC Napoli",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
+    },
+    "matchTime": "2025-12-10T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
