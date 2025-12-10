@@ -68,5 +68,19 @@
     "matchTime": "2025-12-10T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "barcelona-vs-sl-benfica",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/toZCug6DR6edDTx1SvZQL.png"
+    },
+    "team2": {
+      "name": "SL Benfica",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UXyFWHrd0IXzvCWUSdov2.png"
+    },
+    "matchTime": "2025-12-10T17:45:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
