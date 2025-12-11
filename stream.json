@@ -74,35 +74,6 @@
       "stream_link": "uni"
     }
   ],
-  "bayer-leverkusen-vs-newcastle-united": [
-    {
-      "name": "TNT SPORTS 3",
-      "player": "pl1",
-      "stream_link": "tnt3"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzMwOC9pbmRleC5tM3U4P0RWUiZ0b2tlbj01MjMzNWQ5MWI2MGFlYTNkZjQ4YmZjYzZmNmFkM2QzNjQxMjliNzQ2LTYzOGE5YTVhYmI2NTljZWNiZjZmNTBmYjNkMjUxYzQ2LTE3NjU0MDQ0OTgtMTc2NTM5MzY5OCZhdXRvcGxheT10cnVl"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ucl_lev/index.m3u8"
-    }
-  ],
-  "benfica-vs-ssc-napoli": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzI5MC9pbmRleC5tM3U4P0RWUiZ0b2tlbj1jY2U0MzNlMDE1ZmQ4NGQyZGVkZjliYTliMWY5NjI4NmVjNGM2ZDIwLTRjN2VlNDczZGRhYjE4ZTMwY2RmYjg0ODgwNTEzZTNlLTE3NjU0MDQ0OTktMTc2NTM5MzY5OSZhdXRvcGxheT10cnVl"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ucl_ben/index.m3u8"
-    }
-  ],
   "club-brugge-vs-arsenal": [
     {
       "name": "TNT SPORTS 2",
