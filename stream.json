@@ -74,45 +74,6 @@
       "stream_link": "uni"
     }
   ],
-  "club-brugge-vs-arsenal": [
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzMyL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTBjZGU5MmNiMjllYTI2ZTYxYmVhZDE1NWM1NjhhMmMwMTVkNmVjNmUtZDk3MjI4YjkyMGQ1MDk4ZDY1N2UwMWY3ZTJlNDQ2YjMtMTc2NTQwNDQ5OS0xNzY1MzkzNjk5JmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ucl_bru/index.m3u8"
-    }
-  ],
-  "real-madrid-vs-manchester-city": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzMxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTg1MjQ5OTM1ZjU5NGM1MTdkMzc4YjBlYmMzZWFjNDM3N2U2Y2M2MWMtN2U3YTczNWUwNDRhOThkMmZlZDlmZDQxOGRmZDMwZGUtMTc2NTQwNDUwMS0xNzY1MzkzNzAxJmF1dG9wbGF5PXRydWU%3D"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ucl_rma/index.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_3960698_2.m3u8"
-    }
-  ],
   "barcelona-vs-sl-benfica": [
     {
       "name": "Server 1",
