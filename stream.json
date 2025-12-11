@@ -80,22 +80,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
-  ],
-  "india-vs-south-africa": [
-    {
-      "name": "TNT SPORTS 3",
-      "player": "pl1",
-      "stream_link": "tnt3"
-    },
-    {
-      "name": "Willow",
-      "player": "pl1",
-      "stream_link": "willowasia"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"
-    }
   ]
 }
