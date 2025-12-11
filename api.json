@@ -1,18 +1,5 @@
 [
   {
-    "id": "athletic-bilbao-vs-paris-saint-germain",
-    "team1": {
-      "name": "Athletic Bilbao",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2025-12-10T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "bayer-leverkusen-vs-newcastle-united",
     "team1": {
       "name": "Bayer Leverkusen",
