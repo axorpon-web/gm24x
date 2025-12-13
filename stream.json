@@ -124,9 +124,19 @@
   ],
   "chelsea-vs-everton": [
     {
-      "name": "Server 1",
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_che/index.m3u8"
+    },
+    {
+      "name": "Android/IOS 2",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://daffodil.shadow-ran.online/lille.m3u8"
+    },
+    {
+      "name": "Android/IOS 3",
+      "player": "f1",
+      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzEwNDI4MzkvaW5kZXgubTN1OD9EVlImdG9rZW49YmZjMTdjYjYwOWJmZTFjZDZhMjcwNWUxZTlkOTIwYzUxZTE3Njc0Mi0wYzA5M2ZjZTdiYmZlNzZjZGU2OGE3MGNlMmIyYjhiYS0xNzY1NjQ1MjI3LTE3NjU2MzQ0MjcmYXV0b3BsYXk9dHJ1ZQ%3D%3D"
     }
   ],
   "atletico-madrid-vs-valencia": [
