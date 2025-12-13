@@ -90,6 +90,11 @@
   ],
   "liverpool-vs-brighton": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "Android/IOS 3",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_liv/index.m3u8"
