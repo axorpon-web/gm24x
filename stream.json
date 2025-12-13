@@ -129,6 +129,16 @@
   ],
   "chelsea-vs-everton": [
     {
+      "name": "UNIVARSO",
+      "player": "pl1",
+      "stream_link": "uni"
+    },
+    {
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_che/index.m3u8"
