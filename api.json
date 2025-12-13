@@ -50,18 +50,5 @@
     },
     "matchTime": "2025-12-13T15:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "Meesi-india-tour-2025",
-    "team1": {
-      "name": "Messi India Tour",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIV2au3DekWrExVw4e98UoM2WLOwqdgi6a17RHLHci0eWNoI5y6J5ViE&s=10"
-    },
-    "team2": {
-      "name": "2025",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIV2au3DekWrExVw4e98UoM2WLOwqdgi6a17RHLHci0eWNoI5y6J5ViE&s=10"
-    },
-    "matchTime": "2025-12-13T10:00:00.000",
-    "endTime": ""
   }
 ]
