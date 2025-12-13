@@ -142,9 +142,14 @@
       "stream_link": "skyp"
     },
     {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzEzMC9pbmRleC5tM3U4P0RWUiZ0b2tlbj02YTY4YWFiNzAzMDlmOTMzZmY0MDg1ODliZTFlOGNjZjU3MDU0NTZmLTljMmE1N2RkMzNlYWJkOGVjMjViNDk2MGY1NGM4NmRkLTE3NjU2NDUyMjktMTc2NTYzNDQyOSZhdXRvcGxheT10cnVl"
+      "name": "Telemundo",
+      "player": "pl1",
+      "stream_link": "tl"
+    },
+    {
+      "name": "UNIVARSO",
+      "player": "pl1",
+      "stream_link": "uni"
     },
     {
       "name": "Android/IOS",
