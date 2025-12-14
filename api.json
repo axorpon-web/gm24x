@@ -76,18 +76,5 @@
     },
     "matchTime": "2025-12-14T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "india-vs-south-africa",
-    "team1": {
-      "name": "India",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/India.png?4"
-    },
-    "team2": {
-      "name": "South Africa",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/South-Africa.png?4"
-    },
-    "matchTime": "2025-12-14T19:30:00.000",
-    "endTime": ""
   }
 ]
