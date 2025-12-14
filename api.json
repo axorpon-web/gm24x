@@ -39,5 +39,19 @@
     "matchTime": "2025-12-14T14:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "sunderland-vs-newcastle-united",
+    "team1": {
+      "name": "Sunderland",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "matchTime": "2025-12-14T14:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
