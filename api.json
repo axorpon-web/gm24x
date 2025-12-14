@@ -1,18 +1,5 @@
 [
   {
-    "id": "barcelona-vs-osasuna",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Osasuna",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
-    },
-    "matchTime": "2025-12-13T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "liverpool-vs-brighton",
     "team1": {
       "name": "Liverpool",
