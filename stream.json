@@ -116,9 +116,14 @@
   ],
   "west-ham-vs-aston-villa": [
     {
-      "name": "Server 1",
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_whu/index.m3u8"
     }
   ],
   "brentford-vs-leeds": [
