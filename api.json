@@ -1,18 +1,5 @@
 [
   {
-    "id": "liverpool-vs-brighton",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "team2": {
-      "name": "Brighton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
-    },
-    "matchTime": "2025-12-13T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "burnley-vs-fulham",
     "team1": {
       "name": "Burnley",
