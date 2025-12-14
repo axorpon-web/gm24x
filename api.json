@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "crystal-palace-vs-manchester-city",
-    "team1": {
-      "name": "Crystal Palace",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2025-12-14T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "nottingham-forest-vs-tottenham",
     "team1": {
       "name": "Nottingham Forest",
