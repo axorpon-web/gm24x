@@ -23,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2025-12-14T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "nottingham-forest-vs-tottenham",
@@ -37,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2025-12-14T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sunderland-vs-newcastle-united",
@@ -51,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
     },
     "matchTime": "2025-12-14T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "west-ham-vs-aston-villa",
@@ -65,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
     },
     "matchTime": "2025-12-14T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brentford-vs-leeds",
@@ -79,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
     },
     "matchTime": "2025-12-14T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sevilla-vs-real-oviedo",
@@ -93,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
     },
     "matchTime": "2025-12-14T13:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "levante-vs-villarreal",
@@ -107,8 +101,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
     },
     "matchTime": "2025-12-14T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "celta-vigo-vs-athletic-bilbao",
@@ -121,8 +114,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
     },
     "matchTime": "2025-12-14T15:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "deportivo-alaves-vs-real-madrid",
@@ -135,8 +127,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
     },
     "matchTime": "2025-12-14T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "india-vs-south-africa",
@@ -148,8 +139,7 @@
       "name": "South Africa",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/South-Africa.png?4"
     },
-    "matchTime": "2025-12-14T13:30:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2025-12-14T19:30:00.000",
+    "endTime": ""
   }
 ]
