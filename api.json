@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "celta-vigo-vs-athletic-bilbao",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
-    },
-    "team2": {
-      "name": "Athletic Bilbao",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
-    },
-    "matchTime": "2025-12-14T15:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "deportivo-alaves-vs-real-madrid",
     "team1": {
       "name": "Deportivo Alaves",
