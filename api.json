@@ -1,18 +1,5 @@
 [
   {
-    "id": "cardiff-vs-chelsea",
-    "team1": {
-      "name": "Cardiff",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7IaE2jrCIBwqe_o_j9OJq.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2025-12-16T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "guadalajara-vs-barcelona",
     "team1": {
       "name": "Guadalajara",
