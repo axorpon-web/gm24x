@@ -100,14 +100,14 @@
   ],
   "india-vs-south-africa": [
     {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    },
-    {
       "name": "Willow",
       "player": "pl1",
       "stream_link": "willowasia"
+    },
+    {
+      "name": "TNT SPORTS 2",
+      "player": "pl1",
+      "stream_link": "tnt2"
     }
   ]
 }
