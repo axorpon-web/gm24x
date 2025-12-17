@@ -140,6 +140,11 @@
     {
       "name": "Android/IOS",
       "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://daffodil.shadow-ran.online/psg.m3u8"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/fifaplus/index.m3u8"
     }
   ]
