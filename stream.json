@@ -98,18 +98,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_whu/index.m3u8"
     }
   ],
-  "india-vs-south-africa": [
-    {
-      "name": "Willow",
-      "player": "pl1",
-      "stream_link": "willowasia"
-    },
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    }
-  ],
   "manchester-city-vs-brentford": [
     {
       "name": "Server 1",
