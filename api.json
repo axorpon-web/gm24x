@@ -1,18 +1,5 @@
 [
   {
-    "id": "guadalajara-vs-barcelona",
-    "team1": {
-      "name": "Guadalajara",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rMFdIFSfV4MdK4XPVZ96M.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2025-12-16T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "australia-vs-england",
     "team1": {
       "name": "Australia",
