@@ -1,18 +1,5 @@
 [
   {
-    "id": "manchester-city-vs-brentford",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "matchTime": "2025-12-17T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "newcastle-united-vs-fulham",
     "team1": {
       "name": "Newcastle United",
