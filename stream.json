@@ -104,44 +104,5 @@
       "player": "pl1",
       "stream_link": "b2"
     }
-  ],
-  "atletico-baleares-vs-atletico-madrid": [
-    {
-      "name": "PREMIER SPORTS 2",
-      "player": "pl1",
-      "stream_link": "pm2"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/138900_english_hls_23b747430214291_1ta-di_h264/index.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4746200_1.m3u8"
-    }
-  ],
-  "cf-talavera-de-la-reina-vs-real-madrid": [
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "pl1",
-      "stream_link": "prem1"
-    },
-    {
-      "name": "Fancode",
-      "player": "pl1",
-      "stream_link": "fc"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/cdr_talavera/index.m3u8"
-    },
-    {
-      "name": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzk3L2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTQxNjNjY2MwMjRlNmJjN2FjOGRhMTNiNzlkNWNmM2ZlZGY4OGE3MGEtOWE2YzdjMGFlOGEyYzhiMTE5MGU2MzBmYjg2YzI2YjItMTc2NjAxMTQ2My0xNzY2MDAwNjYzJmF1dG9wbGF5PXRydWU%3D",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly91cy5ob3N0cGxheS5pbmZvLzE1MC9pbmRleC5tM3U4P0RWUiZ0b2tlbj1hZGM1MTVhYjAxMmVlMTllOTRjMGE1MWViYjQzNjg1NjU0ZjA1ODM2LWM3OGNlMGVmOWQ1ODA1ZmZiMjU5ZGJmN2FmNmI2ODJmLTE3NjYwMTE0NjMtMTc2NjAwMDY2MyZhdXRvcGxheT10cnVl"
-    }
   ]
 }
