@@ -97,12 +97,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_whu/index.m3u8"
     }
-  ],
-  "newcastle-united-vs-fulham": [
-    {
-      "name": "Bein Sports 2",
-      "player": "pl1",
-      "stream_link": "b2"
-    }
   ]
 }
