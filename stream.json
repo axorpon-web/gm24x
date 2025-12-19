@@ -103,6 +103,11 @@
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"
     }
   ]
 }
