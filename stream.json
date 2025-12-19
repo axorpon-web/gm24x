@@ -100,6 +100,11 @@
   ],
   "india-vs-south-africa": [
     {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+    },
+    {
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
