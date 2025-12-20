@@ -100,6 +100,11 @@
   ],
   "manchester-city-vs-west-ham": [
     {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4317185_2.m3u8"
