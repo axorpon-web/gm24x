@@ -98,23 +98,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_whu/index.m3u8"
     }
   ],
-  "india-vs-south-africa": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
-    },
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"
-    }
-  ],
   "manchester-city-vs-west-ham": [
     {
       "name": "Server 1",
