@@ -114,5 +114,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"
     }
+  ],
+  "manchester-city-vs-west-ham": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+    }
   ]
 }
