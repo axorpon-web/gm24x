@@ -39,5 +39,19 @@
     "matchTime": "2025-12-20T15:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "bournemouth-vs-burnley",
+    "team1": {
+      "name": "Bournemouth",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
+    },
+    "team2": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "matchTime": "2025-12-20T15:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
