@@ -1,18 +1,5 @@
 [
   {
-    "id": "tottenham-vs-liverpool",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2025-12-20T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "everton-vs-arsenal",
     "team1": {
       "name": "Everton",
