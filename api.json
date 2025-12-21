@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-12-20T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "juventus-vs-roma",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "team2": {
-      "name": "Roma",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png"
-    },
-    "matchTime": "2025-12-20T19:45:00.000Z",
-    "endTime": ""
   }
 ]
