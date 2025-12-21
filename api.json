@@ -1,18 +1,5 @@
 [
   {
-    "id": "india-under-19s-vs-pakistan-under-19s",
-    "team1": {
-      "name": "India Under-19s",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/India-Under-19s.png?4"
-    },
-    "team2": {
-      "name": "Pakistan Under-19s",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Pakistan-Under-19s.png?4"
-    },
-    "matchTime": "2025-12-21T05:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "aston-villa-vs-manchester-united",
     "team1": {
       "name": "Aston Villa",
