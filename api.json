@@ -1,18 +1,5 @@
 [
   {
-    "id": "brighton-vs-sunderland",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
-    },
-    "team2": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "matchTime": "2025-12-20T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "newcastle-united-vs-chelsea",
     "team1": {
       "name": "Newcastle United",
