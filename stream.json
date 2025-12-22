@@ -98,18 +98,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/epl_whu/index.m3u8"
     }
   ],
-  "aston-villa-vs-manchester-united": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_avl/index.m3u8"
-    }
-  ],
   "girona-vs-atletico-madrid": [
     {
       "name": "LaLiga Tv",
