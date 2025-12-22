@@ -1,18 +1,5 @@
 [
   {
-    "id": "girona-vs-atletico-madrid",
-    "team1": {
-      "name": "Girona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
-    },
-    "team2": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "matchTime": "2025-12-21T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "villarreal-vs-barcelona",
     "team1": {
       "name": "Villarreal",
