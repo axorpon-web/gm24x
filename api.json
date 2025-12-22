@@ -1,18 +1,5 @@
 [
   {
-    "id": "aston-villa-vs-manchester-united",
-    "team1": {
-      "name": "Aston Villa",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
-    },
-    "team2": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "matchTime": "2025-12-21T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "girona-vs-atletico-madrid",
     "team1": {
       "name": "Girona",
