@@ -100,6 +100,11 @@
   ],
   "al-nassr-fc-vs-al-zawraa": [
     {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_3921429_2.m3u8"
+    },
+    {
       "name": "ESPN HD",
       "player": "pl1",
       "stream_link": "espnhd"
