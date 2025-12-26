@@ -11,5 +11,19 @@
     },
     "matchTime": "2025-12-26T19:15:00.000",
     "endTime": ""
+  },
+  {
+    "id": "manchester-united-vs-newcastle-united",
+    "team1": {
+      "name": "Manchester United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "matchTime": "2025-12-26T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
