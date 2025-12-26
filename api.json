@@ -1,13 +1,13 @@
 [
   {
-    "id": "sylhet-titans-vs-rajshahi-warriors",
+    "id": "NOE-vs-CHR",
     "team1": {
-      "name": "Sylhet Titans",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcoiES0sKknOGbkYTxg0H8xoTo0It3stLdXy5laQ4Eg&s=10"
+      "name": "Noakhali Express",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sXRdz3JkbTyKWsA2IhiJUu5ztyyDIssbuQ&s"
     },
     "team2": {
-      "name": "Rajshahi Warriors",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHXf48SUUdzJ6CfYvTxiD0ldoiSToLL_m_CIXvrWt1A&s"
+      "name": "Chattogram Royals",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/Chattogram_Royals_logo.png"
     },
     "matchTime": "2025-12-26T09:00:00.000Z",
     "endTime": ""
