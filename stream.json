@@ -57,5 +57,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_liv/index.m3u8"
     }
+  ],
+  "west-ham-vs-fulham": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_whu/index.m3u8"
+    }
   ]
 }
