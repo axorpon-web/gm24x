@@ -1,18 +1,5 @@
 [
   {
-    "id": "NOE-vs-CHR",
-    "team1": {
-      "name": "Noakhali Express",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sXRdz3JkbTyKWsA2IhiJUu5ztyyDIssbuQ&s"
-    },
-    "team2": {
-      "name": "Chattogram Royals",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/Chattogram_Royals_logo.png"
-    },
-    "matchTime": "2025-12-26T19:15:00.000",
-    "endTime": ""
-  },
-  {
     "id": "manchester-united-vs-newcastle-united",
     "team1": {
       "name": "Manchester United",
