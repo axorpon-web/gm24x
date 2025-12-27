@@ -1,18 +1,5 @@
 [
   {
-    "id": "RJW-vs-DHCP",
-    "team1": {
-      "name": "Durdanto Dhaka",
-      "logo": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/372400/372474.png"
-    },
-    "team2": {
-      "name": "Rajshahi Warriors",
-      "logo": "https://fabrilife.com/merchandise/1766498826_IlKd4TXFmp.png"
-    },
-    "matchTime": "2025-12-27T07:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "nottingham-forest-vs-manchester-city",
     "team1": {
       "name": "Nottingham Forest",
@@ -128,11 +115,11 @@
     "id": "sylhet-titans-vs-noakhali-express",
     "team1": {
       "name": "Sylhet Titans",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Sylhet-Titans.png?4"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRTYSWGJGeEjBEoDE6aoDPON6dNH7wcRJpg&s"
     },
     "team2": {
       "name": "Noakhali Express",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Noakhali-Express.png?4"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sXRdz3JkbTyKWsA2IhiJUu5ztyyDIssbuQ&s"
     },
     "matchTime": "2025-12-27T12:00:00+00:00",
     "endTime": "",
