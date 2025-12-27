@@ -115,18 +115,5 @@
     },
     "matchTime": "2025-12-27T12:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "potters-bar-town-vs-cheshunt",
-    "team1": {
-      "name": "Potters Bar Town",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U4TOwPyz272SoedRl1__d.png"
-    },
-    "team2": {
-      "name": "Cheshunt",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mxQM-RM0lCjmV4vR4KTIJ.png"
-    },
-    "matchTime": "2025-12-27T15:00:00.000Z",
-    "endTime": ""
   }
 ]
