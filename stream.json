@@ -74,5 +74,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_whu/index.m3u8"
     }
+  ],
+  "al-nassr-fc-vs-al-akhdoud": [
+    {
+      "name": "FS TV 2",
+      "player": "pl1",
+      "stream_link": "fs2"
+    }
   ]
 }
