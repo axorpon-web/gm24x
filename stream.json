@@ -43,5 +43,12 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_bre/index.m3u8"
     }
+  ],
+  "burnley-vs-everton": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_bur/index.m3u8"
+    }
   ]
 }
