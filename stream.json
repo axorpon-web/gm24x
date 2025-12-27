@@ -29,5 +29,12 @@
       "player": "pl1",
       "stream_link": "fcaq"
     }
+  ],
+  "arsenal-vs-brighton": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_ars/index.m3u8"
+    }
   ]
 }
