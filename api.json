@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "chelsea-vs-aston-villa",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "team2": {
-      "name": "Aston Villa",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
-    },
-    "matchTime": "2025-12-27T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-nassr-fc-vs-al-akhdoud",
     "team1": {
       "name": "Al Nassr FC",
