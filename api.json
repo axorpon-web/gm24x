@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "brentford-vs-bournemouth",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "matchTime": "2025-12-27T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "burnley-vs-everton",
     "team1": {
       "name": "Burnley",
@@ -34,19 +21,6 @@
     "team2": {
       "name": "Everton",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "matchTime": "2025-12-27T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "liverpool-vs-wolverhampton-wanderers",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "team2": {
-      "name": "Wolverhampton Wanderers",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
     },
     "matchTime": "2025-12-27T15:00:00.000Z",
     "endTime": ""
