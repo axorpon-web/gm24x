@@ -41,22 +41,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4317964_1.m3u8"
     }
-  ],
-  "chelsea-vs-aston-villa": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "UNIVARSO",
-      "player": "pl1",
-      "stream_link": "uni"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
-    }
   ]
 }
