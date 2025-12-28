@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "sunderland-vs-leeds",
+    "team1": {
+      "name": "Sunderland",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
+    },
+    "team2": {
+      "name": "Leeds",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
+    },
+    "matchTime": "2025-12-28T14:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
