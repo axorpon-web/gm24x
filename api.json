@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "burnley-vs-everton",
-    "team1": {
-      "name": "Burnley",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "matchTime": "2025-12-27T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "west-ham-vs-fulham",
     "team1": {
       "name": "West Ham",
