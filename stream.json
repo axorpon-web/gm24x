@@ -5,29 +5,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
-  ],
-  "sylhet-titans-vs-noakhali-express": [
-    {
-      "name": "FancodeX",
-      "player": "pl1",
-      "stream_link": "fcaq"
-    }
-  ],
-  "arsenal-vs-brighton": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "Telemundo",
-      "player": "pl1",
-      "stream_link": "tl"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_ars/index.m3u8"
-    }
   ]
 }
