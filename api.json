@@ -1,18 +1,5 @@
 [
   {
-    "id": "burnley-vs-newcastle-united",
-    "team1": {
-      "name": "Burnley",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
-    },
-    "team2": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "matchTime": "2025-12-30T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "chelsea-vs-bournemouth",
     "team1": {
       "name": "Chelsea",
