@@ -11,18 +11,5 @@
     },
     "matchTime": "2025-12-30T19:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "al-ettifaq-vs-al-nassr-fc",
-    "team1": {
-      "name": "Al-Ettifaq",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uA2inOzfvm_Plu1FmsC1o.png"
-    },
-    "team2": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "matchTime": "2025-12-30T17:30:00.000Z",
-    "endTime": ""
   }
 ]
