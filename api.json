@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
     },
     "matchTime": "2026-01-01T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "liverpool-vs-leeds",
@@ -24,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
     },
     "matchTime": "2026-01-01T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brentford-vs-tottenham",
@@ -38,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2026-01-01T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sunderland-vs-manchester-city",
@@ -52,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2026-01-01T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "sylhet-titans-vs-durdanto-dhaka",
@@ -65,9 +61,8 @@
       "name": "Durdanto Dhaka",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Dhaka-Capitals.png?4"
     },
-    "matchTime": "2026-01-01T07:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2026-01-01T07:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "rangpur-riders-vs-rajshahi-warriors",
@@ -79,8 +74,7 @@
       "name": "Rajshahi Warriors",
       "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Rajshahi-Warriors.png?4"
     },
-    "matchTime": "2026-01-01T12:00:00+00:00",
-    "endTime": "",
-    "sport": "Cricket"
+    "matchTime": "2026-01-01T12:00:00.000Z",
+    "endTime": ""
   }
 ]
