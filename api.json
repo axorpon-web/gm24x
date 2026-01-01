@@ -50,18 +50,5 @@
     },
     "matchTime": "2026-01-01T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "rangpur-riders-vs-rajshahi-warriors",
-    "team1": {
-      "name": "Rangpur Riders",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Rangpur-Riders.png?4"
-    },
-    "team2": {
-      "name": "Rajshahi Warriors",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Rajshahi-Warriors.png?4"
-    },
-    "matchTime": "2026-01-01T12:00:00.000Z",
-    "endTime": ""
   }
 ]
