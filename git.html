@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>GitHub Blob → Raw Converter</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>GitHub Blob → Raw</title>
 
 <style>
 :root {
-    --bg: #0f172a;
-    --card: #020617;
+    --bg: #020617;
+    --card: #0f172a;
     --text: #e5e7eb;
     --border: #334155;
     --primary: #38bdf8;
@@ -23,64 +24,79 @@
     --success: #16a34a;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
-    height: 100vh;
-    font-family: Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
     background: var(--bg);
     color: var(--text);
+    height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: stretch;
 }
 
-.card {
-    background: var(--card);
-    width: 90%;
-    max-width: 700px;
-    padding: 20px;
-    border-radius: 14px;
-    box-shadow: 0 10px 25px rgba(0,0,0,.4);
+.app {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 14px;
 }
 
+/* Header */
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 8px 4px;
 }
 
-h2 {
+.header h1 {
+    font-size: 18px;
     margin: 0;
     color: var(--primary);
 }
 
 .toggle {
+    font-size: 22px;
     cursor: pointer;
-    font-size: 20px;
 }
 
+/* Card */
+.card {
+    background: var(--card);
+    border-radius: 16px;
+    padding: 14px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Textareas */
 textarea {
     width: 100%;
-    height: 140px;
-    margin-top: 12px;
-    background: var(--card);
+    min-height: 120px;
+    max-height: 200px;
+    background: transparent;
     color: var(--text);
     border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: 14px;
     resize: none;
     outline: none;
 }
 
+/* Buttons */
 button {
-    width: 100%;
-    margin-top: 12px;
-    padding: 12px;
-    border-radius: 10px;
     border: none;
+    border-radius: 14px;
+    padding: 14px;
     font-size: 16px;
-    font-weight: bold;
-    cursor: pointer;
+    font-weight: 600;
+    margin-top: 10px;
 }
 
 .convert {
@@ -92,36 +108,50 @@ button {
     background: var(--success);
     color: #fff;
 }
+
+/* Footer spacing */
+.footer-space {
+    height: env(safe-area-inset-bottom);
+}
 </style>
 </head>
 
 <body>
-<div class="card">
+<div class="app">
+
     <div class="header">
-        <h2>GitHub Blob → Raw</h2>
+        <h1>GitHub → Raw</h1>
         <div class="toggle" onclick="toggleTheme()">🌙</div>
     </div>
 
-    <textarea id="input" placeholder="Paste GitHub blob URLs (one per line)..."></textarea>
+    <div class="card">
+        <textarea id="input"
+            placeholder="Paste GitHub blob URLs (one per line)…"></textarea>
 
-    <button class="convert" onclick="convert()">Convert</button>
+        <button class="convert" onclick="convert()">Convert</button>
 
-    <textarea id="output" placeholder="Converted raw URLs will appear here..." readonly></textarea>
+        <textarea id="output"
+            placeholder="Raw URLs appear here…"
+            readonly></textarea>
 
-    <button class="copy" onclick="copyAll()">Copy All</button>
+        <button class="copy" onclick="copyAll()">Copy All</button>
+    </div>
+
+    <div class="footer-space"></div>
 </div>
 
 <script>
 const input = document.getElementById("input");
 const output = document.getElementById("output");
 
+// Auto convert on paste
 input.addEventListener("paste", () => {
-    setTimeout(convert, 50); // auto convert on paste
+    setTimeout(convert, 50);
 });
 
 function convert() {
     const lines = input.value.split("\n");
-    const result = lines.map(line => {
+    const converted = lines.map(line => {
         line = line.trim();
         if (!line) return "";
 
@@ -130,8 +160,7 @@ function convert() {
             .replace("https://github.com/", "https://raw.githubusercontent.com/")
             .replace("/blob/", "/");
     });
-
-    output.value = result.join("\n");
+    output.value = converted.join("\n");
 }
 
 function copyAll() {
@@ -141,9 +170,10 @@ function copyAll() {
 
 function toggleTheme() {
     document.body.classList.toggle("light");
-    const icon = document.querySelector(".toggle");
-    icon.textContent = document.body.classList.contains("light") ? "☀️" : "🌙";
+    document.querySelector(".toggle").textContent =
+        document.body.classList.contains("light") ? "☀️" : "🌙";
 }
 </script>
+
 </body>
 </html>
