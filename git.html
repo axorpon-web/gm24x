@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GitHub Blob → Raw Converter</title>
+
+<style>
+:root {
+    --bg: #0f172a;
+    --card: #020617;
+    --text: #e5e7eb;
+    --border: #334155;
+    --primary: #38bdf8;
+    --success: #22c55e;
+}
+
+.light {
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --text: #020617;
+    --border: #cbd5f5;
+    --primary: #2563eb;
+    --success: #16a34a;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background: var(--card);
+    width: 90%;
+    max-width: 700px;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.4);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2 {
+    margin: 0;
+    color: var(--primary);
+}
+
+.toggle {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 140px;
+    margin-top: 12px;
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    resize: none;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.convert {
+    background: var(--primary);
+    color: #fff;
+}
+
+.copy {
+    background: var(--success);
+    color: #fff;
+}
+</style>
+</head>
+
+<body>
+<div class="card">
+    <div class="header">
+        <h2>GitHub Blob → Raw</h2>
+        <div class="toggle" onclick="toggleTheme()">🌙</div>
+    </div>
+
+    <textarea id="input" placeholder="Paste GitHub blob URLs (one per line)..."></textarea>
+
+    <button class="convert" onclick="convert()">Convert</button>
+
+    <textarea id="output" placeholder="Converted raw URLs will appear here..." readonly></textarea>
+
+    <button class="copy" onclick="copyAll()">Copy All</button>
+</div>
+
+<script>
+const input = document.getElementById("input");
+const output = document.getElementById("output");
+
+input.addEventListener("paste", () => {
+    setTimeout(convert, 50); // auto convert on paste
+});
+
+function convert() {
+    const lines = input.value.split("\n");
+    const result = lines.map(line => {
+        line = line.trim();
+        if (!line) return "";
+
+        line = decodeURIComponent(line);
+        return line
+            .replace("https://github.com/", "https://raw.githubusercontent.com/")
+            .replace("/blob/", "/");
+    });
+
+    output.value = result.join("\n");
+}
+
+function copyAll() {
+    output.select();
+    document.execCommand("copy");
+}
+
+function toggleTheme() {
+    document.body.classList.toggle("light");
+    const icon = document.querySelector(".toggle");
+    icon.textContent = document.body.classList.contains("light") ? "☀️" : "🌙";
+}
+</script>
+</body>
+</html>
