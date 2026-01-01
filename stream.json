@@ -46,6 +46,11 @@
       "name": "FANCODE XQ",
       "player": "pl1",
       "stream_link": "fcbd"
+    },
+    {
+      "name": "Server 1 ios",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/138924_english_hls_6196cf49e75704_1ta-di_h264/index.m3u8"
     }
   ],
   "rangpur-riders-vs-rajshahi-warriors": [
