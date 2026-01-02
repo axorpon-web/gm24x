@@ -15,6 +15,11 @@
   ],
   "sylhet-titans-vs-rangpur-riders": [
     {
+      "name": "Fancode",
+      "player": "pl1",
+      "stream_link": "fc"
+    },
+    {
       "name": "FancodeX",
       "player": "pl1",
       "stream_link": "fcaq"
