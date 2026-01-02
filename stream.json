@@ -18,6 +18,11 @@
       "name": "Fancode",
       "player": "pl1",
       "stream_link": "fc"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null"
     }
   ]
 }
