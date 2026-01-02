@@ -18,6 +18,11 @@
       "name": "FS TV 2",
       "player": "pl1",
       "stream_link": "fs2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4343398_1.m3u8"
     }
   ]
 }
