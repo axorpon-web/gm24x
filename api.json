@@ -1,18 +1,5 @@
 [
   {
-    "id": "sylhet-titans-vs-rangpur-riders",
-    "team1": {
-      "name": "Sylhet Titans",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Sylhet-Titans.png?4"
-    },
-    "team2": {
-      "name": "Rangpur Riders",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Rangpur-Riders.png?4"
-    },
-    "matchTime": "2026-01-02T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-ahli-vs-al-nassr-fc",
     "team1": {
       "name": "Al Ahli",
@@ -23,7 +10,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
     },
     "matchTime": "2026-01-02T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
