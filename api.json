@@ -54,5 +54,19 @@
     "matchTime": "2026-01-03T17:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "celta-vigo-vs-valencia",
+    "team1": {
+      "name": "Celta Vigo",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
+    },
+    "matchTime": "2026-01-03T13:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
