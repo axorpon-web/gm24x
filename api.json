@@ -40,5 +40,19 @@
     "matchTime": "2026-01-03T15:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "bournemouth-vs-arsenal",
+    "team1": {
+      "name": "Bournemouth",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "matchTime": "2026-01-03T17:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
