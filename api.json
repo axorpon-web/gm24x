@@ -1,18 +1,5 @@
 [
   {
-    "id": "aston-villa-vs-nottingham-forest",
-    "team1": {
-      "name": "Aston Villa",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "matchTime": "2026-01-03T12:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brighton-vs-burnley",
     "team1": {
       "name": "Brighton",
