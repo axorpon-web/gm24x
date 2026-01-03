@@ -12,5 +12,19 @@
     "matchTime": "2026-01-03T12:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "brighton-vs-burnley",
+    "team1": {
+      "name": "Brighton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+    },
+    "team2": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "matchTime": "2026-01-03T15:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
