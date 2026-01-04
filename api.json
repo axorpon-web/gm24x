@@ -68,5 +68,19 @@
     "matchTime": "2026-01-04T15:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "manchester-city-vs-chelsea",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "matchTime": "2026-01-04T17:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
