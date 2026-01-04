@@ -1,31 +1,5 @@
 [
   {
-    "id": "bournemouth-vs-arsenal",
-    "team1": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-01-03T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "celta-vigo-vs-valencia",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
-    },
-    "matchTime": "2026-01-03T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "osasuna-vs-athletic-bilbao",
     "team1": {
       "name": "Osasuna",
