@@ -1,18 +1,5 @@
 [
   {
-    "id": "elche-vs-villarreal",
-    "team1": {
-      "name": "Elche",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/At7wHXEtvayILK0zMoHM7.png"
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "matchTime": "2026-01-03T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "espanyol-vs-barcelona",
     "team1": {
       "name": "Espanyol",
