@@ -65,6 +65,16 @@
   ],
   "manchester-city-vs-chelsea": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
+      "name": "SKY EVENT ",
+      "player": "pl1",
+      "stream_link": "skyev1"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_mnc/index.m3u8"
