@@ -18,6 +18,11 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_lee/index.m3u8"
     }
   ],
   "everton-vs-brentford": [
