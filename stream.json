@@ -12,27 +12,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
     }
-  ],
-  "espanyol-vs-barcelona": [
-    {
-      "name": "Bein Sports 1",
-      "player": "pl1",
-      "stream_link": "bein1"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ll_esp/index.m3u8"
-    }
   ]
 }
