@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "leeds-vs-manchester-united",
+    "team1": {
+      "name": "Leeds",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
+    },
+    "team2": {
+      "name": "Manchester United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
+    },
+    "matchTime": "2026-01-04T12:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
