@@ -12,5 +12,19 @@
     "matchTime": "2026-01-04T12:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "everton-vs-brentford",
+    "team1": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "team2": {
+      "name": "Brentford",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
+    },
+    "matchTime": "2026-01-04T15:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
