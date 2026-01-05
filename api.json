@@ -1,31 +1,5 @@
 [
   {
-    "id": "everton-vs-brentford",
-    "team1": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "team2": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "matchTime": "2026-01-04T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "fulham-vs-liverpool",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2026-01-04T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "newcastle-united-vs-crystal-palace",
     "team1": {
       "name": "Newcastle United",
