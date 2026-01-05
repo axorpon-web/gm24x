@@ -1,18 +1,5 @@
 [
   {
-    "id": "tottenham-vs-sunderland",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "matchTime": "2026-01-04T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "manchester-city-vs-chelsea",
     "team1": {
       "name": "Manchester City",
