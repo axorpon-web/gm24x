@@ -13,39 +13,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
     }
   ],
-  "everton-vs-brentford": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_eve/index.m3u8"
-    }
-  ],
-  "fulham-vs-liverpool": [
-    {
-      "name": "SKY SPORTS MIX",
-      "player": "pl1",
-      "stream_link": "skymix"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_ful/index.m3u8"
-    }
-  ],
-  "newcastle-united-vs-crystal-palace": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_new/index.m3u8"
-    }
-  ],
-  "tottenham-vs-sunderland": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_tot/index.m3u8"
-    }
-  ],
   "manchester-city-vs-chelsea": [
     {
       "name": "Server 1",
