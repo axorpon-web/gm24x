@@ -13,45 +13,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
     }
   ],
-  "manchester-city-vs-chelsea": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4343460_2.m3u8"
-    },
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "SKY EVENT ",
-      "player": "pl1",
-      "stream_link": "skyev1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_mnc/index.m3u8"
-    }
-  ],
-  "sevilla-vs-levante": [
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    },
-    {
-      "name": "Bein Sports 3",
-      "player": "pl1",
-      "stream_link": "bein3"
-    }
-  ],
   "real-madrid-vs-real-betis": [
     {
       "name": "Bein Sports 2",
