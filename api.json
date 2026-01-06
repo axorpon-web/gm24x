@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "west-ham-vs-nottingham-forest",
+    "team1": {
+      "name": "West Ham",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
+    },
+    "team2": {
+      "name": "Nottingham Forest",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
+    },
+    "matchTime": "2026-01-06T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
