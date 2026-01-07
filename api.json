@@ -1,18 +1,5 @@
 [
   {
-    "id": "west-ham-vs-nottingham-forest",
-    "team1": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "matchTime": "2026-01-06T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "bournemouth-vs-tottenham",
     "team1": {
       "name": "Bournemouth",
@@ -23,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brentford-vs-sunderland",
@@ -37,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "crystal-palace-vs-aston-villa",
@@ -51,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "everton-vs-wolverhampton-wanderers",
@@ -65,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "fulham-vs-chelsea",
@@ -79,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-brighton",
@@ -93,8 +75,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
     },
     "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "burnley-vs-manchester-united",
@@ -107,8 +88,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
     },
     "matchTime": "2026-01-07T20:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-leeds",
@@ -121,8 +101,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
     },
     "matchTime": "2026-01-07T20:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "barcelona-vs-athletic-bilbao",
@@ -135,8 +114,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
     },
     "matchTime": "2026-01-07T19:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "arsenal-vs-liverpool",
@@ -149,8 +127,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
     },
     "matchTime": "2026-01-08T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "paris-saint-germain-vs-marseille",
@@ -163,7 +140,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TfCYJcvUxclSXllxaoiBQ.png"
     },
     "matchTime": "2026-01-08T18:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
