@@ -84,6 +84,11 @@
       "name": "SportDigital",
       "player": "pl1",
       "stream_link": "sptdg"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/ll_bar/index.m3u8"
     }
   ],
   "arsenal-vs-liverpool": [
