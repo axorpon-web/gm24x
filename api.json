@@ -95,5 +95,19 @@
     "matchTime": "2026-01-07T19:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "burnley-vs-manchester-united",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "team2": {
+      "name": "Manchester United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
+    },
+    "matchTime": "2026-01-07T20:15:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
