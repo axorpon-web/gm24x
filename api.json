@@ -81,5 +81,19 @@
     "matchTime": "2026-01-07T19:30:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "manchester-city-vs-brighton",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Brighton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+    },
+    "matchTime": "2026-01-07T19:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
