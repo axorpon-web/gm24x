@@ -50,6 +50,11 @@
     {
       "name": "Server 1",
       "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4358326_2.m3u8"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_ful/index.m3u8"
     }
   ],
