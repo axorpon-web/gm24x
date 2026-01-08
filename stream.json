@@ -13,18 +13,6 @@
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
     }
   ],
-  "everton-vs-wolverhampton-wanderers": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4358327_2.m3u8"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_eve/index.m3u8"
-    }
-  ],
   "fulham-vs-chelsea": [
     {
       "name": "Server 1",
