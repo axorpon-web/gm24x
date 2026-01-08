@@ -1,18 +1,5 @@
 [
   {
-    "id": "bournemouth-vs-tottenham",
-    "team1": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2026-01-07T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brentford-vs-sunderland",
     "team1": {
       "name": "Brentford",
