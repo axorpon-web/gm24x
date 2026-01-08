@@ -1,18 +1,5 @@
 [
   {
-    "id": "barcelona-vs-athletic-bilbao",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Athletic Bilbao",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png"
-    },
-    "matchTime": "2026-01-07T19:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "arsenal-vs-liverpool",
     "team1": {
       "name": "Arsenal",
