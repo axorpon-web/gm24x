@@ -12,24 +12,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/pl_che/index.m3u8"
     }
-  ],
-  "al-nassr-fc-vs-al-qadsiah": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4364946_1.m3u8"
-    }
-  ],
-  "paris-saint-germain-vs-marseille": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/l1_psg/index.m3u8"
-    }
   ]
 }
