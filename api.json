@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-city-women-vs-everton-women",
-    "team1": {
-      "name": "Manchester City Women",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dK5sQBuqACADbdNquleOC.png"
-    },
-    "team2": {
-      "name": "Everton Women",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nCwwWnGUDBU_jPsOA5y9V.png"
-    },
-    "matchTime": "2026-01-11T12:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "macclesfield-vs-crystal-palace",
     "team1": {
       "name": "Macclesfield",
