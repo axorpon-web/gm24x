@@ -18,6 +18,11 @@
       "name": "SN",
       "player": "pl1",
       "stream_link": "sn"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/fa_eve/index.m3u8"
     }
   ],
   "manchester-city-women-vs-everton-women": [
@@ -32,6 +37,11 @@
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://gg.tvn889419.workers.dev/fa_mfc/index.m3u8"
     }
   ],
   "newcastle-united-vs-bournemouth": [
