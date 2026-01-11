@@ -61,34 +61,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://datakameha.route64.de/o11/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuvjnou6wndlntu6ulurrhj5he7tsj2a7ulrniuwxkpjrugq2kvju/index.m3u8"
     }
-  ],
-  "west-ham-vs-queens-park-rangers": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
-    }
-  ],
-  "manchester-united-vs-brighton": [
-    {
-      "name": "SN",
-      "player": "pl1",
-      "stream_link": "sn"
-    },
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4742440_2.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9ldXJvcGUuaG9zdHBsYXkuY2xpY2svMzIvaW5kZXgubTN1OD9EVlImdG9rZW49NmQ0ODY0MmJiMDc5NzNhYWE2NjhkNmY2MjMwMTU2NWI3MjFhNWI4MS1jYTRlN2YxZTQwMGQyN2NlMjI0YTYzMDQ3ZDhjNWI1Mi0xNzY4MTYwNzQxLTE3NjgxNDk5NDE%3D"
-    }
   ]
 }
