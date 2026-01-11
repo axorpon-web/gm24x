@@ -27,6 +27,11 @@
       "stream_link": "tnt1"
     },
     {
+      "name": "Bein Sports 1",
+      "player": "pl1",
+      "stream_link": "bein1"
+    },
+    {
       "name": "TNT SPORTS 4",
       "player": "pl1",
       "stream_link": "tnt4"
