@@ -22,6 +22,11 @@
   ],
   "barcelona-vs-real-madrid": [
     {
+      "name": "SportDigital",
+      "player": "pl1",
+      "stream_link": "sptdg"
+    },
+    {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
@@ -30,11 +35,6 @@
       "name": "Bein Sports 1",
       "player": "pl1",
       "stream_link": "bein1"
-    },
-    {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
     },
     {
       "name": "Android/IOS XD",
@@ -50,6 +50,11 @@
       "name": "Android/IOS",
       "player": "f1",
       "stream_link": "https://play69.pages.dev/?url=aHR0cHM6Ly9ldXJvcGUuaG9zdHBsYXkuY2xpY2svNTcxL2luZGV4Lm0zdTg%2FRFZSJnRva2VuPTIxMDNlNmRjNTE0ZjU4OWMzYmJjNzRjMDFlYzYyM2ZmZGZmNzJhNDYtMmEwNzQyY2JlNWU5OTk3ZDJiZmRjMzIzYTA0OTMyMTAtMTc2ODE2ODI5MC0xNzY4MTU3NDkw"
+    },
+    {
+      "name": "Android/IOS X2",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://datakameha.route64.de/o11/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuvjnou6wndlntu6ulurrhj5he7tsj2a7ulrniuwxkpjrugq2kvju/index.m3u8"
     }
   ],
   "levante-vs-espanyol": [
