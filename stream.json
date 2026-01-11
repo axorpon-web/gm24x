@@ -27,14 +27,14 @@
       "stream_link": "sptdg"
     },
     {
+      "name": "Bein Sports 2",
+      "player": "pl1",
+      "stream_link": "b2"
+    },
+    {
       "name": "TNT SPORTS 1",
       "player": "pl1",
       "stream_link": "tnt1"
-    },
-    {
-      "name": "Bein Sports 1",
-      "player": "pl1",
-      "stream_link": "bein1"
     },
     {
       "name": "Android/IOS XD",
