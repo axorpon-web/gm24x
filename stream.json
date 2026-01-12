@@ -30,6 +30,11 @@
       "name": "SportDigital",
       "player": "pl1",
       "stream_link": "sptdg"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8"
     }
   ]
 }
