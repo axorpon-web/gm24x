@@ -19,27 +19,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
-  ],
-  "al-hilal-vs-al-nassr-fc": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4378822_1.m3u8"
-    }
   ]
 }
