@@ -27,6 +27,11 @@
       "stream_link": "pm2"
     },
     {
+      "name": "Ziggo 2",
+      "player": "pl1",
+      "stream_link": "ziggo2"
+    },
+    {
       "name": "Android/IOS BD",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139674_english_hls_db0dc4f60986243_1ta-di_h264/index.m3u8"
