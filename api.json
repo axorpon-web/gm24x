@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "chelsea-vs-arsenal",
+    "team1": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "matchTime": "2026-01-14T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
