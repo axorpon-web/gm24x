@@ -22,9 +22,9 @@
   ],
   "albacete-vs-real-madrid": [
     {
-      "name": "PREMIER SPORTS 2",
-      "player": "pl1",
-      "stream_link": "pm2"
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
   ],
   "chelsea-vs-arsenal": [
@@ -37,6 +37,11 @@
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
+    },
+    {
+      "name": "Android/IOS BD",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139212_english_hls_e719443f7d79652_1ta-di_h264/index.m3u8"
     }
   ]
 }
