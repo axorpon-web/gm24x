@@ -1,18 +1,5 @@
 [
   {
-    "id": "sunderland-vs-crystal-palace",
-    "team1": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
-    },
-    "matchTime": "2026-01-17T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-west-ham",
     "team1": {
       "name": "Tottenham",
