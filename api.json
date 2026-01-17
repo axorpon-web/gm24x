@@ -1,18 +1,5 @@
 [
   {
-    "id": "chelsea-vs-brentford",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "team2": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "matchTime": "2026-01-17T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "liverpool-vs-burnley",
     "team1": {
       "name": "Liverpool",
