@@ -34,14 +34,14 @@
   ],
   "chelsea-vs-brentford": [
     {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog2/"
-    },
-    {
       "name": "SKY SPORTS MIX",
       "player": "pl1",
       "stream_link": "skymix"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog2/"
     }
   ],
   "liverpool-vs-burnley": [
