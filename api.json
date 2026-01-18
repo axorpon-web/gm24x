@@ -1,18 +1,5 @@
 [
   {
-    "id": "nottingham-forest-vs-arsenal",
-    "team1": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-01-17T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-nassr-fc-vs-al-shabab",
     "team1": {
       "name": "Al Nassr FC",
