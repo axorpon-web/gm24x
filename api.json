@@ -50,5 +50,19 @@
     },
     "matchTime": "2026-01-18T20:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "senegal-vs-morocco",
+    "team1": {
+      "name": "Senegal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/27PmiiNWItqz-FUFq1p8b.png"
+    },
+    "team2": {
+      "name": "Morocco",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jmVNRfRDSpe-S90uLkjVV.png"
+    },
+    "matchTime": "2026-01-18T19:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
