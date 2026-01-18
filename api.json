@@ -11,5 +11,19 @@
     },
     "matchTime": "2026-01-17T17:30:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "wolverhampton-wanderers-vs-newcastle-united",
+    "team1": {
+      "name": "Wolverhampton Wanderers",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "matchTime": "2026-01-18T14:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
