@@ -50,29 +50,5 @@
       "player": "pl1",
       "stream_link": "skyp"
     }
-  ],
-  "atletico-madrid-vs-deportivo-alaves": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
-    }
-  ],
-  "senegal-vs-morocco": [
-    {
-      "name": "Bein Sports 3",
-      "player": "pl1",
-      "stream_link": "bein3"
-    },
-    {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4804092_1.m3u8"
-    }
   ]
 }
