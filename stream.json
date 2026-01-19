@@ -38,17 +38,5 @@
       "player": "pl1",
       "stream_link": "skyev1"
     }
-  ],
-  "aston-villa-vs-everton": [
-    {
-      "name": "SKY EVENT ",
-      "player": "pl1",
-      "stream_link": "skyev1"
-    },
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    }
   ]
 }
