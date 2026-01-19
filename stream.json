@@ -26,17 +26,5 @@
       "player": "pl1",
       "stream_link": "testing001"
     }
-  ],
-  "wolverhampton-wanderers-vs-newcastle-united": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "SKY EVENT ",
-      "player": "pl1",
-      "stream_link": "skyev1"
-    }
   ]
 }
