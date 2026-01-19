@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "real-sociedad-vs-barcelona",
-    "team1": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2026-01-18T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "senegal-vs-morocco",
     "team1": {
       "name": "Senegal",
