@@ -63,6 +63,11 @@
       "name": "TNT SPORTS 2",
       "player": "pl1",
       "stream_link": "tnt2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog2/"
     }
   ],
   "inter-vs-arsenal": [
