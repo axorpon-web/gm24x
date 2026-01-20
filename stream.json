@@ -72,6 +72,11 @@
   ],
   "inter-vs-arsenal": [
     {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog1/"
+    },
+    {
       "name": "Ziggo 2",
       "player": "pl1",
       "stream_link": "ziggo2"
