@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
     "matchTime": "2026-01-20T17:45:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "kairat-almaty-vs-club-brugge",
@@ -24,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png"
     },
     "matchTime": "2026-01-20T15:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "inter-vs-arsenal",
@@ -38,7 +36,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
     },
     "matchTime": "2026-01-20T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
