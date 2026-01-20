@@ -37,5 +37,19 @@
     },
     "matchTime": "2026-01-20T20:00:00.000Z",
     "endTime": ""
+  },
+  {
+    "id": "inter-vs-arsenal",
+    "team1": {
+      "name": "Inter",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "matchTime": "2026-01-20T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
