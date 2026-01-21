@@ -79,6 +79,11 @@
       "name": "SportDigital",
       "player": "pl1",
       "stream_link": "sptdg"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139825_english_hls_0bd975f30e9369_1ta-di_h264/index.m3u8"
     }
   ]
 }
