@@ -1,44 +1,5 @@
 [
   {
-    "id": "kairat-almaty-vs-club-brugge",
-    "team1": {
-      "name": "Kairat Almaty",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XaZrX3ZI3Iu0WLjh7oq0K.png"
-    },
-    "team2": {
-      "name": "Club Brugge",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png"
-    },
-    "matchTime": "2026-01-20T15:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "tottenham-vs-borussia-dortmund",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Borussia Dortmund",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
-    },
-    "matchTime": "2026-01-20T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "real-madrid-vs-monaco",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "team2": {
-      "name": "Monaco",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
-    },
-    "matchTime": "2026-01-20T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "inter-vs-arsenal",
     "team1": {
       "name": "Inter",
