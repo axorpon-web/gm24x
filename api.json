@@ -26,5 +26,19 @@
     "matchTime": "2026-01-21T20:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "juventus-vs-benfica",
+    "team1": {
+      "name": "Juventus",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
+    },
+    "team2": {
+      "name": "Benfica",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
+    },
+    "matchTime": "2026-01-21T20:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
