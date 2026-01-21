@@ -27,23 +27,6 @@
       "stream_link": "testing001"
     }
   ],
-  "bodoe/glimt-vs-manchester-city": [
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    },
-    {
-      "name": "NS REDIRECT ENG",
-      "player": "ns",
-      "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768976004~acl=/*~id=11948724852907529171644748966463~hmac=a7eb782931d880722366b57d73bd584612c08bb3469fd88e8a7b573bb0ecfd83"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_3960781_2.m3u8"
-    }
-  ],
   "kairat-almaty-vs-club-brugge": [
     {
       "name": "Server 1",
