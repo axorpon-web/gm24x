@@ -1,18 +1,5 @@
 [
   {
-    "id": "bodoe/glimt-vs-manchester-city",
-    "team1": {
-      "name": "Bodoe/Glimt",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2026-01-20T17:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "kairat-almaty-vs-club-brugge",
     "team1": {
       "name": "Kairat Almaty",
