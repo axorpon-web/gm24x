@@ -52,17 +52,5 @@
       "player": "pl1",
       "stream_link": "ziggo3"
     }
-  ],
-  "damac-fc-vs-al-nassr-fc": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
-    }
   ]
 }
