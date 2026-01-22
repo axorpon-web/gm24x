@@ -1,18 +1,5 @@
 [
   {
-    "id": "juventus-vs-benfica",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "team2": {
-      "name": "Benfica",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
-    },
-    "matchTime": "2026-01-21T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "marseille-vs-liverpool",
     "team1": {
       "name": "Marseille",
@@ -49,19 +36,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
     "matchTime": "2026-01-21T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "damac-fc-vs-al-nassr-fc",
-    "team1": {
-      "name": "Damac FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/haN3DRmzEODX1mmewqQfG.png"
-    },
-    "team2": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "matchTime": "2026-01-21T17:30:00.000Z",
     "endTime": ""
   }
 ]
