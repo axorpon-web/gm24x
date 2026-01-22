@@ -40,17 +40,5 @@
       "player": "pl1",
       "stream_link": "tnt2"
     }
-  ],
-  "slavia-prague-vs-barcelona": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog2/"
-    },
-    {
-      "name": "Ziggo 3",
-      "player": "pl1",
-      "stream_link": "ziggo3"
-    }
   ]
 }
