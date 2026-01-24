@@ -26,12 +26,5 @@
       "player": "pl1",
       "stream_link": "testing001"
     }
-  ],
-  "marseille-vs-liverpool": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    }
   ]
 }
