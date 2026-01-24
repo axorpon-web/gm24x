@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "marseille-vs-liverpool",
+    "team1": {
+      "name": "Marseille",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TfCYJcvUxclSXllxaoiBQ.png"
+    },
+    "team2": {
+      "name": "Liverpool",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
+    },
+    "matchTime": "2026-01-21T20:00:00.000Z",
+    "endTime": ""
+  },
+  {
+    "id": "newcastle-united-vs-psv-eindhoven",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "PSV Eindhoven",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png"
+    },
+    "matchTime": "2026-01-21T20:00:00.000Z",
+    "endTime": ""
+  }
+]
