@@ -1,9 +1,9 @@
 {
   "west-ham-vs-sunderland": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
     }
   ],
   "burnley-vs-tottenham": [
@@ -34,9 +34,9 @@
       "stream_link": "skyp"
     },
     {
-      "name": "USA NETWORK ",
-      "player": "pl1",
-      "stream_link": "usa"
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414646_2.m3u8"
     }
   ],
   "villarreal-vs-real-madrid": [
@@ -49,6 +49,11 @@
       "name": "LaLiga Tv",
       "player": "pl1",
       "stream_link": "lltv"
+    },
+    {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
     },
     {
       "name": "Android/IOS",
