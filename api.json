@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "fulham-vs-brighton",
+    "team1": {
+      "name": "Fulham",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
+    },
+    "team2": {
+      "name": "Brighton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+    },
+    "matchTime": "2026-01-24T15:00:00.000Z",
+    "endTime": ""
+  },
+  {
+    "id": "manchester-city-vs-wolverhampton-wanderers",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Wolverhampton Wanderers",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
+    },
+    "matchTime": "2026-01-24T15:00:00.000Z",
+    "endTime": ""
+  },
+  {
+    "id": "bournemouth-vs-liverpool",
+    "team1": {
+      "name": "Bournemouth",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
+    },
+    "team2": {
+      "name": "Liverpool",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
+    },
+    "matchTime": "2026-01-24T17:30:00.000Z",
+    "endTime": ""
+  },
+  {
+    "id": "villarreal-vs-real-madrid",
+    "team1": {
+      "name": "Villarreal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
+    },
+    "matchTime": "2026-01-24T20:00:00.000Z",
+    "endTime": ""
+  }
+]
