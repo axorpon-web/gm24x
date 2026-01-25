@@ -40,5 +40,19 @@
     "matchTime": "2026-01-25T14:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "arsenal-vs-manchester-united",
+    "team1": {
+      "name": "Arsenal",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
+    },
+    "team2": {
+      "name": "Manchester United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
+    },
+    "matchTime": "2026-01-25T16:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
