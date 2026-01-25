@@ -1,11 +1,4 @@
 {
-  "west-ham-vs-sunderland": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "pl1",
-      "stream_link": "tnt1"
-    }
-  ],
   "burnley-vs-tottenham": [
     {
       "name": "Server 1",
@@ -34,9 +27,9 @@
       "stream_link": "skyp"
     },
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414646_2.m3u8"
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
     }
   ],
   "villarreal-vs-real-madrid": [
@@ -49,11 +42,6 @@
       "name": "LaLiga Tv",
       "player": "pl1",
       "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
     },
     {
       "name": "Android/IOS",
