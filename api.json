@@ -1,5 +1,5 @@
 [
-  { 
+  {
     "id": "crystal-palace-vs-chelsea",
     "team1": {
       "name": "Crystal Palace",
@@ -10,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2026-01-25T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "brentford-vs-nottingham-forest",
@@ -24,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
     "matchTime": "2026-01-25T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-aston-villa",
@@ -38,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
     },
     "matchTime": "2026-01-25T14:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "arsenal-vs-manchester-united",
@@ -52,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
     },
     "matchTime": "2026-01-25T16:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "barcelona-vs-real-oviedo",
@@ -66,7 +62,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
     },
     "matchTime": "2026-01-25T15:15:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
