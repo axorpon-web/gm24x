@@ -5,7 +5,7 @@
       "player": "pl1",
       "stream_link": "skymix"
     },
-     {
+    {
       "name": "Android/Ios",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414641_2.m3u8"
@@ -17,7 +17,7 @@
     }
   ],
   "brentford-vs-nottingham-forest": [
-     {
+    {
       "name": "Android/Ios",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414643_2.m3u8"
@@ -34,7 +34,7 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414637_2.m3u8"
     },
-     {
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
@@ -67,6 +67,11 @@
       "name": "Bein Sports 1",
       "player": "pl1",
       "stream_link": "bein1"
+    },
+    {
+      "name": "Android/Ios",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4418077_2.m3u8"
     },
     {
       "name": "Android/Ios",
