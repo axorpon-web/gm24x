@@ -1,18 +1,5 @@
 [
   {
-    "id": "crystal-palace-vs-chelsea",
-    "team1": {
-      "name": "Crystal Palace",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2026-01-25T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "brentford-vs-nottingham-forest",
     "team1": {
       "name": "Brentford",
