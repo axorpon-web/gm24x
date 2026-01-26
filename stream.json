@@ -1,21 +1,4 @@
 {
-  "crystal-palace-vs-chelsea": [
-    {
-      "name": "SKY SPORTS MIX",
-      "player": "pl1",
-      "stream_link": "skymix"
-    },
-    {
-      "name": "Android/Ios",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://play7ba.peodlc.com/live/202_4414641_2.m3u8"
-    },
-    {
-      "name": "Android/Ios",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog1/"
-    }
-  ],
   "brentford-vs-nottingham-forest": [
     {
       "name": "Android/Ios",
