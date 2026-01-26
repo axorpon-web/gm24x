@@ -1,18 +1,5 @@
 [
   {
-    "id": "brentford-vs-nottingham-forest",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "matchTime": "2026-01-25T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "newcastle-united-vs-aston-villa",
     "team1": {
       "name": "Newcastle United",
