@@ -1,18 +1,5 @@
 [
   {
-    "id": "england-under-19s-vs-bangladesh-under-19s",
-    "team1": {
-      "name": "England Under-19s",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/England-Under-19s.png?4"
-    },
-    "team2": {
-      "name": "Bangladesh Under-19s",
-      "logo": "https://images.weserv.nl/?url=https://d2m4p6oxp84oly.cloudfront.net/teams/Bangladesh-Under-19s.png?4"
-    },
-    "matchTime": "2026-01-26T07:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-nassr-fc-vs-al-taawoun",
     "team1": {
       "name": "Al Nassr FC",
@@ -23,7 +10,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iHhdgfi7MMJxEgYspibNb.png"
     },
     "matchTime": "2026-01-26T17:30:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
