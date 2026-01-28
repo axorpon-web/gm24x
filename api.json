@@ -1,18 +1,5 @@
 [
   {
-    "id": "al-nassr-fc-vs-al-taawoun",
-    "team1": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "team2": {
-      "name": "Al-Taawoun",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iHhdgfi7MMJxEgYspibNb.png"
-    },
-    "matchTime": "2026-01-26T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "barcelona-vs-fc-copenhagen",
     "team1": {
       "name": "Barcelona",
@@ -23,8 +10,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6fI5Od-fvYeXN0W0P6Y6t.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "benfica-vs-real-madrid",
@@ -37,8 +23,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "liverpool-vs-qarabag-fk",
@@ -51,8 +36,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/30vZK0Os1U2vIIkadPZre.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-galatasaray",
@@ -65,8 +49,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "paris-saint-germain-vs-newcastle-united",
@@ -79,8 +62,7 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   },
   {
     "id": "ssc-napoli-vs-chelsea",
@@ -93,7 +75,6 @@
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
     "matchTime": "2026-01-28T20:00:00.000Z",
-    "endTime": "",
-    "sport": "Football"
+    "endTime": ""
   }
 ]
