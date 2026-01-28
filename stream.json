@@ -1,16 +1,4 @@
 {
-  "al-nassr-fc-vs-al-taawoun": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "http://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139829_english_hls_12e11e4ae52390_1ta-di_h264/index.m3u8"
-    }
-  ],
   "barcelona-vs-fc-copenhagen": [
     {
       "name": "Server 1",
