@@ -1,23 +1,4 @@
 {
-  "benfica-vs-real-madrid": [
-    {
-      "name": "PRO",
-      "player": "pl1",
-      "stream_link": "testing001"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://matchify.zip/home/blog2/"
-    }
-  ],
-  "liverpool-vs-qarabag-fk": [
-    {
-      "name": "TNT SPORTS 2",
-      "player": "pl1",
-      "stream_link": "tnt2"
-    }
-  ],
   "manchester-city-vs-galatasaray": [
     {
       "name": "Server 1",
