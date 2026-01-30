@@ -22,9 +22,14 @@
   ],
   "al-kholood-vs-al-nassr-fc": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "FS TV 2",
+      "player": "pl1",
+      "stream_link": "fs2"
+    },
+    {
+      "name": "PRO",
+      "player": "pl1",
+      "stream_link": "testing001"
     }
   ]
 }
