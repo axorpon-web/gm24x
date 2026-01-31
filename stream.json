@@ -22,6 +22,11 @@
   ],
   "leeds-vs-arsenal": [
     {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog1/"
