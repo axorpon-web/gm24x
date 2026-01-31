@@ -19,17 +19,5 @@
       "player": "pl1",
       "stream_link": "bein1"
     }
-  ],
-  "al-kholood-vs-al-nassr-fc": [
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    },
-    {
-      "name": "PRO",
-      "player": "pl1",
-      "stream_link": "testing001"
-    }
   ]
 }
