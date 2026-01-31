@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-01-30T22:00:00.000",
     "endTime": ""
-  },
-  {
-    "id": "al-kholood-vs-al-nassr-fc",
-    "team1": {
-      "name": "Al Kholood",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1hYBrYEqWZD9L-CKon6HF.png"
-    },
-    "team2": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "matchTime": "2026-01-30T17:30:00.000Z",
-    "endTime": ""
   }
 ]
