@@ -29,6 +29,11 @@
   ],
   "wolverhampton-wanderers-vs-bournemouth": [
     {
+      "name": "SKY SPORTS MIX",
+      "player": "pl1",
+      "stream_link": "skymix"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog3/"
