@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "brighton-vs-everton",
+    "team1": {
+      "name": "Brighton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "matchTime": "2026-01-31T15:00:00.000Z",
+    "endTime": "",
+    "sport": "Football"
+  }
+]
