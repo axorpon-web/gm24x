@@ -13,32 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "leeds-vs-arsenal",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-01-31T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "liverpool-vs-newcastle-united",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "team2": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "matchTime": "2026-01-31T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "elche-vs-barcelona",
     "team1": {
       "name": "Elche",
