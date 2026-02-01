@@ -19,22 +19,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog2/"
     }
-  ],
-  "elche-vs-barcelona": [
-    {
-      "name": "Bein Sports 1",
-      "player": "pl1",
-      "stream_link": "bein1"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "pl1",
-      "stream_link": "sl"
-    }
   ]
 }
