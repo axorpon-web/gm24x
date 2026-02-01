@@ -1,18 +1,5 @@
 [
   {
-    "id": "manchester-united-vs-fulham",
-    "team1": {
-      "name": "Manchester United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
-    },
-    "team2": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "matchTime": "2026-02-01T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "nottingham-forest-vs-crystal-palace",
     "team1": {
       "name": "Nottingham Forest",
