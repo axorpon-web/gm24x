@@ -43,9 +43,19 @@
   ],
   "real-madrid-vs-rayo-vallecano": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "Bein Sports 1",
+      "player": "pl1",
+      "stream_link": "bein1"
+    },
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
+      "name": "PREMIER SPORTS ",
+      "player": "pl1",
+      "stream_link": "prem1"
     }
   ]
 }
