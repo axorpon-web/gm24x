@@ -15,9 +15,14 @@
   ],
   "aston-villa-vs-brentford": [
     {
-      "name": "Server 1",
+      "name": "SKY SPORTS MIX",
+      "player": "pl1",
+      "stream_link": "skymix"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog2/"
     }
   ],
   "manchester-united-vs-fulham": [
