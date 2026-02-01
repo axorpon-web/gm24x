@@ -39,19 +39,6 @@
     "endTime": ""
   },
   {
-    "id": "chelsea-vs-west-ham",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "team2": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "matchTime": "2026-01-31T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "liverpool-vs-newcastle-united",
     "team1": {
       "name": "Liverpool",
