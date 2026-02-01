@@ -51,6 +51,11 @@
   ],
   "tottenham-vs-manchester-city": [
     {
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
