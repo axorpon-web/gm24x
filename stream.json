@@ -43,9 +43,9 @@
   ],
   "real-madrid-vs-rayo-vallecano": [
     {
-      "name": "Bein Sports 1",
+      "name": "Bein Sports 2",
       "player": "pl1",
-      "stream_link": "bein1"
+      "stream_link": "b2"
     },
     {
       "name": "LaLiga Tv",
@@ -53,9 +53,9 @@
       "stream_link": "lltv"
     },
     {
-      "name": "PREMIER SPORTS ",
+      "name": "PREMIER SPORTS 2",
       "player": "pl1",
-      "stream_link": "prem1"
+      "stream_link": "pm2"
     },
     {
       "name": "Android/IOS",
