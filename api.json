@@ -1,18 +1,5 @@
 [
   {
-    "id": "nottingham-forest-vs-crystal-palace",
-    "team1": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
-    },
-    "matchTime": "2026-02-01T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-manchester-city",
     "team1": {
       "name": "Tottenham",
