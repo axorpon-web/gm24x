@@ -32,9 +32,19 @@
       "stream_link": "prem1"
     },
     {
+      "name": "SKY SPORTS MIX",
+      "player": "pl1",
+      "stream_link": "skymix"
+    },
+    {
       "name": "Ziggo 1",
       "player": "pl1",
       "stream_link": "ziggo1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog2/"
     }
   ]
 }
