@@ -12,44 +12,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
     }
-  ],
-  "arsenal-vs-chelsea": [
-    {
-      "name": "Bein Sports 3",
-      "player": "pl1",
-      "stream_link": "bein3"
-    },
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog1/"
-    }
-  ],
-  "albacete-vs-barcelona": [
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "pl1",
-      "stream_link": "prem1"
-    },
-    {
-      "name": "SKY SPORTS MIX",
-      "player": "pl1",
-      "stream_link": "skymix"
-    },
-    {
-      "name": "Ziggo 1",
-      "player": "pl1",
-      "stream_link": "ziggo1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog2/"
-    }
   ]
 }
