@@ -15,9 +15,14 @@
   ],
   "manchester-city-vs-newcastle-united": [
     {
-      "name": "Server 1",
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://bd-mc-fdlive.fancode.com/mumbai/139214_english_hls_3cf812f3c491585_1ta-di_h264/index.m3u8"
     }
   ]
 }
