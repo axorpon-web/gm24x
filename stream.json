@@ -15,9 +15,14 @@
   ],
   "al-nassr-fc-vs-al-ittihad": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "name": "SportDigital",
+      "player": "pl1",
+      "stream_link": "sptdg"
+    },
+    {
+      "name": "FS TV 2",
+      "player": "pl1",
+      "stream_link": "fs2"
     }
   ],
   "leeds-vs-nottingham-forest": [
