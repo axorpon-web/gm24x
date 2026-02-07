@@ -25,6 +25,11 @@
   ],
   "bournemouth-vs-aston-villa": [
     {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog3/"
