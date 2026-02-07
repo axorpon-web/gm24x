@@ -1,30 +1,4 @@
 {
-  "ssc-napoli-vs-chelsea": [
-    {
-      "name": "Bein Sports 1",
-      "player": "pl1",
-      "stream_link": "bein1"
-    }
-  ],
-  "espanyol-vs-deportivo-alaves": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
-    }
-  ],
-  "al-nassr-fc-vs-al-ittihad": [
-    {
-      "name": "Prime",
-      "player": "f1",
-      "stream_link": "https://match24x.pages.dev/?id=wc"
-    },
-    {
-      "name": "FS TV 2",
-      "player": "pl1",
-      "stream_link": "fs2"
-    }
-  ],
   "T20-World-Cup": [
     {
       "name": "WC 2026",
@@ -53,7 +27,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog3/"
     }
   ],
   "arsenal-vs-sunderland": [
@@ -67,21 +41,21 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog5/"
     }
   ],
   "fulham-vs-everton": [
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog4/"
     }
   ],
   "wolverhampton-wanderers-vs-chelsea": [
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog2/"
     }
   ],
   "newcastle-united-vs-brentford": [
@@ -95,7 +69,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog6/"
     }
   ]
 }
