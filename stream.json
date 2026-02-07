@@ -6,16 +6,28 @@
       "stream_link": "wc"
     }
   ],
-  "bournemouth-vs-aston-villa": [
+  "manchester-united-vs-tottenham": [
     {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
     },
     {
-      "name": "Server 1",
+      "name": "Fubo Sports ",
+      "player": "pl1",
+      "stream_link": "fubo"
+    },
+    {
+      "name": "Android/IOS",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.top/home/blog3/"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog1/"
+    }
+  ],
+  "bournemouth-vs-aston-villa": [
+    {
+      "name": "SKY PREMIER",
+      "player": "pl1",
+      "stream_link": "skyp"
     }
   ],
   "arsenal-vs-sunderland": [
@@ -54,6 +66,21 @@
     }
   ],
   "barcelona-vs-mallorca": [
+    {
+      "name": "LaLiga Tv",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
+      "name": "TSN 5",
+      "player": "pl1",
+      "stream_link": "tsn5"
+    },
+    {
+      "name": "Sky LaLiga",
+      "player": "pl1",
+      "stream_link": "sl"
+    },
     {
       "name": "Server 1",
       "player": "f1",
