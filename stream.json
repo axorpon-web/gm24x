@@ -27,9 +27,9 @@
   ],
   "T20-World-Cup": [
     {
-      "name": "Prime",
-      "player": "f1",
-      "stream_link": "https://match24x.pages.dev/?id=wc"
+      "name": "WC 2026",
+      "player": "pl1",
+      "stream_link": "wc"
     }
   ]
 }
