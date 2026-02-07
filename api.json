@@ -1,15 +1,15 @@
 [
   {
-    "id": "al-nassr-fc-vs-al-ittihad",
+    "id": "T20-World-Cup",
     "team1": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
+      "name": "WC",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDuVTxNVipdFlJ0a-NQyK7gRo5jYVab4wslVm4SJdY_EAl9j4P97usGI&s=10"
     },
     "team2": {
-      "name": "Al Ittihad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h4um8LbVcB4zN_E2ern6K.png"
+      "name": "WC",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDuVTxNVipdFlJ0a-NQyK7gRo5jYVab4wslVm4SJdY_EAl9j4P97usGI&s=10"
     },
-    "matchTime": "2026-02-06T17:30:00.000Z",
+    "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
   }
 ]
