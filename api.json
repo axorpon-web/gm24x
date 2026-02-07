@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-06T17:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "leeds-vs-nottingham-forest",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "matchTime": "2026-02-06T20:00:00.000Z",
-    "endTime": ""
   }
 ]
