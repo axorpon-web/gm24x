@@ -24,18 +24,5 @@
     },
     "matchTime": "2026-02-07T17:30:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "barcelona-vs-mallorca",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Mallorca",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bE7wfVD_uxZOlicMBWmmX.png"
-    },
-    "matchTime": "2026-02-07T15:15:00.000Z",
-    "endTime": ""
   }
 ]
