@@ -6,20 +6,6 @@
       "stream_link": "wc"
     }
   ],
-  "bournemouth-vs-aston-villa": [
-    {
-      "name": "SKY PREMIER",
-      "player": "pl1",
-      "stream_link": "skyp"
-    }
-  ],
-  "arsenal-vs-sunderland": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog1/"
-    }
-  ],
   "burnley-vs-west-ham": [
     {
       "name": "Server 1",
