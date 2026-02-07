@@ -15,14 +15,21 @@
   ],
   "al-nassr-fc-vs-al-ittihad": [
     {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
+      "name": "Prime",
+      "player": "f1",
+      "stream_link": "https://match24x.pages.dev/?id=wc"
     },
     {
       "name": "FS TV 2",
       "player": "pl1",
       "stream_link": "fs2"
+    }
+  ],
+  "T20-World-Cup": [
+    {
+      "name": "Prime",
+      "player": "f1",
+      "stream_link": "https://match24x.pages.dev/?id=wc"
     }
   ]
 }
