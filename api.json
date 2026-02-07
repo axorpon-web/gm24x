@@ -95,5 +95,19 @@
     "matchTime": "2026-02-07T15:00:00.000Z",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "newcastle-united-vs-brentford",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "Brentford",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
+    },
+    "matchTime": "2026-02-07T17:30:00.000Z",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
