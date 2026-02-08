@@ -48,6 +48,11 @@
       "name": "PREMIER SPORTS ",
       "player": "pl1",
       "stream_link": "prem1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog1/"
     }
   ]
 }
