@@ -25,6 +25,11 @@
   ],
   "liverpool-vs-manchester-city": [
     {
+      "name": "USA NETWORK ",
+      "player": "pl1",
+      "stream_link": "usa"
+    },
+    {
       "name": "SKY PREMIER",
       "player": "pl1",
       "stream_link": "skyp"
