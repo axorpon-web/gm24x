@@ -25,9 +25,9 @@
   ],
   "liverpool-vs-manchester-city": [
     {
-      "name": "USA NETWORK ",
+      "name": "Fubo Sports ",
       "player": "pl1",
-      "stream_link": "usa"
+      "stream_link": "fubo"
     },
     {
       "name": "SKY PREMIER",
