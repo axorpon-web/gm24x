@@ -1,6 +1,11 @@
 {
   "T20-World-Cup": [
     {
+      "name": "WC 2026 S1",
+      "player": "f1",
+      "stream_link": "http://gm24x.pages.dev/ggg?id=wc"
+    },
+    {
       "name": "WC 2026",
       "player": "pl1",
       "stream_link": "wc"
