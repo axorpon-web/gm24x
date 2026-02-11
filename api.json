@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "everton-vs-bournemouth",
-    "team1": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "matchTime": "2026-02-10T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-newcastle-united",
     "team1": {
       "name": "Tottenham",
