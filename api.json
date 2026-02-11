@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "tottenham-vs-newcastle-united",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "matchTime": "2026-02-10T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "west-ham-vs-manchester-united",
     "team1": {
       "name": "West Ham",
