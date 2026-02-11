@@ -18,14 +18,19 @@
   ],
   "aston-villa-vs-brighton": [
     {
-      "name": "TNT SPORTS 1",
+      "name": "TNT SPORTS ",
       "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=tnt1"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=tnt3"
     },
     {
-      "name": "TNT SPORTS 1",
+      "name": "TNT SPORTS 3",
       "player": "pl1",
-      "stream_link": "tnt1"
+      "stream_link": "tnt3"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog2/"
     }
   ],
   "crystal-palace-vs-burnley": [
