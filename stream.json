@@ -35,14 +35,14 @@
   ],
   "brentford-vs-arsenal": [
     {
-      "name": "TNT SPORTS 1",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=tnt1"
-    },
-    {
       "name": "SKY PREMIER",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=skyp"
+    },
+    {
+      "name": "SKY EVENT ",
+      "player": "pl1",
+      "stream_link": "skyev1"
     },
     {
       "name": "Android/IOS",
