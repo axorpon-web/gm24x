@@ -15,22 +15,5 @@
       "player": "pl1",
       "stream_link": "wc"
     }
-  ],
-  "atletico-madrid-vs-barcelona": [
-    {
-      "name": "ITV",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=4"
-    },
-    {
-      "name": "Ziggo 2",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=2"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog2/"
-    }
   ]
 }
