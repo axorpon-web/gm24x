@@ -24,18 +24,5 @@
     },
     "matchTime": "2026-02-12T20:00:00.000Z",
     "endTime": ""
-  },
-  {
-    "id": "brentford-vs-arsenal",
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-02-12T20:00:00.000Z",
-    "endTime": ""
   }
 ]
