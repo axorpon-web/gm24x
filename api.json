@@ -22,9 +22,8 @@
       "name": "Salford City",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-V6K392oVMkhySR2cVQxt.png"
     },
-    "matchTime": "2026-02-14T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-14T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "aston-villa-vs-newcastle-united",
@@ -36,9 +35,8 @@
       "name": "Newcastle United",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
     },
-    "matchTime": "2026-02-14T17:45:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-14T17:45:00.000Z",
+    "endTime": ""
   },
   {
     "id": "al-fateh-fc-vs-al-nassr-fc",
@@ -50,9 +48,8 @@
       "name": "Al Nassr FC",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
     },
-    "matchTime": "2026-02-14T17:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-14T17:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "real-madrid-vs-real-sociedad",
@@ -64,8 +61,7 @@
       "name": "Real Sociedad",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
     },
-    "matchTime": "2026-02-14T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-14T20:00:00.000Z",
+    "endTime": ""
   }
 ]
