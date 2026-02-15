@@ -15,39 +15,5 @@
       "player": "pl1",
       "stream_link": "wc"
     }
-  ],
-  "al-fateh-fc-vs-al-nassr-fc": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=sportv"
-    }
-  ],
-  "real-madrid-vs-real-sociedad": [
-    {
-      "name": "Bein Sports 2",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=b2"
-    },
-    {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
-    },
-    {
-      "name": "Sky LaLiga",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=sl"
-    },
-    {
-      "name": "Fancode",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog2/"
-    }
   ]
 }
