@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "real-madrid-vs-real-sociedad",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "team2": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
-    },
-    "matchTime": "2026-02-14T20:00:00.000Z",
-    "endTime": ""
   }
 ]
