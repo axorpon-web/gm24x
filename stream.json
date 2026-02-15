@@ -1,14 +1,14 @@
 {
   "T20-World-Cup": [
     {
-      "name": "WC 2026 S1",
+      "name": "PRIME ENGLISH",
       "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=wc"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=pme"
     },
     {
-      "name": "Android/IOS",
+      "name": "PRIME HINDI",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/p?p=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=wc"
     },
     {
       "name": "WC 2026",
@@ -18,9 +18,19 @@
   ],
   "india-vs-pakistan": [
     {
-      "name": "Server 1",
+      "name": "PRIME ENGLISH",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=pme"
+    },
+    {
+      "name": "PRIME HINDI",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=wc"
+    },
+    {
+      "name": "WC 2026",
+      "player": "pl1",
+      "stream_link": "wc"
     }
   ]
 }
