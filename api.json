@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "manchester-city-vs-salford-city",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Salford City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-V6K392oVMkhySR2cVQxt.png"
-    },
-    "matchTime": "2026-02-14T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "aston-villa-vs-newcastle-united",
     "team1": {
       "name": "Aston Villa",
