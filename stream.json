@@ -31,6 +31,11 @@
       "name": "WC 2026",
       "player": "pl1",
       "stream_link": "wc"
+    },
+    {
+      "name": "Android/IOS SD",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/p?p=https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8"
     }
   ]
 }
