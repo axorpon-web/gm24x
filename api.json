@@ -22,8 +22,7 @@
       "name": "Barcelona",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
     },
-    "matchTime": "2026-02-16T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-16T20:00:00.000Z",
+    "endTime": ""
   }
 ]
