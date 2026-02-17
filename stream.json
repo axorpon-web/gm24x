@@ -19,8 +19,13 @@
   "galatasaray-vs-juventus": [
     {
       "name": "CBS",
-      "player": "pl1",
-      "stream_link": "cbsg"
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=cbsg"
+    },
+    {
+      "name": "CBS GOL",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=cbsgl"
     }
   ],
   "benfica-vs-real-madrid": [
