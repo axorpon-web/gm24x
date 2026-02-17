@@ -22,9 +22,8 @@
       "name": "Juventus",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
     },
-    "matchTime": "2026-02-17T17:45:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-17T17:45:00.000Z",
+    "endTime": ""
   },
   {
     "id": "benfica-vs-real-madrid",
@@ -36,9 +35,8 @@
       "name": "Real Madrid",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
     },
-    "matchTime": "2026-02-17T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-17T20:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "monaco-vs-paris-saint-germain",
@@ -50,8 +48,7 @@
       "name": "Paris Saint-Germain",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
     },
-    "matchTime": "2026-02-17T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-17T20:00:00.000Z",
+    "endTime": ""
   }
 ]
