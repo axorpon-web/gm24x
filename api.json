@@ -25,5 +25,19 @@
     "matchTime": "2026-02-17T17:45:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "benfica-vs-real-madrid",
+    "team1": {
+      "name": "Benfica",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
+    },
+    "matchTime": "2026-02-17T20:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
