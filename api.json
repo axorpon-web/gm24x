@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "girona-vs-barcelona",
-    "team1": {
-      "name": "Girona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "matchTime": "2026-02-16T20:00:00.000Z",
-    "endTime": ""
   }
 ]
