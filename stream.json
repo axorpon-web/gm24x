@@ -15,22 +15,5 @@
       "player": "pl1",
       "stream_link": "wc"
     }
-  ],
-  "girona-vs-barcelona": [
-    {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
-    },
-    {
-      "name": "Fancode",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
-    }
   ]
 }
