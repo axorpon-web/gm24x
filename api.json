@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "benfica-vs-real-madrid",
-    "team1": {
-      "name": "Benfica",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2026-02-17T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "monaco-vs-paris-saint-germain",
     "team1": {
       "name": "Monaco",
