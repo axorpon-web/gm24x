@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "monaco-vs-paris-saint-germain",
-    "team1": {
-      "name": "Monaco",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "matchTime": "2026-02-17T20:00:00.000Z",
-    "endTime": ""
   }
 ]
