@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "galatasaray-vs-juventus",
-    "team1": {
-      "name": "Galatasaray",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "matchTime": "2026-02-17T17:45:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "benfica-vs-real-madrid",
     "team1": {
       "name": "Benfica",
