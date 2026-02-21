@@ -39,5 +39,19 @@
     "matchTime": "2026-02-21T15:00:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "chelsea-vs-burnley",
+    "team1": {
+      "name": "Chelsea",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+    },
+    "team2": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "matchTime": "2026-02-21T15:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
