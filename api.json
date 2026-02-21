@@ -25,5 +25,19 @@
     "matchTime": "2026-02-21T15:00:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "brentford-vs-brighton",
+    "team1": {
+      "name": "Brentford",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
+    },
+    "team2": {
+      "name": "Brighton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+    },
+    "matchTime": "2026-02-21T15:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
