@@ -44,6 +44,11 @@
   ],
   "chelsea-vs-burnley": [
     {
+      "name": "FUBO ",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=Fubo4"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog3/"
