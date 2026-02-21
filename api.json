@@ -67,5 +67,19 @@
     "matchTime": "2026-02-21T17:30:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "manchester-city-vs-newcastle-united",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "matchTime": "2026-02-21T20:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
