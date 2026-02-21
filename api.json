@@ -22,9 +22,8 @@
       "name": "Leeds",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
     },
-    "matchTime": "2026-02-21T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "brentford-vs-brighton",
@@ -36,9 +35,8 @@
       "name": "Brighton",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
     },
-    "matchTime": "2026-02-21T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "chelsea-vs-burnley",
@@ -50,9 +48,8 @@
       "name": "Burnley",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
     },
-    "matchTime": "2026-02-21T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "west-ham-vs-bournemouth",
@@ -64,9 +61,8 @@
       "name": "Bournemouth",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
     },
-    "matchTime": "2026-02-21T17:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T17:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-newcastle-united",
@@ -78,9 +74,8 @@
       "name": "Newcastle United",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
     },
-    "matchTime": "2026-02-21T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T20:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "real-sociedad-vs-real-oviedo",
@@ -92,9 +87,8 @@
       "name": "Real Oviedo",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
     },
-    "matchTime": "2026-02-21T13:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T13:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "osasuna-vs-real-madrid",
@@ -106,9 +100,8 @@
       "name": "Real Madrid",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
     },
-    "matchTime": "2026-02-21T17:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T17:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "atletico-madrid-vs-espanyol",
@@ -120,8 +113,7 @@
       "name": "Espanyol",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png"
     },
-    "matchTime": "2026-02-21T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-21T20:00:00.000Z",
+    "endTime": ""
   }
 ]
