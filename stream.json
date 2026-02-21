@@ -72,7 +72,7 @@
     {
       "name": "Server 1",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://dash-hex.pages.dev/ADB?c="
     }
   ],
   "osasuna-vs-real-madrid": [
@@ -90,6 +90,11 @@
       "name": "PREMIER SPORTS 2",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=pm2"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog2/"
     }
   ],
   "atletico-madrid-vs-espanyol": [
