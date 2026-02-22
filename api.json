@@ -22,9 +22,8 @@
       "name": "Wolverhampton Wanderers",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
     },
-    "matchTime": "2026-02-22T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-22T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "nottingham-forest-vs-liverpool",
@@ -36,9 +35,8 @@
       "name": "Liverpool",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
     },
-    "matchTime": "2026-02-22T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-22T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "sunderland-vs-fulham",
@@ -50,9 +48,8 @@
       "name": "Fulham",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
     },
-    "matchTime": "2026-02-22T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-22T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "tottenham-vs-arsenal",
@@ -64,9 +61,8 @@
       "name": "Arsenal",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
     },
-    "matchTime": "2026-02-22T16:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-22T16:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "barcelona-vs-levante",
@@ -78,8 +74,7 @@
       "name": "Levante",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O-dLKNu7kxdqPWfH2EpDy.png"
     },
-    "matchTime": "2026-02-22T15:15:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-22T15:15:00.000Z",
+    "endTime": ""
   }
 ]
