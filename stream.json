@@ -59,6 +59,11 @@
       "name": "Bein Sports 1",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=bein1"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog4/"
     }
   ]
 }
