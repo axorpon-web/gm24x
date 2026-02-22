@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "al-nassr-fc-vs-al-hazem",
-    "team1": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "team2": {
-      "name": "Al Hazem",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VZtEayXIvHec3yob5W95H.png"
-    },
-    "matchTime": "2026-02-21T19:00:00.000Z",
-    "endTime": ""
   }
 ]
