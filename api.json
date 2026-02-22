@@ -13,45 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "real-sociedad-vs-real-oviedo",
-    "team1": {
-      "name": "Real Sociedad",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
-    },
-    "team2": {
-      "name": "Real Oviedo",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
-    },
-    "matchTime": "2026-02-21T13:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "osasuna-vs-real-madrid",
-    "team1": {
-      "name": "Osasuna",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
-    },
-    "matchTime": "2026-02-21T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "atletico-madrid-vs-espanyol",
-    "team1": {
-      "name": "Atletico Madrid",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png"
-    },
-    "team2": {
-      "name": "Espanyol",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png"
-    },
-    "matchTime": "2026-02-21T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-nassr-fc-vs-al-hazem",
     "team1": {
       "name": "Al Nassr FC",
