@@ -13,32 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "west-ham-vs-bournemouth",
-    "team1": {
-      "name": "West Ham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
-    },
-    "matchTime": "2026-02-21T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "manchester-city-vs-newcastle-united",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "team2": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "matchTime": "2026-02-21T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "real-sociedad-vs-real-oviedo",
     "team1": {
       "name": "Real Sociedad",
