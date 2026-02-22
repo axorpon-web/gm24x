@@ -46,9 +46,19 @@
   ],
   "barcelona-vs-levante": [
     {
-      "name": "Server 1",
+      "name": "LaLiga Tv",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
+    },
+    {
+      "name": "PREMIER SPORTS 2",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=pm2"
+    },
+    {
+      "name": "Bein Sports 2",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=b2"
     }
   ]
 }
