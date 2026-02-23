@@ -16,23 +16,6 @@
       "stream_link": "wc"
     }
   ],
-  "tottenham-vs-arsenal": [
-    {
-      "name": "FUBO ",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=Fubo4"
-    },
-    {
-      "name": "FUBO - Change Quality",
-      "player": "pl1",
-      "stream_link": "Fubo4"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog1/"
-    }
-  ],
   "barcelona-vs-levante": [
     {
       "name": "LaLiga Tv",
