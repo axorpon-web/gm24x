@@ -13,32 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "nottingham-forest-vs-liverpool",
-    "team1": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png"
-    },
-    "matchTime": "2026-02-22T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "sunderland-vs-fulham",
-    "team1": {
-      "name": "Sunderland",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
-    },
-    "team2": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "matchTime": "2026-02-22T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "tottenham-vs-arsenal",
     "team1": {
       "name": "Tottenham",
