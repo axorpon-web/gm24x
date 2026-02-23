@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "tottenham-vs-arsenal",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-02-22T16:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "barcelona-vs-levante",
     "team1": {
       "name": "Barcelona",
