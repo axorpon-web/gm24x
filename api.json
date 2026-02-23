@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "crystal-palace-vs-wolverhampton-wanderers",
-    "team1": {
-      "name": "Crystal Palace",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
-    },
-    "team2": {
-      "name": "Wolverhampton Wanderers",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png"
-    },
-    "matchTime": "2026-02-22T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "nottingham-forest-vs-liverpool",
     "team1": {
       "name": "Nottingham Forest",
