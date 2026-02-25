@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "barcelona-vs-levante",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Levante",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O-dLKNu7kxdqPWfH2EpDy.png"
-    },
-    "matchTime": "2026-02-22T15:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "juventus-vs-galatasaray",
     "team1": {
       "name": "Juventus",
@@ -35,9 +22,8 @@
       "name": "Galatasaray",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png"
     },
-    "matchTime": "2026-02-25T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-25T20:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "paris-saint-germain-vs-monaco",
@@ -49,9 +35,8 @@
       "name": "Monaco",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
     },
-    "matchTime": "2026-02-25T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-25T20:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "real-madrid-vs-benfica",
@@ -63,8 +48,7 @@
       "name": "Benfica",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
     },
-    "matchTime": "2026-02-25T20:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-25T20:00:00.000Z",
+    "endTime": ""
   }
 ]
