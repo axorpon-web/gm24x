@@ -32,6 +32,11 @@
   ],
   "real-madrid-vs-benfica": [
     {
+      "name": "TNT SPORTS 1",
+      "player": "pl1",
+      "stream_link": "tnt1"
+    },
+    {
       "name": "Bein Sports 3",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=bein3"
