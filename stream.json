@@ -45,8 +45,13 @@
     },
     {
       "name": "SportDigital",
+      "player": "pl1",
+      "stream_link": "sptdg"
+    },
+    {
+      "name": "FS TV 2",
       "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=sptdg"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=fs2"
     }
   ]
 }
