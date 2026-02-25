@@ -39,9 +39,14 @@
   ],
   "al-najma-vs-al-nassr-fc": [
     {
-      "name": "Server 1",
+      "name": "PRO",
       "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://jumpshare.com/embed/e4dsEEIxdkmWkSbT34dn"
+      "stream_link": "https://gm24x.pages.dev/ggg?id=testing001"
+    },
+    {
+      "name": "SportDigital",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=sptdg"
     }
   ]
 }
