@@ -16,28 +16,6 @@
       "stream_link": "wc"
     }
   ],
-  "barcelona-vs-levante": [
-    {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
-    },
-    {
-      "name": "Bein Sports 1",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=bein1"
-    },
-    {
-      "name": "Android/IOS",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://gametimes.plus/home/blog4/"
-    }
-  ],
   "juventus-vs-galatasaray": [
     {
       "name": "Server 1",
