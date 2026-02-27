@@ -29,22 +29,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog2/"
     }
-  ],
-  "real-madrid-vs-benfica": [
-    {
-      "name": "TNT SPORTS 1",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=tnt1"
-    },
-    {
-      "name": "Bein Sports 3",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=bein3"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog4/"
-    }
   ]
 }
