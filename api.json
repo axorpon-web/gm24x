@@ -11,31 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "juventus-vs-galatasaray",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
-    },
-    "team2": {
-      "name": "Galatasaray",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png"
-    },
-    "matchTime": "2026-02-25T20:00:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "paris-saint-germain-vs-monaco",
-    "team1": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-    },
-    "team2": {
-      "name": "Monaco",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
-    },
-    "matchTime": "2026-02-25T20:00:00.000Z",
-    "endTime": ""
   }
 ]
