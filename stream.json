@@ -2,18 +2,27 @@
   "T20-World-Cup": [
     {
       "name": "PRIME ENGLISH",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=pme"
-    },
-    {
-      "name": "PRIME HINDI",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=wc"
-    },
-    {
-      "name": "WC 2026",
       "player": "pl1",
-      "stream_link": "wc"
+      "stream_link": "pme"
+    },
+    {
+      "name": "PRIME ENGLISH",
+      "player": "f1",
+      "stream_link": "https://hex-seven.vercel.app/drmplay.html?mpd=https%3A%2F%2Flive-pv-ta.amazon.fastly-edge.com%2Flhr-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fwwrmho82pc%2Fout%2Fv1%2Fd7130f460d41486ea7e8e3eb45f0522f%2Fcenc.mpd&keyid=baafdb8ebcbbc0655332291da6f121da&key=60ac892e0ea0b2c46fc6837c97ed641a"
+    }
+  ],
+  "juventus-vs-galatasaray": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog3/"
+    }
+  ],
+  "paris-saint-germain-vs-monaco": [
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog2/"
     }
   ]
 }
