@@ -46,22 +46,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog4/"
     }
-  ],
-  "al-najma-vs-al-nassr-fc": [
-    {
-      "name": "PRO",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=testing001"
-    },
-    {
-      "name": "SportDigital",
-      "player": "pl1",
-      "stream_link": "sptdg"
-    },
-    {
-      "name": "FS TV 2",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=fs2"
-    }
   ]
 }
