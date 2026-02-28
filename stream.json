@@ -46,16 +46,26 @@
       "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
     },
     {
-      "name": "Server 1",
+      "name": "Android/IOS 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
+    },
+    {
+      "name": "Android/IOS 2",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
     }
   ],
   "newcastle-united-vs-everton": [
     {
-      "name": "Server 1",
+      "name": "Android/IOS 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/3.php"
+    },
+    {
+      "name": "Android/IOS 2 ",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog3/"
     }
   ],
   "leeds-vs-manchester-city": [
