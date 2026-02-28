@@ -77,6 +77,11 @@
   ],
   "barcelona-vs-villarreal": [
     {
+      "name": "FancodeX",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=fcaq"
+    },
+    {
       "name": "Fancode",
       "player": "pl1",
       "stream_link": "fc"
