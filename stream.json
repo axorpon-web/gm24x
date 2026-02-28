@@ -70,14 +70,14 @@
   ],
   "leeds-vs-manchester-city": [
     {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
-    },
-    {
       "name": "PSN 2",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
+    },
+    {
+      "name": "Server 1",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
     },
     {
       "name": "Server 2",
