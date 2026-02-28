@@ -26,19 +26,6 @@
     "endTime": ""
   },
   {
-    "id": "barcelona-vs-villarreal",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png"
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
-    },
-    "matchTime": "2026-02-28T15:15:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-fayha-vs-al-nassr-fc",
     "team1": {
       "name": "Al-Fayha",
