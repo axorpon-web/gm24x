@@ -22,9 +22,8 @@
       "name": "Brentford",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
     },
-    "matchTime": "2026-02-28T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "bournemouth-vs-sunderland",
@@ -36,9 +35,8 @@
       "name": "Sunderland",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
     },
-    "matchTime": "2026-02-28T12:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T12:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "liverpool-vs-west-ham",
@@ -50,9 +48,8 @@
       "name": "West Ham",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
     },
-    "matchTime": "2026-02-28T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-everton",
@@ -64,9 +61,8 @@
       "name": "Everton",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
     },
-    "matchTime": "2026-02-28T15:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T15:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "leeds-vs-manchester-city",
@@ -78,9 +74,8 @@
       "name": "Manchester City",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
     },
-    "matchTime": "2026-02-28T17:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T17:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "barcelona-vs-villarreal",
@@ -92,8 +87,7 @@
       "name": "Villarreal",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
     },
-    "matchTime": "2026-02-28T15:15:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-02-28T15:15:00.000Z",
+    "endTime": ""
   }
 ]
