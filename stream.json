@@ -77,9 +77,9 @@
   ],
   "barcelona-vs-villarreal": [
     {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
+      "name": "Fancode",
+      "player": "pl1",
+      "stream_link": "fc"
     },
     {
       "name": "LaLiga Tv Quality ",
