@@ -82,6 +82,11 @@
       "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
     },
     {
+      "name": "LaLiga Tv Quality ",
+      "player": "pl1",
+      "stream_link": "lltv"
+    },
+    {
       "name": "Fancode",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
