@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "newcastle-united-vs-everton",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-    },
-    "matchTime": "2026-02-28T15:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "leeds-vs-manchester-city",
     "team1": {
       "name": "Leeds",
