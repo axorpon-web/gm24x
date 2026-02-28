@@ -11,5 +11,19 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
+  },
+  {
+    "id": "burnley-vs-brentford",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "team2": {
+      "name": "Brentford",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png"
+    },
+    "matchTime": "2026-02-28T15:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
