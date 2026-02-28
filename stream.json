@@ -25,30 +25,6 @@
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog2/"
     }
   ],
-  "bournemouth-vs-sunderland": [
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
-    }
-  ],
-  "liverpool-vs-west-ham": [
-    {
-      "name": "PSN 2",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
-    },
-    {
-      "name": "Android/IOS 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
-    },
-    {
-      "name": "Android/IOS 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
-    }
-  ],
   "newcastle-united-vs-everton": [
     {
       "name": "Android/IOS 1",
