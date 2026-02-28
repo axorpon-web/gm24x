@@ -41,6 +41,11 @@
   ],
   "liverpool-vs-west-ham": [
     {
+      "name": "PSN 2",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
