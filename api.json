@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "al-fayha-vs-al-nassr-fc",
-    "team1": {
-      "name": "Al-Fayha",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RMFlWbfYHStXNf2R3SdGx.png"
-    },
-    "team2": {
-      "name": "Al Nassr FC",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png"
-    },
-    "matchTime": "2026-02-28T19:00:00.000Z",
-    "endTime": ""
   }
 ]
