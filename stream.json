@@ -24,29 +24,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog2/"
     }
-  ],
-  "leeds-vs-manchester-city": [
-    {
-      "name": "PSN 2",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
-    },
-    {
-      "name": "Server 1",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
-    },
-    {
-      "name": "Server 2",
-      "player": "f1",
-      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
-    }
-  ],
-  "al-fayha-vs-al-nassr-fc": [
-    {
-      "name": "PRO",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=testing001"
-    }
   ]
 }
