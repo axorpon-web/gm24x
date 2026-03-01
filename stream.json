@@ -49,6 +49,11 @@
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
+    },
+    {
+      "name": "Server 2",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog1/"
     }
   ],
   "arsenal-vs-chelsea": [
