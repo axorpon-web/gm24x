@@ -46,6 +46,11 @@
   ],
   "manchester-united-vs-crystal-palace": [
     {
+      "name": "PSN 2",
+      "player": "pl1",
+      "stream_link": "psn2"
+    },
+    {
       "name": "Server 1",
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://sportlive.plus/soccer/1.php"
