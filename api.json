@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "fulham-vs-tottenham",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
-    },
-    "matchTime": "2026-03-01T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "manchester-united-vs-crystal-palace",
     "team1": {
       "name": "Manchester United",
