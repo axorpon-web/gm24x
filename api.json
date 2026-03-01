@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "leeds-vs-manchester-city",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png"
-    },
-    "matchTime": "2026-02-28T17:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "al-fayha-vs-al-nassr-fc",
     "team1": {
       "name": "Al-Fayha",
