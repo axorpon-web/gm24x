@@ -13,19 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "brighton-vs-nottingham-forest",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
-    },
-    "matchTime": "2026-03-01T14:00:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "fulham-vs-tottenham",
     "team1": {
       "name": "Fulham",
