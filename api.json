@@ -22,9 +22,8 @@
       "name": "Nottingham Forest",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
-    "matchTime": "2026-03-01T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-01T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "fulham-vs-tottenham",
@@ -36,9 +35,8 @@
       "name": "Tottenham",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png"
     },
-    "matchTime": "2026-03-01T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-01T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "manchester-united-vs-crystal-palace",
@@ -50,9 +48,8 @@
       "name": "Crystal Palace",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
     },
-    "matchTime": "2026-03-01T14:00:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-01T14:00:00.000Z",
+    "endTime": ""
   },
   {
     "id": "arsenal-vs-chelsea",
@@ -64,8 +61,7 @@
       "name": "Chelsea",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
-    "matchTime": "2026-03-01T16:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-01T16:30:00.000Z",
+    "endTime": ""
   }
 ]
