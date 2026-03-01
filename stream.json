@@ -45,8 +45,8 @@
   "fulham-vs-tottenham": [
     {
       "name": "PSN 1",
-      "player": "pl1",
-      "stream_link": "psn1"
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=psn1"
     },
     {
       "name": "Server 1",
