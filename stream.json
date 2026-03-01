@@ -62,8 +62,8 @@
   "manchester-united-vs-crystal-palace": [
     {
       "name": "PSN 2",
-      "player": "pl1",
-      "stream_link": "psn2"
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=psn2"
     },
     {
       "name": "Server 1",
