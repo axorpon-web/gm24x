@@ -1,14 +1,14 @@
 {
   "T20-World-Cup": [
     {
-      "name": "willow",
-      "player": "pl1",
-      "stream_link": "wc"
-    },
-    {
-      "name": "willow",
+      "name": "Willow",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=wc"
+    },
+    {
+      "name": "Willow Quality ",
+      "player": "pl1",
+      "stream_link": "wc"
     },
     {
       "name": "Android/IOS",
