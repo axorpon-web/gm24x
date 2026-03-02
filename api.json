@@ -11,18 +11,5 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
-  },
-  {
-    "id": "arsenal-vs-chelsea",
-    "team1": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2026-03-01T16:30:00.000Z",
-    "endTime": ""
   }
 ]
