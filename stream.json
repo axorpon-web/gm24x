@@ -71,6 +71,11 @@
   "barcelona-vs-atletico-madrid": [
     {
       "name": "PREMIER SPORTS ",
+      "player": "pl1",
+      "stream_link": "prem1"
+    },
+    {
+      "name": "PREMIER SPORTS ",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
     },
