@@ -70,7 +70,12 @@
   ],
   "barcelona-vs-atletico-madrid": [
     {
-      "name": "PREMIER SPORTS ",
+      "name": "Fancode",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
+    },
+    {
+      "name": "PREMIER SPORTS QC",
       "player": "pl1",
       "stream_link": "prem1"
     },
@@ -78,11 +83,6 @@
       "name": "PREMIER SPORTS ",
       "player": "f1",
       "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
-    },
-    {
-      "name": "Fancode",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
     },
     {
       "name": "Android/IOS",
