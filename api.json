@@ -38,5 +38,19 @@
     "matchTime": "2026-03-03T19:30:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "everton-vs-burnley",
+    "team1": {
+      "name": "Everton",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
+    },
+    "team2": {
+      "name": "Burnley",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png"
+    },
+    "matchTime": "2026-03-03T19:30:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
