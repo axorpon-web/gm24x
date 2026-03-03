@@ -61,8 +61,18 @@
   "barcelona-vs-atletico-madrid": [
     {
       "name": "PREMIER SPORTS ",
-      "player": "pl1",
-      "stream_link": "prem1"
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
+    },
+    {
+      "name": "Fancode",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
+    },
+    {
+      "name": "Android/IOS",
+      "player": "f1",
+      "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog5/"
     }
   ]
 }
