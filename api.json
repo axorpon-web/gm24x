@@ -22,9 +22,8 @@
       "name": "Chelsea",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
     },
-    "matchTime": "2026-03-04T19:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-04T19:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "brighton-vs-arsenal",
@@ -36,9 +35,8 @@
       "name": "Arsenal",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
     },
-    "matchTime": "2026-03-04T19:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-04T19:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "fulham-vs-west-ham",
@@ -50,9 +48,8 @@
       "name": "West Ham",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png"
     },
-    "matchTime": "2026-03-04T19:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-04T19:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "manchester-city-vs-nottingham-forest",
@@ -64,9 +61,8 @@
       "name": "Nottingham Forest",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png"
     },
-    "matchTime": "2026-03-04T19:30:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-04T19:30:00.000Z",
+    "endTime": ""
   },
   {
     "id": "newcastle-united-vs-manchester-united",
@@ -78,8 +74,7 @@
       "name": "Manchester United",
       "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
     },
-    "matchTime": "2026-03-04T20:15:00+00:00",
-    "endTime": "",
-    "sport": "Football"
+    "matchTime": "2026-03-04T20:15:00.000Z",
+    "endTime": ""
   }
 ]
