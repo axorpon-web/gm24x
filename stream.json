@@ -54,6 +54,11 @@
   "manchester-city-vs-nottingham-forest": [
     {
       "name": "TNT SPORTS 4",
+      "player": "f1",
+      "stream_link": "https://gm24x.pages.dev/ggg?id=tnt4"
+    },
+    {
+      "name": "TNT SPORTS 4 QC",
       "player": "pl1",
       "stream_link": "tnt4"
     },
