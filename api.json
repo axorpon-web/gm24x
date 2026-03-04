@@ -67,5 +67,19 @@
     "matchTime": "2026-03-04T19:30:00+00:00",
     "endTime": "",
     "sport": "Football"
+  },
+  {
+    "id": "newcastle-united-vs-manchester-united",
+    "team1": {
+      "name": "Newcastle United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
+    },
+    "team2": {
+      "name": "Manchester United",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
+    },
+    "matchTime": "2026-03-04T20:15:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
