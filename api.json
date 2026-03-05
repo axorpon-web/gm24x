@@ -13,32 +13,6 @@
     "endTime": ""
   },
   {
-    "id": "aston-villa-vs-chelsea",
-    "team1": {
-      "name": "Aston Villa",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-    },
-    "matchTime": "2026-03-04T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
-    "id": "brighton-vs-arsenal",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png"
-    },
-    "matchTime": "2026-03-04T19:30:00.000Z",
-    "endTime": ""
-  },
-  {
     "id": "fulham-vs-west-ham",
     "team1": {
       "name": "Fulham",
