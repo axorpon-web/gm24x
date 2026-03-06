@@ -11,5 +11,19 @@
     },
     "matchTime": "2026-02-07T11:30:00.000",
     "endTime": ""
+  },
+  {
+    "id": "celta-vigo-vs-real-madrid",
+    "team1": {
+      "name": "Celta Vigo",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png"
+    },
+    "matchTime": "2026-03-06T20:00:00+00:00",
+    "endTime": "",
+    "sport": "Football"
   }
 ]
