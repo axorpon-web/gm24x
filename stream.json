@@ -29,27 +29,5 @@
       "player": "f1",
       "stream_link": "https://dash-hex.pages.dev/ADB?c=https://areagame.net/home/blog2/"
     }
-  ],
-  "celta-vigo-vs-real-madrid": [
-    {
-      "name": "LaLiga Tv",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=lltv"
-    },
-    {
-      "name": "LaLiga TV Quality ",
-      "player": "pl1",
-      "stream_link": "lltv"
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=prem1"
-    },
-    {
-      "name": "Fancode",
-      "player": "f1",
-      "stream_link": "https://gm24x.pages.dev/ggg?id=fc"
-    }
   ]
 }
